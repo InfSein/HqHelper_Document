@@ -1,10 +1,11 @@
 {
   "Version": {
-    "DataVersion": 1117,
+    "DataVersion": 1118,
     "SupportFfPatch": "6.10",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
     "FeedBackLink": "https://bbs.nga.cn/post.php?action=reply&_newui&fid=698&tid=31596099",
+    "UpdateDetailLink": "https://bbs.nga.cn/read.php?tid=31596099&authorid=41369816&page=e",
     "CriticalNotice": "",
     "AdditionalTexts": " - 欢迎回复NGA的主题来提出需求……",
     "ExtendedHelpers": {
