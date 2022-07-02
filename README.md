@@ -1,5 +1,10 @@
 # 6.x HqHelper
 
+## GitHub Page
+
+用于提供更新支持。
+https://infsein.github.io/HqHelper_Document/
+
 ## HqHelper程序
 
 一个面向生产采集玩家的晓月篇(6.05~6.40) HQ装备制作计算器。
