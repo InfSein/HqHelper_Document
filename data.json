@@ -1,6 +1,6 @@
 {
   "Version": {
-    "DataVersion": 1118,
+    "DataVersion": 1121,
     "SupportFfPatch": "6.10",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
@@ -15431,6 +15431,8 @@
         "id": 0,
         "type": 0,
         "name": "placeholder",
+        "jpname": "",
+        "enname": "",
         "foreignName": "",
         "description": ""
       },
@@ -15438,6 +15440,8 @@
         "id": 1,
         "type": 1,
         "name": "球粒陨石锭",
+        "jpname": "コンドライトインゴット",
+        "enname": "Chondrite Ingot",
         "foreignName": "Chondrite Ingot",
         "description": "锻铁匠/铸甲匠 88级配方。"
       },
@@ -15445,6 +15449,8 @@
         "id": 2,
         "type": 1,
         "name": "星点石英",
+        "jpname": "スタークォーツ",
+        "enname": "Star Quartz",
         "foreignName": "Star Quartz",
         "description": "雕金匠 88级配方。"
       },
@@ -15452,6 +15458,8 @@
         "id": 3,
         "type": 1,
         "name": "迷彩绒",
+        "jpname": "カエアンビロード",
+        "enname": "AR-Caean Velvet",
         "foreignName": "AR-Caean Velvet",
         "description": "裁衣匠 88级配方。"
       },
@@ -15459,6 +15467,8 @@
         "id": 4,
         "type": 1,
         "name": "完满木材",
+        "jpname": "インテグラル材",
+        "enname": "Integral Lumber",
         "foreignName": "Integral Lumber",
         "description": "刻木匠 88级配方。"
       },
@@ -15466,6 +15476,8 @@
         "id": 5,
         "type": 1,
         "name": "锰钢附魔墨水",
+        "jpname": "マンガン・エンチャントインク",
+        "enname": "Enchanted Manganese Ink",
         "foreignName": "Enchanted Manganese Ink",
         "description": "炼金术士 87级配方。"
       },
@@ -15473,6 +15485,8 @@
         "id": 6,
         "type": 1,
         "name": "蛇牛革",
+        "jpname": "オピオタウロスレザー",
+        "enname": "Ophiotauros Leather",
         "foreignName": "Ophiotauros Leather",
         "description": "制革匠 88级配方。"
       },
@@ -15480,6 +15494,8 @@
         "id": 7,
         "type": 2,
         "name": "晓月灵砂",
+        "jpname": "暁月の霊砂",
+        "enname": "Moonlight Aethersand",
         "foreignName": "暁月の霊砂/Moonlight Aethersand",
         "description": "晓月灵砂/暁月の霊砂/Moonlight Aethersand\n精选收藏品获得\n[ET 00:00~04:00] 使用采矿工在[叹息海]的(21.6,34.7)采集收藏品形态的‘月石英’。\n[ET 08:00~12:00] 使用园艺工在[迷津]的(9.9,34.8)采集收藏品形态的‘水瓶土’。"
       },
@@ -15487,6 +15503,8 @@
         "id": 8,
         "type": 2,
         "name": "巨岩灵砂",
+        "jpname": "巨岩の霊砂",
+        "enname": "Endstone Aethersand",
         "foreignName": "巨岩の霊砂/Endstone Aethersand",
         "description": "巨岩灵砂/巨岩の霊砂/Endstone Aethersand\n精选收藏品获得\n[ET 20:00~24:00] 使用采矿工在[加雷马]的(10.1,15.3)采集收藏品形态的‘暗性岩’。"
       },
@@ -15494,6 +15512,8 @@
         "id": 9,
         "type": 2,
         "name": "巨树灵砂",
+        "jpname": "巨樹の霊砂",
+        "enname": "Endwood Aethersand",
         "foreignName": "巨樹の霊砂/Endwood Aethersand",
         "description": "巨树灵砂/巨樹の霊砂/Endwood Aethersand\n精选收藏品获得\n[ET 12:00~16:00] 使用园艺工在[萨维奈岛]的(25.2,14.4)采集收藏品形态的‘棕榈碎皮’。"
       },
@@ -15501,6 +15521,8 @@
         "id": 10,
         "type": 2,
         "name": "巨海灵砂",
+        "jpname": "巨海の霊砂",
+        "enname": "Endtide Aethersand",
         "foreignName": "巨海の霊砂/Endtide Aethersand",
         "description": "巨海灵砂/巨海の霊砂/Endtide Aethersand\n精选收藏品获得\n在[红玉海]的镜岛东部(约39.0,32.1)叉鱼，获取收藏品形态的‘奥萨德圆鳍鱼’。\n在[天外天垓]的(7.3,22.5)使用[灰蚯蚓]垂钓，获取收藏品形态的‘噬卵者’。"
       },
@@ -15508,76 +15530,96 @@
         "id": 11,
         "type": 3,
         "name": "藤春木木材",
+        "jpname": "メンピサン材",
+        "enname": "Mempisang Lumber",
         "foreignName": "Mempisang Lumber",
-        "description": "刻木星级配方。\n每份需要：\n[藤春木原木]*4\n[萨维奈木贼草]*2"
+        "description": "藤春木木材/メンピサン材/Mempisang Lumber\n刻木星级配方。\n每份需要：\n[藤春木原木]*4\n[萨维奈木贼草]*2"
       },
       {
         "id": 12,
         "type": 3,
         "name": "月精金锭",
+        "jpname": "ルナアダマンインゴット",
+        "enname": "Lunar Adamantite Ingot",
         "foreignName": "Lunar Adamantite Ingot",
-        "description": "锻铁/铸甲星级配方。\n每份需要：\n[月精金矿]*4\n[遗烈乡骸炭]*2"
+        "description": "月精金锭/ルナアダマンインゴット/Lunar Adamantite Ingot\n锻铁/铸甲星级配方。\n每份需要：\n[月精金矿]*4\n[遗烈乡骸炭]*2"
       },
       {
         "id": 13,
         "type": 3,
         "name": "铑金锭",
+        "jpname": "ロジウムインゴット",
+        "enname": "Rhodium Ingot",
         "foreignName": "Rhodium Ingot",
-        "description": "雕金星级配方。\n每份需要：\n[铑金沙]*4\n[遗烈乡研磨剂]*2"
+        "description": "铑金锭/ロジウムインゴット/Rhodium Ingot\n雕金星级配方。\n每份需要：\n[铑金沙]*4\n[遗烈乡研磨剂]*2"
       },
       {
         "id": 14,
         "type": 3,
         "name": "两栖犀革",
+        "jpname": "アミノドンレザー",
+        "enname": "Amynodon Leather",
         "foreignName": "Amynodon Leather",
-        "description": "制革星级配方。\n每份需要：\n[北州苦灰石]*4\n[两栖犀的粗皮]*2"
+        "description": "两栖犀革/アミノドンレザー/Amynodon Leather\n制革星级配方。\n每份需要：\n[北洲苦灰石]*4\n[两栖犀的粗皮]*2"
       },
       {
         "id": 15,
         "type": 3,
         "name": "黄金丝绸",
+        "jpname": "ゴールドシルク",
+        "enname": "Golden Silk",
         "foreignName": "Golden Silk",
-        "description": "裁缝星级配方。\n每份需要：\n[金茧]*4\n[萨维奈绢丝]*2"
+        "description": "黄金丝绸/ゴールドシルク/Golden Silk\n裁缝星级配方。\n每份需要：\n[金茧]*4\n[萨维奈绢丝]*2"
       },
       {
         "id": 16,
         "type": 4,
         "name": "6级刚力",
         "fullname": "6级刚力之幻水",
+        "jpname": "剛力の幻水G6",
+        "enname": "Grade 6 Strength Alkahest",
         "foreignName": "",
-        "description": "6级刚力之幻水\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n甜香荠*1\n[迷途草]*1，天水*1，晓月灵砂*1"
+        "description": "6级刚力之幻水/剛力の幻水G6/Grade 6 Strength Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n甜香荠*1\n[迷途草]*1，天水*1，晓月灵砂*1"
       },
       {
         "id": 17,
         "type": 4,
         "name": "6级巧力",
         "fullname": "6级巧力之幻水",
+        "jpname": "眼力の幻水G6",
+        "enname": "Grade 6 Dexterity Alkahest",
         "foreignName": "",
-        "description": "6级巧力之幻水\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n光芒大丁草*1\n[迷途草]*1，天水*1，晓月灵砂*1"
+        "description": "6级巧力之幻水/眼力の幻水G6/Grade 6 Dexterity Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n光芒大丁草*1\n[迷途草]*1，天水*1，晓月灵砂*1"
       },
       {
         "id": 18,
         "type": 4,
         "name": "6级耐力",
         "fullname": "6级耐力之幻水",
+        "jpname": "活力の幻水G6",
+        "enname": "Grade 6 Vitality Alkahest",
         "foreignName": "",
-        "description": "6级耐力之幻水\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n青柠罗勒草*1\n[迷途草]*1，天水*1，晓月灵砂*1"
+        "description": "6级耐力之幻水/活力の幻水G6/Grade 6 Vitality Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n青柠罗勒草*1\n[迷途草]*1，天水*1，晓月灵砂*1"
       },
       {
         "id": 19,
         "type": 4,
         "name": "6级智力",
         "fullname": "6级智力之幻水",
+        "jpname": "知力の幻水G6",
+        "enname": "Grade 6 Intelligence Alkahest",
         "foreignName": "",
-        "description": "6级智力之幻水\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n邪衣薰衣草*1\n[迷途草]*1，天水*1，晓月灵砂*1"
+        "description": "6级智力之幻水/知力の幻水G6/Grade 6 Intelligence Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n邪衣薰衣草*1\n[迷途草]*1，天水*1，晓月灵砂*1"
       },
       {
         "id": 20,
         "type": 4,
         "name": "6级意力",
         "fullname": "6级意力之幻水",
+        "jpname": "心力の幻水G6",
+        "enname": "Grade 6 Mind Alkahest",
         "foreignName": "",
-        "description": "6级意力之幻水\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n虎百合*1\n[迷途草]*1，天水*1，晓月灵砂*1"
+        "description": "6级意力之幻水/心力の幻水G6/Grade 6 Mind Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n虎百合*1\n[迷途草]*1，天水*1，晓月灵砂*1"
       },
       {
         "id": 31,
@@ -15736,6 +15778,8 @@
         "id": 1,
         "type": 1,
         "name": "球粒陨石锭",
+        "jpname": "コンドライトインゴット",
+        "enname": "Chondrite Ingot",
         "foreignName": "Chondrite Ingot",
         "description": "锻铁匠/铸甲匠 88级配方。"
       },
@@ -15743,6 +15787,8 @@
         "id": 2,
         "type": 1,
         "name": "星点石英",
+        "jpname": "スタークォーツ",
+        "enname": "Star Quartz",
         "foreignName": "Star Quartz",
         "description": "雕金匠 88级配方。"
       },
@@ -15750,6 +15796,8 @@
         "id": 3,
         "type": 1,
         "name": "迷彩绒",
+        "jpname": "カエアンビロード",
+        "enname": "AR-Caean Velvet",
         "foreignName": "AR-Caean Velvet",
         "description": "裁衣匠 88级配方。"
       },
@@ -15757,6 +15805,8 @@
         "id": 4,
         "type": 1,
         "name": "完满木材",
+        "jpname": "インテグラル材",
+        "enname": "Integral Lumber",
         "foreignName": "Integral Lumber",
         "description": "刻木匠 88级配方。"
       },
@@ -15764,6 +15814,8 @@
         "id": 5,
         "type": 1,
         "name": "锰钢附魔墨水",
+        "jpname": "マンガン・エンチャントインク",
+        "enname": "Enchanted Manganese Ink",
         "foreignName": "Enchanted Manganese Ink",
         "description": "炼金术士 87级配方。"
       },
@@ -15771,6 +15823,8 @@
         "id": 6,
         "type": 1,
         "name": "蛇牛革",
+        "jpname": "オピオタウロスレザー",
+        "enname": "Ophiotauros Leather",
         "foreignName": "Ophiotauros Leather",
         "description": "制革匠 88级配方。"
       },
@@ -15778,6 +15832,8 @@
         "id": 7,
         "type": 2,
         "name": "晓月灵砂",
+        "jpname": "暁月の霊砂",
+        "enname": "Moonlight Aethersand",
         "foreignName": "暁月の霊砂/Moonlight Aethersand",
         "description": "晓月灵砂/暁月の霊砂/Moonlight Aethersand\n精选收藏品获得\n[ET 00:00~04:00] 使用采矿工在[叹息海]的(21.6,34.7)采集收藏品形态的‘月石英’。\n[ET 08:00~12:00] 使用园艺工在[迷津]的(9.9,34.8)采集收藏品形态的‘水瓶土’。"
       },
@@ -15785,6 +15841,8 @@
         "id": 8,
         "type": 2,
         "name": "巨岩灵砂",
+        "jpname": "巨岩の霊砂",
+        "enname": "Endstone Aethersand",
         "foreignName": "巨岩の霊砂/Endstone Aethersand",
         "description": "巨岩灵砂/巨岩の霊砂/Endstone Aethersand\n精选收藏品获得\n[ET 20:00~24:00] 使用采矿工在[加雷马]的(10.1,15.3)采集收藏品形态的‘暗性岩’。"
       },
@@ -15792,6 +15850,8 @@
         "id": 9,
         "type": 2,
         "name": "巨树灵砂",
+        "jpname": "巨樹の霊砂",
+        "enname": "Endwood Aethersand",
         "foreignName": "巨樹の霊砂/Endwood Aethersand",
         "description": "巨树灵砂/巨樹の霊砂/Endwood Aethersand\n精选收藏品获得\n[ET 12:00~16:00] 使用园艺工在[萨维奈岛]的(25.2,14.4)采集收藏品形态的‘棕榈碎皮’。"
       },
@@ -15799,6 +15859,8 @@
         "id": 10,
         "type": 2,
         "name": "巨海灵砂",
+        "jpname": "巨海の霊砂",
+        "enname": "Endtide Aethersand",
         "foreignName": "巨海の霊砂/Endtide Aethersand",
         "description": "巨海灵砂/巨海の霊砂/Endtide Aethersand\n精选收藏品获得\n在[红玉海]的镜岛东部(约39.0,32.1)叉鱼，获取收藏品形态的‘奥萨德圆鳍鱼’。\n在[天外天垓]的(7.3,22.5)使用[灰蚯蚓]垂钓，获取收藏品形态的‘噬卵者’。"
       },
@@ -15806,42 +15868,54 @@
         "id": 11,
         "type": 3,
         "name": "藤春木木材",
+        "jpname": "メンピサン材",
+        "enname": "Mempisang Lumber",
         "foreignName": "Mempisang Lumber",
-        "description": "刻木星级配方。\n每份需要：\n[藤春木原木]*4\n[萨维奈木贼草]*2"
+        "description": "藤春木木材/メンピサン材/Mempisang Lumber\n刻木星级配方。\n每份需要：\n[藤春木原木]*4\n[萨维奈木贼草]*2"
       },
       {
         "id": 12,
         "type": 3,
         "name": "月精金锭",
+        "jpname": "ルナアダマンインゴット",
+        "enname": "Lunar Adamantite Ingot",
         "foreignName": "Lunar Adamantite Ingot",
-        "description": "锻铁/铸甲星级配方。\n每份需要：\n[月精金矿]*4\n[遗烈乡骸炭]*2"
+        "description": "月精金锭/ルナアダマンインゴット/Lunar Adamantite Ingot\n锻铁/铸甲星级配方。\n每份需要：\n[月精金矿]*4\n[遗烈乡骸炭]*2"
       },
       {
         "id": 13,
         "type": 3,
         "name": "铑金锭",
+        "jpname": "ロジウムインゴット",
+        "enname": "Rhodium Ingot",
         "foreignName": "Rhodium Ingot",
-        "description": "雕金星级配方。\n每份需要：\n[铑金沙]*4\n[遗烈乡研磨剂]*2"
+        "description": "铑金锭/ロジウムインゴット/Rhodium Ingot\n雕金星级配方。\n每份需要：\n[铑金沙]*4\n[遗烈乡研磨剂]*2"
       },
       {
         "id": 14,
         "type": 3,
         "name": "两栖犀革",
+        "jpname": "アミノドンレザー",
+        "enname": "Amynodon Leather",
         "foreignName": "Amynodon Leather",
-        "description": "制革星级配方。\n每份需要：\n[北州苦灰石]*4\n[两栖犀的粗皮]*2"
+        "description": "两栖犀革/アミノドンレザー/Amynodon Leather\n制革星级配方。\n每份需要：\n[北洲苦灰石]*4\n[两栖犀的粗皮]*2"
       },
       {
         "id": 15,
         "type": 3,
         "name": "黄金丝绸",
+        "jpname": "ゴールドシルク",
+        "enname": "Golden Silk",
         "foreignName": "Golden Silk",
-        "description": "裁缝星级配方。\n每份需要：\n[金茧]*4\n[萨维奈绢丝]*2"
+        "description": "黄金丝绸/ゴールドシルク/Golden Silk\n裁缝星级配方。\n每份需要：\n[金茧]*4\n[萨维奈绢丝]*2"
       },
       {
         "id": 16,
         "type": 3,
         "name": "稳定炼金药",
-        "foreignName": "",
+        "jpname": "不揮発性錬金薬",
+        "enname": "Immutable Solution",
+        "foreignName": "不揮発性錬金薬",
         "description": ""
       },
       {
@@ -15849,6 +15923,8 @@
         "type": 4,
         "name": "新纤维",
         "fullname": "拉扎罕纤维",
+        "jpname": "サベネアンファイバー",
+        "enname": "Hannish Fiber",
         "foreignName": "",
         "description": "拉扎罕纤维/サベネアンファイバー/Hannish Fiber\n版本6.1新增90级★★炼金术士配方\n每份需要：萨维奈玉米*4，稳定炼金药*1，晓月灵砂*1."
       },
@@ -15857,6 +15933,8 @@
         "type": 4,
         "name": "新赛黄晶",
         "fullname": "艾布拉纳赛黄晶",
+        "jpname": "エブラーナダンビュライト",
+        "enname": "Eblan Danburite",
         "foreignName": "",
         "description": "艾布拉纳赛黄晶/エブラーナダンビュライト/Eblan Danburite\n版本6.1新增90级★★雕金匠配方\n每份需要：艾布拉纳赛黄晶原石*4，稳定炼金药*1，晓月灵砂*1."
       },
@@ -15864,6 +15942,8 @@
         "id": 19,
         "type": 4,
         "name": "无",
+        "jpname": "",
+        "enname": "",
         "foreignName": "",
         "description": ""
       },
@@ -15871,6 +15951,8 @@
         "id": 20,
         "type": 4,
         "name": "无",
+        "jpname": "",
+        "enname": "",
         "foreignName": "",
         "description": ""
       },
@@ -15878,6 +15960,8 @@
         "id": 21,
         "type": 4,
         "name": "无",
+        "jpname": "",
+        "enname": "",
         "foreignName": "",
         "description": ""
       },
@@ -16102,6 +16186,8 @@
       {
         "patch": 0,
         "name": "贤人汉堡",
+        "jpname": "賢人バーガー",
+        "enname": "Archon Burger",
         "description": "贤人汉堡/賢人バーガー/Archon Burger\n>(HQ) 90直击、54信念\n>>需要:[高级牛肉], 天然香料, 冰山莴苣, 星外洋葱, 麝牛奶, 裸麦粉*2",
         "materials": [
           {
@@ -16133,6 +16219,8 @@
       {
         "patch": 0,
         "name": "奶汁牛肉",
+        "jpname": "ビーフストロガノフ",
+        "enname": "Beef Stroganoff",
         "description": "奶汁牛肉/ビーフストロガノフ/Beef Stroganoff\n>(HQ) 90技速、54直击\n>>需要:[高级牛肉], 天然香料, 冰山莴苣, 巨人新薯, 麝牛奶, 紫苏油*2",
         "materials": [
           {
@@ -16164,6 +16252,8 @@
       {
         "patch": 0,
         "name": "南瓜香烩时蔬",
+        "jpname": "パンプキンラタトゥイユ",
+        "enname": "Pumpkin Ratatouille",
         "description": "南瓜香烩时蔬/パンプキンラタトゥイユ/Pumpkin Ratatouille\n>(HQ) 90暴击、54技速\n>>需要:[巨型南瓜], 天然香料, 大蒜, 黄瓜, 血番茄 , 紫苏油",
         "materials": [
           {
@@ -16195,6 +16285,8 @@
       {
         "patch": 0,
         "name": "南瓜浓汤",
+        "jpname": "パンプキンポタージュ",
+        "enname": "Pumpkin Potage",
         "description": "南瓜浓汤/パンプキンポタージュ/Pumpkin Potage\n>(HQ) 90信念、54暴击\n>>需要:[巨型南瓜], 天然香料, 星外洋葱, 天水,麝牛奶, 北洋食盐*2",
         "materials": [
           {
@@ -16226,6 +16318,8 @@
       {
         "patch": 0,
         "name": "白桃汁",
+        "jpname": "ピーチジュース",
+        "enname": "Peach Juice",
         "description": "白桃汁/ピーチジュース/Peach Juice\n>(HQ) 90信仰、54信念\n>>需要:[白桃], 天然香料, 艾布拉纳小扁豆, 欧薄荷, 无花果, 棕榈糖*2",
         "materials": [
           {
@@ -16257,6 +16351,8 @@
       {
         "patch": 0,
         "name": "白桃挞",
+        "jpname": "ピーチタルト",
+        "enname": "Peach Tart",
         "description": "白桃挞/ピーチタルト/Peach Tart\n>(HQ) 90咏速、54信仰\n>>需要:[白桃], 天然香料, 天水, 厄尔庇斯之鸟蛋, 麝牛奶, 裸麦粉*2",
         "materials": [
           {
@@ -16288,6 +16384,8 @@
       {
         "patch": 0,
         "name": "无花果饼干",
+        "jpname": "シューコンクッキー",
+        "enname": "Sykon Cookie",
         "description": "无花果饼干/シューコンクッキー/Sykon Cookie\n>(HQ) 90咏速、54直击\n>>需要:[高级桂皮], 天然香料, 无花果, 厄尔庇斯之鸟蛋, 麝牛奶, 裸麦粉*2",
         "materials": [
           {
@@ -16319,6 +16417,8 @@
       {
         "patch": 0,
         "name": "萨维奈奶茶",
+        "jpname": "サベネアンチャイ",
+        "enname": "Thavnairian Chai",
         "description": "萨维奈奶茶/サベネアンチャイ/Thavnairian Chai\n>(HQ) 90暴击、54咏速\n>>需要:[高级桂皮], 天然香料, 欧薄荷, 高山茶叶, 麝牛奶, 棕榈糖*2",
         "materials": [
           {
@@ -16350,6 +16450,8 @@
       {
         "patch": 0,
         "name": "扇贝沙拉",
+        "jpname": "スカロップサラダ",
+        "enname": "Scallop Salad",
         "description": "扇贝沙拉/スカロップサラダ/Scallop Salad\n>(HQ) 90坚韧、54信念\n>>需要:[高级扇贝], 天然香料, 萨维奈彩椒, 冰山莴苣, 星外洋葱, 紫苏油*2",
         "materials": [
           {
@@ -16381,6 +16483,8 @@
       {
         "patch": 0,
         "name": "扇贝咖喱",
+        "jpname": "スカロップカレー",
+        "enname": "Scallop Curry",
         "description": "扇贝咖喱/スカロップカレー/Scallop Curry\n>(HQ) 90信念、54坚韧\n>>需要:[高级扇贝], 天然香料, 邦巴米, 古代肉豆蔻, 天水, 椰奶*2",
         "materials": [
           {
@@ -16413,6 +16517,8 @@
       {
         "patch": 1,
         "name": "炖鱿鱼圈",
+        "jpname": "カラマリ・リピエーニ",
+        "enname": "Calamari Ripieni",
         "description": "炖鱿鱼圈/カラマリ・リピエーニ/Calamari Ripieni\n>[HQ属性] 制作力+26%(最多82), 作业精度+5%(最多120)\n>>制作配方：\n>>>萨维奈鱿鱼/サベネアンカラマリ/Thavnairian Calamari * 1\n>>>紫苏油*2，加雷马奶酪*1，星外洋葱*1，血番茄*1，晓月灵砂*1",
         "materials": [
           {
@@ -16444,6 +16550,8 @@
       {
         "patch": 1,
         "name": "炸鱿鱼圈",
+        "jpname": "カラマラキア・ティガニタ",
+        "enname": "Kalamarakia Tiganita",
         "description": "炸鱿鱼圈/カラマラキア・ティガニタ/Kalamarakia Tiganita\n>[HQ属性] 鉴别力+7%(最多124), 获得力+3%(最多64)\n>>制作配方：\n>>>萨维奈鱿鱼/サベネアンカラマリ/Thavnairian Calamari * 1\n>>>紫苏油*1，裸麦粉*2，卷叶芹*1，小柠檬*1，晓月灵砂*1",
         "materials": [
           {
@@ -16477,168 +16585,234 @@
       {
         "id": 0,
         "scrip": 0,
-        "name": "placeholder"
+        "name": "placeholder",
+        "jpname": "",
+        "enname": ""
       },
       {
         "id": 1,
         "scrip": 15,
-        "name": "高级牛肉"
+        "name": "高级牛肉",
+        "jpname": "高級牛肉",
+        "enname": "Butterbeef"
       },
       {
         "id": 2,
         "scrip": 15,
-        "name": "巨型南瓜"
+        "name": "巨型南瓜",
+        "jpname": "ジャイアントパンプキン",
+        "enname": "Giant Pumpkin"
       },
       {
         "id": 3,
         "scrip": 15,
-        "name": "白桃"
+        "name": "白桃",
+        "jpname": "白桃",
+        "enname": "White Peach"
       },
       {
         "id": 4,
         "scrip": 15,
-        "name": "高级桂皮"
+        "name": "高级桂皮",
+        "jpname": "高級シナモン",
+        "enname": "Subtle Cinnamon Sticks"
       },
       {
         "id": 5,
         "scrip": 15,
-        "name": "高级扇贝"
+        "name": "高级扇贝",
+        "jpname": "高級帆立",
+        "enname": "Glass Scallop"
       },
       {
         "id": 6,
         "scrip": 0,
-        "name": "天然香料"
+        "name": "天然香料",
+        "jpname": "天然香辛料",
+        "enname": "Potent Spice"
       },
       {
         "id": 7,
         "scrip": 0,
-        "name": "冰山莴苣"
+        "name": "冰山莴苣",
+        "jpname": "アイスバーグレタス",
+        "enname": "Iceberg Lettuce"
       },
       {
         "id": 8,
         "scrip": 0,
-        "name": "星外洋葱"
+        "name": "星外洋葱",
+        "jpname": "エイリアンオニオン",
+        "enname": "Alien Onion"
       },
       {
         "id": 9,
         "scrip": 0,
-        "name": "麝牛奶"
+        "name": "麝牛奶",
+        "jpname": "オウヴィボスの乳",
+        "enname": "Ovibos Milk"
       },
       {
         "id": 10,
         "scrip": 0,
-        "name": "裸麦粉"
+        "name": "裸麦粉",
+        "jpname": "黒麦粉",
+        "enname": "Dark Rye Flour"
       },
       {
         "id": 11,
         "scrip": 0,
-        "name": "巨人新薯"
+        "name": "巨人新薯",
+        "jpname": "ジャイアントポポト",
+        "enname": "Giant Popoto"
       },
       {
         "id": 12,
         "scrip": 0,
-        "name": "紫苏油"
+        "name": "紫苏油",
+        "jpname": "ペリラオイル",
+        "enname": "Perilla Oil"
       },
       {
         "id": 13,
         "scrip": 0,
-        "name": "大蒜"
+        "name": "大蒜",
+        "jpname": "ガーリック",
+        "enname": "Garlean Garlic"
       },
       {
         "id": 14,
         "scrip": 0,
-        "name": "黄瓜"
+        "name": "黄瓜",
+        "jpname": "キューカンバー",
+        "enname": "Cucumber"
       },
       {
         "id": 15,
         "scrip": 0,
-        "name": "血番茄"
+        "name": "血番茄",
+        "jpname": "ブラッドトマト",
+        "enname": "Blood Tomato"
       },
       {
         "id": 16,
         "scrip": 0,
-        "name": "天水"
+        "name": "天水",
+        "jpname": "天水",
+        "enname": "Ambrosial Water"
       },
       {
         "id": 17,
         "scrip": 0,
-        "name": "北洋食盐"
+        "name": "北洋食盐",
+        "jpname": "北洋食塩",
+        "enname": "Northern Sea Salt"
       },
       {
         "id": 18,
         "scrip": 0,
-        "name": "艾布拉纳小扁豆"
+        "name": "艾布拉纳小扁豆",
+        "jpname": "エブラーナレンティル",
+        "enname": "Eblan Lentils"
       },
       {
         "id": 19,
         "scrip": 0,
-        "name": "欧薄荷"
+        "name": "欧薄荷",
+        "jpname": "ペパーミント",
+        "enname": "Peppermint"
       },
       {
         "id": 20,
         "scrip": 0,
-        "name": "无花果"
+        "name": "无花果",
+        "jpname": "シューコン",
+        "enname": "Sykon"
       },
       {
         "id": 21,
         "scrip": 0,
-        "name": "棕榈糖"
+        "name": "棕榈糖",
+        "jpname": "パームシュガー",
+        "enname": "Palm Sugar"
       },
       {
         "id": 22,
         "scrip": 0,
-        "name": "厄尔庇斯之鸟蛋"
+        "name": "厄尔庇斯之鸟蛋",
+        "jpname": "エッグ・オブ・エルピス",
+        "enname": "Egg of Elpis"
       },
       {
         "id": 23,
         "scrip": 0,
-        "name": "高山茶叶"
+        "name": "高山茶叶",
+        "jpname": "シデリティス茶葉",
+        "enname": "Sideritis Leaves"
       },
       {
         "id": 24,
         "scrip": 0,
-        "name": "萨维奈彩椒"
+        "name": "萨维奈彩椒",
+        "jpname": "サベネアンパプリカ",
+        "enname": "Thavnairian Paprika"
       },
       {
         "id": 25,
         "scrip": 0,
-        "name": "邦巴米"
+        "name": "邦巴米",
+        "jpname": "ボンバライス",
+        "enname": "Bomba Rice"
       },
       {
         "id": 26,
         "scrip": 0,
-        "name": "古代肉豆蔻"
+        "name": "古代肉豆蔻",
+        "jpname": "エルダーナツメグ",
+        "enname": "Elder Nutmeg Seeds"
       },
       {
         "id": 27,
         "scrip": 0,
-        "name": "椰奶"
+        "name": "椰奶",
+        "jpname": "ココナッツミルク",
+        "enname": "Coconut Milk"
       },
 
       {
         "id": 28,
         "scrip": 0,
-        "name": "(6.1)萨维奈鱿鱼/サベネアンカラマリ"
+        "name": "(6.1)萨维奈鱿鱼/サベネアンカラマリ",
+        "jpname": "サベネアンカラマリ",
+        "enname": "Thavnairian Calamari"
       },
       {
         "id": 29,
         "scrip": 0,
-        "name": "加雷马奶酪"
+        "name": "加雷马奶酪",
+        "jpname": "ガレアンチーズ",
+        "enname": "Garlean Cheese"
       },
       {
         "id": 30,
         "scrip": 0,
-        "name": "卷叶芹"
+        "name": "卷叶芹",
+        "jpname": "カーリーパセリ",
+        "enname": "Curly Parsley"
       },
       {
         "id": 31,
         "scrip": 0,
-        "name": "小柠檬"
+        "name": "小柠檬",
+        "jpname": "リトルレモン",
+        "enname": "Lemonette"
       },
       {
         "id": 32,
         "scrip": 0,
-        "name": "晓月灵砂"
+        "name": "晓月灵砂",
+        "jpname": "暁月の霊砂",
+        "enname": "Moonlight Aethersand"
       }
     ]
   },
@@ -16648,6 +16822,8 @@
       {
         "patch": 0,
         "name": "5级刚力之幻药",
+        "jpname": "剛力の幻薬G5",
+        "enname": "Grade 5 Tincture of Strength",
         "description": "5级刚力之幻药/剛力の幻薬G5/Grade 5 Tincture of Strength\n>属性：(HQ) 力量+10%（上限172）\n>适用职业：防护职业、龙骑士、钐镰客、武士、武僧\n>>制作配方：\n>>>天水×2, 贝尔卡楠的树液×2, 甜香荠×2, 晓月灵砂×2",
         "materials": [
           {
@@ -16671,6 +16847,8 @@
       {
         "patch": 0,
         "name": "5级巧力之幻药",
+        "jpname": "眼力の幻薬G5",
+        "enname": "Grade 5 Tincture of Dexterity",
         "description": "5级巧力之幻药/眼力の幻薬G5/Grade 5 Tincture of Dexterity\n>属性：(HQ) 灵巧+10%（上限172）\n>适用职业：忍者、吟游诗人、机工士、舞者\n>>制作配方：\n>>>天水×2, 贝尔卡楠的树液×2, 光芒大丁草×2, 晓月灵砂×2",
         "materials": [
           {
@@ -16694,6 +16872,8 @@
       {
         "patch": 0,
         "name": "5级耐力之幻药",
+        "jpname": "活力の幻薬G5",
+        "enname": "Grade 5 Tincture of Vitality",
         "description": "5级耐力之幻药/活力の幻薬G5/Grade 5 Tincture of Vitality\n>属性：(HQ) 耐力+10%（上限172）\n>适用职业：不推荐\n>>制作配方：\n>>>天水×2, 贝尔卡楠的树液×2, 青柠罗勒草×2, 晓月灵砂×2",
         "materials": [
           {
@@ -16717,6 +16897,8 @@
       {
         "patch": 0,
         "name": "5级智力之幻药",
+        "jpname": "知力の幻薬G5",
+        "enname": "Grade 5 Tincture of Intelligence",
         "description": "5级智力之幻药/知力の幻薬G5/Grade 5 Tincture of Intelligence\n>属性：(HQ) 智力+10%（上限172）\n>适用职业：黑魔法师、召唤师、赤魔法师\n>>制作配方：\n>>>天水×2, 贝尔卡楠的树液×2, 邪衣薰衣草×2, 晓月灵砂×2",
         "materials": [
           {
@@ -16740,6 +16922,8 @@
       {
         "patch": 0,
         "name": "5级意力之幻药",
+        "jpname": "心力の幻薬G5",
+        "enname": "Grade 5 Tincture of Mind",
         "description": "5级意力之幻药/心力の幻薬G5/Grade 5 Tincture of Mind\n>属性：(HQ) 精神+10%（上限172）\n>适用职业：治疗职业\n>>制作配方：\n>>>天水×2, 贝尔卡楠的树液×2, 虎百合×2, 晓月灵砂×2",
         "materials": [
           {
@@ -16765,6 +16949,8 @@
       {
         "patch": 1,
         "name": "6级刚力之幻药",
+        "jpname": "剛力の幻薬G6",
+        "enname": "Grade 6 Tincture of Strength",
         "description": "6级刚力之幻药/剛力の幻薬G6/Grade 6 Tincture of Strength\n>属性：(HQ) 力量+10%（上限189）\n>适用职业：防护职业、龙骑士、钐镰客、武士、武僧\n>>制作配方：\n>>>极硬水×1, 5级刚力之幻水×1, 晓月灵砂×1",
         "materials": [
           {
@@ -16784,6 +16970,8 @@
       {
         "patch": 1,
         "name": "6级巧力之幻药",
+        "jpname": "眼力の幻薬G6",
+        "enname": "Grade 6 Tincture of Dexterity",
         "description": "6级巧力之幻药/眼力の幻薬G6/Grade 6 Tincture of Dexterity\n>属性：(HQ) 灵巧+10%（上限189）\n>适用职业：忍者、吟游诗人、机工士、舞者\n>>制作配方：\n>>>极硬水×1, 5级巧力之幻水×1, 晓月灵砂×1",
         "materials": [
           {
@@ -16803,6 +16991,8 @@
       {
         "patch": 1,
         "name": "6级耐力之幻药",
+        "jpname": "活力の幻薬G6",
+        "enname": "Grade 6 Tincture of Vitality",
         "description": "6级耐力之幻药/活力の幻薬G6/Grade 6 Tincture of Vitality\n>属性：(HQ) 耐力+10%（上限189）\n>适用职业：不推荐\n>>制作配方：\n>>>极硬水×1, 5级耐力之幻水×1, 晓月灵砂×1",
         "materials": [
           {
@@ -16822,6 +17012,8 @@
       {
         "patch": 1,
         "name": "6级智力之幻药",
+        "jpname": "知力の幻薬G6",
+        "enname": "Grade 6 Tincture of Intelligence",
         "description": "6级智力之幻药/知力の幻薬G6/Grade 6 Tincture of Intelligence\n>属性：(HQ) 智力+10%（上限189）\n>适用职业：黑魔法师、召唤师、赤魔法师\n>>制作配方：\n>>>极硬水×1, 5级智力之幻水×1, 晓月灵砂×1",
         "materials": [
           {
@@ -16841,6 +17033,8 @@
       {
         "patch": 1,
         "name": "6级意力之幻药",
+        "jpname": "心力の幻薬G6",
+        "enname": "Grade 6 Tincture of Mind",
         "description": "6级意力之幻药/心力の幻薬G6/Grade 6 Tincture of Mind\n>属性：(HQ) 精神+10%（上限189）\n>适用职业：治疗职业\n>>制作配方：\n>>>极硬水×1, 5级意力之幻水×1, 晓月灵砂×1",
         "materials": [
           {
@@ -16862,77 +17056,107 @@
       {
         "id": 0,
         "type": -1,
-        "name": "placeholder"
+        "name": "placeholder",
+        "jpname": "",
+        "enname": ""
       },
       {
         "id": 1,
         "type": 0,
-        "name": "天水"
+        "name": "天水",
+        "jpname": "天水",
+        "enname": "Ambrosial Water"
       },
       {
         "id": 2,
         "type": 0,
-        "name": "贝尔卡楠的树液"
+        "name": "贝尔卡楠的树液",
+        "jpname": "ベルカナの樹液",
+        "enname": "Berkanan Sap"
       },
       {
         "id": 3,
         "type": 0,
-        "name": "晓月灵砂"
+        "name": "晓月灵砂",
+        "jpname": "暁月の霊砂",
+        "enname": "Moonlight Aethersand"
       },
       {
         "id": 4,
         "type": 0,
-        "name": "甜香荠"
+        "name": "甜香荠",
+        "jpname": "スイートアリッサム",
+        "enname": "Sweet Alyssum"
       },
       {
         "id": 5,
         "type": 0,
-        "name": "光芒大丁草"
+        "name": "光芒大丁草",
+        "jpname": "ライトガーベラ",
+        "enname": "Light Gerbera"
       },
       {
         "id": 6,
         "type": 0,
-        "name": "青柠罗勒草"
+        "name": "青柠罗勒草",
+        "jpname": "ライムバジル",
+        "enname": "Lime Basil"
       },
       {
         "id": 7,
         "type": 0,
-        "name": "邪衣薰衣草"
+        "name": "邪衣薰衣草",
+        "jpname": "ピナータラベンダー",
+        "enname": "Fernleaf Lavender"
       },
       {
         "id": 8,
         "type": 0,
-        "name": "虎百合"
+        "name": "虎百合",
+        "jpname": "タイガーリリー",
+        "enname": "Tiger Lily"
       },
       {
         "id": 9,
         "type": 0,
-        "name": "极硬水"
+        "name": "极硬水",
+        "jpname": "極硬水",
+        "enname": "Stonehard Water"
       },
       {
         "id": 10,
         "type": 1,
-        "name": "5级刚力之幻水"
+        "name": "5级刚力之幻水",
+        "jpname": "剛力の幻水G5",
+        "enname": "Grade 5 Strength Alkahest"
       },
       {
         "id": 11,
         "type": 1,
-        "name": "5级巧力之幻水"
+        "name": "5级巧力之幻水",
+        "jpname": "眼力の幻水G5",
+        "enname": "Grade 5 Dexterity Alkahest"
       },
       {
         "id": 12,
         "type": 1,
-        "name": "5级耐力之幻水"
+        "name": "5级耐力之幻水",
+        "jpname": "活力の幻水G5",
+        "enname": "Grade 5 Vitality Alkahest"
       },
       {
         "id": 13,
         "type": 1,
-        "name": "5级智力之幻水"
+        "name": "5级智力之幻水",
+        "jpname": "知力の幻水G5",
+        "enname": "Grade 5 Intelligence Alkahest"
       },
       {
         "id": 14,
         "type": 1,
-        "name": "5级意力之幻水"
+        "name": "5级意力之幻水",
+        "jpname": "心力の幻水G5",
+        "enname": "Grade 5 Mind Alkahest"
       }
     ]
   }
