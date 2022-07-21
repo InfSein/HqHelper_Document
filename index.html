@@ -1,7 +1,23 @@
 <html>
+  <head>
+    <script>
+      function goPage(url) {
+        window.open(url, '_blank')
+      }
+    </script>
+  </head>
   <body>
-    <a href="https://infsein.github.io/HqHelper_Document/data_ptr.json"> DataPtr </a> <br>
-    <a href="https://infsein.github.io/HqHelper_Document/data.json"> Data </a> <br>
-    <a href="https://infsein.github.io/HqHelper_Document/updaterInfo.html"> updaterInfo </a> <br>
+    <div class='hrefs'>
+      <a href="https://infsein.github.io/HqHelper_Document/data_ptr.json"> DataPtr </a> 
+      <button onclick='goPage("https://github.com/InfSein/HqHelper_Document/edit/main/data_ptr.json")'>Edit</button>
+    </div>
+    <div class='hrefs'>
+      <a href="https://infsein.github.io/HqHelper_Document/data.json"> Data </a> 
+      <button onclick='goPage("https://github.com/InfSein/HqHelper_Document/edit/main/data.json")'>Edit</button>
+    </div>
+    <div class='hrefs'>
+      <a href="https://infsein.github.io/HqHelper_Document/updaterInfo.html"> updaterInfo </a> 
+      <button onclick='goPage("https://github.com/InfSein/HqHelper_Document/edit/main/updaterInfo.html")'>Edit</button>
+    </div>
   </body>
 </html>
