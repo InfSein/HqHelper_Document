@@ -1,6 +1,6 @@
 {
   "LatestDataVersion": 1121,
-  "OnMaintenance": true,
+  "OnMaintenance": false,
   "PatchInfo": "此数据版本优化修复了一些文本，并添加了用于实现1.1.15版本新增功能的字段。",
   "DetailLink": "https://bbs.nga.cn/read.php?pid=622915387"
 }
