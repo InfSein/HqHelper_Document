@@ -18,7 +18,7 @@ https://infsein.github.io/HqHelper_Document/
 
 ## 此仓库: HqHelper_Document
 
-![Github stars](https://img.shields.io/github/issues/InfSein/HqHelper_Document.svg) ![Github stars](https://img.shields.io/github/forks/InfSein/HqHelper_Document.svg) ![Github stars](https://img.shields.io/github/stars/InfSein/HqHelper_Document.svg)
+![Github stars](https://img.shields.io/github/issues/InfSein/HqHelper_Document.svg) ![Github stars](https://img.shields.io/github/forks/InfSein/HqHelper_Document.svg) ![Github stars](https://img.shields.io/github/stars/InfSein/HqHelper_Document.svg) [![GitHub all releases](https://img.shields.io/github/downloads/InfSein/HqHelper_Document/total)](https://github.com/InfSein/HqHelper_Document/releases) 
 
 此项目并未包含项目源码，仅作更新判断支持和传输文件之用。
 
