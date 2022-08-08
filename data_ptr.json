@@ -1,6 +1,6 @@
 {
-  "LatestDataVersion": 1123,
-  "OnMaintenance": false,
-  "PatchInfo": "此数据版本添加了一些用于实现1.1.17版本新增功能的字段。",
-  "DetailLink": "https://bbs.nga.cn/read.php?pid=628289840"
+  "LatestDataVersion": 1124,
+  "OnMaintenance": true,
+  "PatchInfo": "道具名更新为国服文本。使用日语/英语道具名的用户不建议更新。",
+  "DetailLink": "https://bbs.nga.cn/read.php?pid=630782384"
 }
