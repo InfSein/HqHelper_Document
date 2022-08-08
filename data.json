@@ -1,6 +1,6 @@
 {
   "Version": {
-    "DataVersion": 1123,
+    "DataVersion": 1124,
     "SupportFfPatch": "6.10",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
@@ -15912,7 +15912,7 @@
       {
         "id": 16,
         "type": 3,
-        "name": "稳定炼金药",
+        "name": "非挥发性炼金药",
         "jpname": "不揮発性錬金薬",
         "enname": "Immutable Solution",
         "foreignName": "不揮発性錬金薬",
@@ -15922,11 +15922,11 @@
         "id": 17,
         "type": 4,
         "name": "新纤维",
-        "fullname": "拉扎罕纤维",
+        "fullname": "萨维奈纤维",
         "jpname": "サベネアンファイバー",
         "enname": "Hannish Fiber",
         "foreignName": "",
-        "description": "拉扎罕纤维/サベネアンファイバー/Hannish Fiber\n版本6.1新增90级★★炼金术士配方\n每份需要：萨维奈玉米*4，稳定炼金药*1，晓月灵砂*1."
+        "description": "萨维奈纤维/サベネアンファイバー/Hannish Fiber\n版本6.1新增90级★★炼金术士配方\n每份需要：萨维奈玉米*4，非挥发性炼金药*1，晓月灵砂*1."
       },
       {
         "id": 18,
@@ -15936,7 +15936,7 @@
         "jpname": "エブラーナダンビュライト",
         "enname": "Eblan Danburite",
         "foreignName": "",
-        "description": "艾布拉纳赛黄晶/エブラーナダンビュライト/Eblan Danburite\n版本6.1新增90级★★雕金匠配方\n每份需要：艾布拉纳赛黄晶原石*4，稳定炼金药*1，晓月灵砂*1."
+        "description": "艾布拉纳赛黄晶/エブラーナダンビュライト/Eblan Danburite\n版本6.1新增90级★★雕金匠配方\n每份需要：艾布拉纳赛黄晶原石*4，非挥发性炼金药*1，晓月灵砂*1."
       },
       {
         "id": 19,
@@ -16157,16 +16157,16 @@
       {
         "id": 16,
         "type": 2,
-        "name": "稳定炼金药",
-        "need": "稳定炼金药",
+        "name": "非挥发性炼金药",
+        "need": "非挥发性炼金药",
         "needCount": 1,
         "totalAllagan": 125
       },
       {
         "id": 17,
         "type": 2,
-        "name": "拉扎罕纤维",
-        "need": "稳定炼金药",
+        "name": "萨维奈纤维",
+        "need": "非挥发性炼金药",
         "needCount": 1,
         "totalAllagan": 125
       },
@@ -16174,7 +16174,7 @@
         "id": 18,
         "type": 2,
         "name": "艾布拉纳赛黄晶",
-        "need": "稳定炼金药",
+        "need": "非挥发性炼金药",
         "needCount": 1,
         "totalAllagan": 125
       }
@@ -16516,10 +16516,10 @@
       // 6.10
       {
         "patch": 1,
-        "name": "炖鱿鱼圈",
+        "name": "镶烤墨鱼",
         "jpname": "カラマリ・リピエーニ",
         "enname": "Calamari Ripieni",
-        "description": "炖鱿鱼圈/カラマリ・リピエーニ/Calamari Ripieni\n>[HQ属性] 制作力+26%(最多82), 作业精度+5%(最多120)\n>>制作配方：\n>>>萨维奈鱿鱼/サベネアンカラマリ/Thavnairian Calamari * 1\n>>>紫苏油*2，加雷马奶酪*1，星外洋葱*1，血番茄*1，晓月灵砂*1",
+        "description": "镶烤墨鱼/カラマリ・リピエーニ/Calamari Ripieni\n>[HQ属性] 制作力+26%(最多82), 作业精度+5%(最多120)\n>>制作配方：\n>>>萨维奈卡拉墨鱼/サベネアンカラマリ/Thavnairian Calamari * 1\n>>>紫苏油*2，加雷马奶酪*1，星外洋葱*1，血番茄*1，晓月灵砂*1",
         "materials": [
           {
             "id": 28,
@@ -16552,7 +16552,7 @@
         "name": "炸鱿鱼圈",
         "jpname": "カラマラキア・ティガニタ",
         "enname": "Kalamarakia Tiganita",
-        "description": "炸鱿鱼圈/カラマラキア・ティガニタ/Kalamarakia Tiganita\n>[HQ属性] 鉴别力+7%(最多124), 获得力+3%(最多64)\n>>制作配方：\n>>>萨维奈鱿鱼/サベネアンカラマリ/Thavnairian Calamari * 1\n>>>紫苏油*1，裸麦粉*2，卷叶芹*1，小柠檬*1，晓月灵砂*1",
+        "description": "炸鱿鱼圈/カラマラキア・ティガニタ/Kalamarakia Tiganita\n>[HQ属性] 鉴别力+7%(最多124), 获得力+3%(最多64)\n>>制作配方：\n>>>萨维奈卡拉墨鱼/サベネアンカラマリ/Thavnairian Calamari * 1\n>>>紫苏油*1，裸麦粉*2，卷叶芹*1，小柠檬*1，晓月灵砂*1",
         "materials": [
           {
             "id": 28,
@@ -16782,7 +16782,7 @@
       {
         "id": 28,
         "scrip": 0,
-        "name": "(6.1)萨维奈鱿鱼/サベネアンカラマリ",
+        "name": "萨维奈卡拉墨鱼",
         "jpname": "サベネアンカラマリ",
         "enname": "Thavnairian Calamari"
       },
@@ -17161,6 +17161,7 @@
     ]
   },
   "ItemOutIds": {
+    // 6.05
     "古典风格长剑": 35020,
     "古典风格长盾": 35039,
     "古典风格剑斗士头甲": 35040,
@@ -17266,6 +17267,13 @@
     "晓月灵砂": 36223,
     "巨岩灵砂": 36224,
     "巨树灵砂": 36225,
-    "巨海灵砂": 36226
+    "巨海灵砂": 36226,
+
+    // 6.1
+    "非挥发性炼金药": 37284,
+    "艾布拉纳赛黄晶原石": 37279,
+    "萨维奈玉米": 37278,
+    "萨维奈纤维": 37281,
+    "艾布拉纳赛黄晶": 37280
   }
 }
