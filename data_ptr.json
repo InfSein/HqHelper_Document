@@ -1,6 +1,6 @@
 {
   "LatestDataVersion": 1124,
-  "OnMaintenance": true,
+  "OnMaintenance": false,
   "PatchInfo": "道具名更新为国服文本。使用日语/英语道具名的用户不建议更新。",
   "DetailLink": "https://bbs.nga.cn/read.php?pid=630782384"
 }
