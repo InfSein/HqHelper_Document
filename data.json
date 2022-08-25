@@ -1,7 +1,7 @@
-{
+﻿{
   "Version": {
-    "DataVersion": 1125,
-    "SupportFfPatch": "6.10",
+    "DataVersion": 1200,
+    "SupportFfPatch": "6.20",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
     "FeedBackLink": "https://bbs.nga.cn/post.php?action=reply&_newui&fid=698&tid=31596099",
@@ -11,7 +11,7 @@
     "ExtendedHelpers": {
       "Patch605": "https://bbs.nga.cn/read.php?tid=30136486",
       "Patch610": "https://bbs.nga.cn/read.php?tid=31645201",
-      "Patch620": "",
+      "Patch620": "https://bbs.nga.cn/read.php?tid=33206143",
       "Patch630": "",
       "Patch640": ""
     }
@@ -10733,8 +10733,8 @@
       }
     },
     "Patch620": {
-      "updated": false,
-      "name": "Patch 6.20-万魔殿炼净之狱",
+      "updated": true,
+      "name": "Patch 6.20-零式万魔殿 炼净之狱",
       "data": {
         "Tank": {
           "exist": true,
@@ -10744,49 +10744,356 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 3
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -10795,7 +11102,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -10804,40 +11140,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -10846,7 +11443,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -10855,40 +11481,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -10897,7 +11784,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 3
+                    },
+                    {
+                      "id": 53,
+                      "count": 2
+                    },
+                    {
+                      "id": 2,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -10906,40 +11822,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 58,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             }
@@ -10953,7 +12130,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 3
+                    },
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 2,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -10962,40 +12168,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11004,7 +12471,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 3
+                    },
+                    {
+                      "id": 51,
+                      "count": 2
+                    },
+                    {
+                      "id": 5,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    },
+                    {
+                      "id": 48,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11013,40 +12509,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11055,7 +12812,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 3
+                    },
+                    {
+                      "id": 53,
+                      "count": 2
+                    },
+                    {
+                      "id": 2,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11064,40 +12850,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11106,7 +13153,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 3
+                    },
+                    {
+                      "id": 53,
+                      "count": 2
+                    },
+                    {
+                      "id": 2,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11115,40 +13191,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 60,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             }
@@ -11163,7 +13500,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11172,40 +13538,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11214,7 +13841,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 3
+                    },
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11223,40 +13879,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11265,7 +14182,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11274,40 +14220,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11316,7 +14523,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11325,40 +14561,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 56,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11368,7 +14865,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11377,40 +14903,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11419,7 +15206,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 3
+                    },
+                    {
+                      "id": 53,
+                      "count": 2
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11428,40 +15244,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11470,7 +15547,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 2,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11479,40 +15585,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11521,7 +15888,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 4
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11530,40 +15926,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 52,
+                      "count": 2
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 57,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11573,7 +16230,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 3
+                    },
+                    {
+                      "id": 53,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11582,40 +16268,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11624,7 +16571,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 3
+                    },
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 5,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    },
+                    {
+                      "id": 48,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11633,40 +16609,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             },
@@ -11675,7 +16912,36 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 2
+                    },
+                    {
+                      "id": 52,
+                      "count": 3
+                    },
+                    {
+                      "id": 2,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
@@ -11684,40 +16950,301 @@
 
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 2
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 55,
+                      "count": 3
+                    },
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 47,
+                      "count": 3
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 54,
+                      "count": 2
+                    },
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 3,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 2
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    }
+                  ]
                 },
 
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 54,
+                      "count": 1
+                    },
+                    {
+                      "id": 1,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 9,
+                      "count": 1
+                    },
+                    {
+                      "id": 46,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 52,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 6,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    },
+                    {
+                      "id": 43,
+                      "count": 3
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 55,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 8,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 51,
+                      "count": 1
+                    },
+                    {
+                      "id": 53,
+                      "count": 1
+                    },
+                    {
+                      "id": 4,
+                      "count": 1
+                    },
+                    {
+                      "id": 59,
+                      "count": 1
+                    },
+                    {
+                      "id": 10,
+                      "count": 1
+                    },
+                    {
+                      "id": 44,
+                      "count": 3
+                    },
+                    {
+                      "id": 45,
+                      "count": 3
+                    }
+                  ]
                 }
               }
             }
@@ -16110,7 +21637,346 @@
         "description": ""
       }
     ],
-    "Patch620": [ {} ],
+    "Patch620": [
+      {
+        "id": 0,
+        "type": 0,
+        "name": "placeholder",
+        "jpname": "",
+        "enname": "",
+        "foreignName": "",
+        "description": ""
+      },
+      {
+        "id": 1,
+        "type": 1,
+        "name": "球粒陨石锭",
+        "jpname": "コンドライトインゴット",
+        "enname": "Chondrite Ingot",
+        "foreignName": "Chondrite Ingot",
+        "description": "锻铁匠/铸甲匠 88级配方。"
+      },
+      {
+        "id": 2,
+        "type": 1,
+        "name": "星点石英",
+        "jpname": "スタークォーツ",
+        "enname": "Star Quartz",
+        "foreignName": "Star Quartz",
+        "description": "雕金匠 88级配方。"
+      },
+      {
+        "id": 3,
+        "type": 1,
+        "name": "迷彩绒",
+        "jpname": "カエアンビロード",
+        "enname": "AR-Caean Velvet",
+        "foreignName": "AR-Caean Velvet",
+        "description": "裁衣匠 88级配方。"
+      },
+      {
+        "id": 4,
+        "type": 1,
+        "name": "完满木材",
+        "jpname": "インテグラル材",
+        "enname": "Integral Lumber",
+        "foreignName": "Integral Lumber",
+        "description": "刻木匠 88级配方。"
+      },
+      {
+        "id": 5,
+        "type": 1,
+        "name": "锰钢附魔墨水",
+        "jpname": "マンガン・エンチャントインク",
+        "enname": "Enchanted Manganese Ink",
+        "foreignName": "Enchanted Manganese Ink",
+        "description": "炼金术士 87级配方。"
+      },
+      {
+        "id": 6,
+        "type": 1,
+        "name": "蛇牛革",
+        "jpname": "オピオタウロスレザー",
+        "enname": "Ophiotauros Leather",
+        "foreignName": "Ophiotauros Leather",
+        "description": "制革匠 88级配方。"
+      },
+      {
+        "id": 7,
+        "type": 2,
+        "name": "晓月灵砂",
+        "jpname": "暁月の霊砂",
+        "enname": "Moonlight Aethersand",
+        "foreignName": "暁月の霊砂/Moonlight Aethersand",
+        "description": "晓月灵砂/暁月の霊砂/Moonlight Aethersand\n精选收藏品获得\n[ET 00:00~04:00] 使用采矿工在[叹息海]的(21.6,34.7)采集收藏品形态的‘月石英’。\n[ET 08:00~12:00] 使用园艺工在[迷津]的(9.9,34.8)采集收藏品形态的‘水瓶土’。"
+      },
+      {
+        "id": 8,
+        "type": 2,
+        "name": "巨岩灵砂",
+        "jpname": "巨岩の霊砂",
+        "enname": "Endstone Aethersand",
+        "foreignName": "巨岩の霊砂/Endstone Aethersand",
+        "description": "巨岩灵砂/巨岩の霊砂/Endstone Aethersand\n精选收藏品获得\n[ET 20:00~24:00] 使用采矿工在[加雷马]的(10.1,15.3)采集收藏品形态的‘暗性岩’。"
+      },
+      {
+        "id": 9,
+        "type": 2,
+        "name": "巨树灵砂",
+        "jpname": "巨樹の霊砂",
+        "enname": "Endwood Aethersand",
+        "foreignName": "巨樹の霊砂/Endwood Aethersand",
+        "description": "巨树灵砂/巨樹の霊砂/Endwood Aethersand\n精选收藏品获得\n[ET 12:00~16:00] 使用园艺工在[萨维奈岛]的(25.2,14.4)采集收藏品形态的‘棕榈碎皮’。"
+      },
+      {
+        "id": 10,
+        "type": 2,
+        "name": "巨海灵砂",
+        "jpname": "巨海の霊砂",
+        "enname": "Endtide Aethersand",
+        "foreignName": "巨海の霊砂/Endtide Aethersand",
+        "description": "巨海灵砂/巨海の霊砂/Endtide Aethersand\n精选收藏品获得\n在[红玉海]的镜岛东部(约39.0,32.1)叉鱼，获取收藏品形态的‘奥萨德圆鳍鱼’。\n在[天外天垓]的(7.3,22.5)使用[灰蚯蚓]垂钓，获取收藏品形态的‘噬卵者’。"
+      },
+      {
+        "id": 51,
+        "type": 3,
+        "name": "龙头树木材",
+        "jpname": "パルダオ材",
+        "enname": "Paldao Lumber",
+        "foreignName": "Paldao Lumber",
+        "description": "龙头树木材/パルダオ材/Paldao Lumber\n刻木星级配方。\n每份需要：\n[龙头树原木]*5\n[拉扎罕清漆]*2"
+      },
+      {
+        "id": 52,
+        "type": 3,
+        "name": "褐铁合金锭",
+        "jpname": "イルメナイトインゴット",
+        "enname": "Ilmenite Ingot",
+        "foreignName": "Ilmenite Ingot",
+        "description": "褐铁合金锭/イルメナイトインゴット/Ilmenite Ingot\n锻铁/铸甲星级配方。\n每份需要：\n[钛铁矿]*5\n[褐铅矿]*2"
+      },
+      {
+        "id": 53,
+        "type": 3,
+        "name": "金红石石英",
+        "jpname": "ルチルクォーツ",
+        "enname": "Rutilated Quartz",
+        "foreignName": "Rutilated Quartz",
+        "description": "金红石石英/ルチルクォーツ/Rutilated Quartz\n雕金星级配方。\n每份需要：\n[金红石石英原石]*5\n[萨维奈贵榴石]*2"
+      },
+      {
+        "id": 54,
+        "type": 3,
+        "name": "提坦诺瓦革",
+        "jpname": "ティタノボアレザー",
+        "enname": "Titanoboa Leather",
+        "foreignName": "Titanoboa Leather",
+        "description": "提坦诺瓦革/ティタノボアレザー/Titanoboa Leather\n制革星级配方。\n每份需要：\n[诃子]*5\n[提坦诺瓦的粗皮]*2"
+      },
+      {
+        "id": 55,
+        "type": 3,
+        "name": "杨梅染布",
+        "jpname": "渋木染布",
+        "enname": "Bayberry Cloth",
+        "foreignName": "Bayberry Cloth",
+        "description": "杨梅染布/渋木染布/Bayberry Cloth\n裁缝星级配方。\n每份需要：\n[杨梅枝]*4\n[白花葛布]*2"
+      },
+      {
+        "id": 56,
+        "type": 4,
+        "name": "7级刚力",
+        "fullname": "7级刚力之幻水",
+        "jpname": "剛力の幻水G7",
+        "enname": "Grade 7 Strength Alkahest",
+        "foreignName": "",
+        "description": "7级刚力之幻水/剛力の幻水G7/Grade 7 Strength Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n甜香荠*1\n[灰绿硅藻土]*1，天水*1，晓月灵砂*1"
+      },
+      {
+        "id": 57,
+        "type": 4,
+        "name": "7级巧力",
+        "fullname": "7级巧力之幻水",
+        "jpname": "眼力の幻水G7",
+        "enname": "Grade 7 Dexterity Alkahest",
+        "foreignName": "",
+        "description": "7级巧力之幻水/眼力の幻水G7/Grade 7 Dexterity Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n光芒大丁草*1\n[灰绿硅藻土]*1，天水*1，晓月灵砂*1"
+      },
+      {
+        "id": 58,
+        "type": 4,
+        "name": "7级耐力",
+        "fullname": "7级耐力之幻水",
+        "jpname": "活力の幻水G7",
+        "enname": "Grade 7 Vitality Alkahest",
+        "foreignName": "",
+        "description": "7级耐力之幻水/活力の幻水G7/Grade 7 Vitality Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n青柠罗勒草*1\n[灰绿硅藻土]*1，天水*1，晓月灵砂*1"
+      },
+      {
+        "id": 59,
+        "type": 4,
+        "name": "7级智力",
+        "fullname": "7级智力之幻水",
+        "jpname": "知力の幻水G7",
+        "enname": "Grade 7 Intelligence Alkahest",
+        "foreignName": "",
+        "description": "7级智力之幻水/知力の幻水G7/Grade 7 Intelligence Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n邪衣薰衣草*1\n[灰绿硅藻土]*1，天水*1，晓月灵砂*1"
+      },
+      {
+        "id": 60,
+        "type": 4,
+        "name": "7级意力",
+        "fullname": "7级意力之幻水",
+        "jpname": "心力の幻水G7",
+        "enname": "Grade 7 Mind Alkahest",
+        "foreignName": "",
+        "description": "7级意力之幻水/心力の幻水G7/Grade 7 Mind Alkahest\n炼金星级配方, 每份会产出3个成品。\n每份需要：\n虎百合*1\n[灰绿硅藻土]*1，天水*1，晓月灵砂*1"
+      },
+      {
+        "id": 31,
+        "type": 5,
+        "name": "火之碎晶",
+        "jpname": "ファイアシャード",
+        "enname": "Fire Shard",
+        "description": ""
+      },
+      {
+        "id": 32,
+        "type": 5,
+        "name": "冰之碎晶",
+        "jpname": "アイスシャード",
+        "enname": "Ice Shard",
+        "description": ""
+      },
+      {
+        "id": 33,
+        "type": 5,
+        "name": "风之碎晶",
+        "jpname": "ウィンドシャード",
+        "enname": "Wind Shard",
+        "description": ""
+      },
+      {
+        "id": 34,
+        "type": 5,
+        "name": "土之碎晶",
+        "jpname": "アースシャード",
+        "enname": "Earth Shard",
+        "description": ""
+      },
+      {
+        "id": 35,
+        "type": 5,
+        "name": "雷之碎晶",
+        "jpname": "ライトニングシャード",
+        "enname": "Lightning Shard",
+        "description": ""
+      },
+      {
+        "id": 36,
+        "type": 5,
+        "name": "水之碎晶",
+        "jpname": "ウォーターシャード",
+        "enname": "Water Shard",
+        "description": ""
+      },
+      {
+        "id": 37,
+        "type": 5,
+        "name": "火之水晶",
+        "jpname": "ファイアクリスタル",
+        "enname": "Fire Crystal",
+        "description": ""
+      },
+      {
+        "id": 38,
+        "type": 5,
+        "name": "冰之水晶",
+        "jpname": "アイスクリスタル",
+        "enname": "Ice Crystal",
+        "description": ""
+      },
+      {
+        "id": 39,
+        "type": 5,
+        "name": "风之水晶",
+        "jpname": "ウィンドクリスタル",
+        "enname": "Wind Crystal",
+        "description": ""
+      },
+      {
+        "id": 40,
+        "type": 5,
+        "name": "土之水晶",
+        "jpname": "アースクリスタル",
+        "enname": "Earth Crystal",
+        "description": ""
+      },
+      {
+        "id": 41,
+        "type": 5,
+        "name": "雷之水晶",
+        "jpname": "ライトニングクリスタル",
+        "enname": "Lightning Crystal",
+        "description": ""
+      },
+      {
+        "id": 42,
+        "type": 5,
+        "name": "水之水晶",
+        "jpname": "ウォータークリスタル",
+        "enname": "Water Crystal",
+        "description": ""
+      },
+      {
+        "id": 43,
+        "type": 5,
+        "name": "火之晶簇",
+        "jpname": "ファイアクラスター",
+        "enname": "Fire Cluster",
+        "description": ""
+      },
+      {
+        "id": 44,
+        "type": 5,
+        "name": "冰之晶簇",
+        "jpname": "アイスクラスター",
+        "enname": "Ice Cluster",
+        "description": ""
+      },
+      {
+        "id": 45,
+        "type": 5,
+        "name": "风之晶簇",
+        "jpname": "ウィンドクラスター",
+        "enname": "Wind Cluster",
+        "description": ""
+      },
+      {
+        "id": 46,
+        "type": 5,
+        "name": "土之晶簇",
+        "jpname": "アースクラスター",
+        "enname": "Earth Cluster",
+        "description": ""
+      },
+      {
+        "id": 47,
+        "type": 5,
+        "name": "雷之晶簇",
+        "jpname": "ライトニングクラスター",
+        "enname": "Lightning Cluster",
+        "description": ""
+      },
+      {
+        "id": 48,
+        "type": 5,
+        "name": "水之晶簇",
+        "jpname": "ウォータークラスター",
+        "enname": "Water Cluster",
+        "description": ""
+      }
+    ],
     "Patch630": [ {} ],
     "Patch640": [ {} ],
     "AllaganReflects": [
@@ -16177,6 +22043,46 @@
         "need": "非挥发性炼金药",
         "needCount": 1,
         "totalAllagan": 125
+      },
+      {
+        "id": 51,
+        "type": 1,
+        "name": "龙头树木材",
+        "need": "拉扎罕清漆",
+        "needCount": 2,
+        "totalAllagan": 40
+      },
+      {
+        "id": 52,
+        "type": 1,
+        "name": "褐铁合金锭",
+        "need": "褐铅矿",
+        "needCount": 2,
+        "totalAllagan": 40
+      },
+      {
+        "id": 53,
+        "type": 1,
+        "name": "金红石石英",
+        "need": "萨维奈贵榴石",
+        "needCount": 2,
+        "totalAllagan": 40
+      },
+      {
+        "id": 54,
+        "type": 1,
+        "name": "提坦诺瓦革",
+        "need": "提坦诺瓦的粗皮",
+        "needCount": 2,
+        "totalAllagan": 40
+      },
+      {
+        "id": 55,
+        "type": 1,
+        "name": "杨梅染布",
+        "need": "白花葛布",
+        "needCount": 2,
+        "totalAllagan": 40
       }
     ]
   },
