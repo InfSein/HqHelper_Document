@@ -1,6 +1,6 @@
 {
-  "LatestDataVersion": 1125,
-  "OnMaintenance": true,
-  "PatchInfo": "增加6.1成本/收益分析的相关数据。",
-  "DetailLink": "https://bbs.nga.cn/read.php?pid=630993966"
+  "LatestDataVersion": 1200,
+  "OnMaintenance": false,
+  "PatchInfo": "装备数据更新到6.2。可能会有较多BUG，国服玩家请谨慎更新。",
+  "DetailLink": "https://bbs.nga.cn/read.php?pid=635126165"
 }
