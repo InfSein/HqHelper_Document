@@ -1,6 +1,6 @@
 {
   "LatestDataVersion": 1125,
-  "OnMaintenance": false,
+  "OnMaintenance": true,
   "PatchInfo": "增加6.1成本/收益分析的相关数据。",
   "DetailLink": "https://bbs.nga.cn/read.php?pid=630993966"
 }
