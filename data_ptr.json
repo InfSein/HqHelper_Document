@@ -1,6 +1,6 @@
 {
-  "LatestDataVersion": 1200,
+  "LatestDataVersion": 1202,
   "OnMaintenance": true,
-  "PatchInfo": "装备数据更新到6.2。可能会有较多BUG，国服玩家请谨慎更新。",
+  "PatchInfo": "支持食物计算和爆发药计算。",
   "DetailLink": "https://nga.178.com/read.php?pid=637641135"
 }
