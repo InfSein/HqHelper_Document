@@ -1,17 +1,17 @@
 {
   "Version": {
-    "DataVersion": 1202,
+    "DataVersion": 1203,
     "SupportFfPatch": "6.20",
-    "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
-    "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
-    "FeedBackLink": "https://bbs.nga.cn/post.php?action=reply&_newui&fid=698&tid=31596099",
-    "UpdateDetailLink": "https://bbs.nga.cn/read.php?tid=31596099&authorid=41369816&page=e",
+    "ThemeLink": "https://nga.178.com/read.php?tid=31596099",
+    "HelpLink": "https://nga.178.com/read.php?pid=605238923",
+    "FeedBackLink": "https://nga.178.com/post.php?action=reply&_newui&fid=698&tid=31596099",
+    "UpdateDetailLink": "https://nga.178.com/read.php?tid=31596099&authorid=41369816&page=e",
     "CriticalNotice": "",
     "AdditionalTexts": " - 6.20新增的道具数据已经更新完毕。",
     "ExtendedHelpers": {
-      "Patch605": "https://bbs.nga.cn/read.php?tid=30136486",
-      "Patch610": "https://bbs.nga.cn/read.php?tid=31645201",
-      "Patch620": "https://bbs.nga.cn/read.php?tid=33206143",
+      "Patch605": "https://nga.178.com/read.php?tid=30136486",
+      "Patch610": "https://nga.178.com/read.php?tid=31645201",
+      "Patch620": "https://nga.178.com/read.php?tid=33206143",
       "Patch630": "",
       "Patch640": ""
     }
