@@ -29,3 +29,5 @@ https://infsein.github.io/HqHelper_Document/
 ### 问题反馈
 
 建议在 https://bbs.nga.cn/read.php?tid=31596099 下回复。在此提出的Issue可能无法被及时响应。
+or Q群：721051298
+
