@@ -1,0 +1,26 @@
+{
+  "Histories": [
+    {
+      "UpdateTime": "",
+      "ProgramVersionBefore": "",
+      "ProgramVersionAfter": "",
+      "DataVersionBefore": 0,
+      "DataVersionAfter": 0,
+      "SupportFFPatchBefore": "",
+      "SupportFFPatchAfter": "",
+      "Content_BugFixDetail": "",
+      "Content_FuncAddDetail": ""
+    },
+    {
+      "UpdateTime": "2022年09月16日",
+      "ProgramVersionBefore": "",
+      "ProgramVersionAfter": "1.2.2",
+      "DataVersionBefore": 1200,
+      "DataVersionAfter": 1201,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。\r\n",
+      "Content_FuncAddDetail": "1. 优化了[成本/收益分析]功能。\r\n    1) 极大幅度地优化了分析速度。\r\n       借助universalis的批量价格查询接口，现在程序将会将每100个物品合并发送。\r\n       ※ 伴随这一改动，服务器没有交易数据的道具(比如在此时查询国服的610HQ价格)将被忽略，而不是显示为0。\r\n    2) 现在[总计]栏目的金钱计数模仿游戏中的显示效果(如12345678显示为12,345,678)。\r\n    3) 现在将光标悬停在成本框或收益框的[总计]栏目上，可以查阅到计算了购买的手续费和出售的交易税后的预估金币数。\r\n"
+    }
+  ]
+}
