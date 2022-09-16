@@ -1,26 +1,324 @@
 {
   "Histories": [
     {
-      "UpdateTime": "",
-      "ProgramVersionBefore": "",
-      "ProgramVersionAfter": "",
-      "DataVersionBefore": 0,
-      "DataVersionAfter": 0,
-      "SupportFFPatchBefore": "",
-      "SupportFFPatchAfter": "",
-      "Content_BugFixDetail": "",
-      "Content_FuncAddDetail": ""
+      "UpdateTime": "2022.09.13",
+      "ProgramVersionBefore": "1.2.2",
+      "ProgramVersionAfter": "1.2.3",
+      "DataVersionBefore": 1203,
+      "DataVersionAfter": 1203,
+      "SupportFFPatchBefore": "6.20版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "优化了[成本/收益分析]功能。\r\n1、极大幅度地加快了分析速度。\r\n  借助universalis的批量价格查询接口，现在程序将会将每100个物品合并发送。\r\n  * 伴随这一改动，服务器没有交易数据的道具(比如在此时查询国服服务器的610HQ)将被忽略，而不是显示为0。\r\n+ 效果演示 ...\r\n2、现在[总计]栏目的金钱计数模仿游戏中的显示效果(如12345678显示为12,345,678)。\r\n3、现在将光标悬停在成本框或收益框的[总计]栏目上，可以查阅到计算了购买的手续费和出售的交易税后的预估金币数。\r\n  * 使用了5%作为标准手续费/交易税, 3%作为1档减税后的交易税。计算结果仅供参考。\r\n\r\nhttps://nga.178.com/read.php?pid=639325727"
     },
     {
-      "UpdateTime": "2022年09月16日",
-      "ProgramVersionBefore": "",
+      "UpdateTime": "2022.09.09",
+      "ProgramVersionBefore": "1.2.1",
       "ProgramVersionAfter": "1.2.2",
+      "DataVersionBefore": 1202,
+      "DataVersionAfter": 1203,
+      "SupportFFPatchBefore": "6.20版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "1. 优化了[导出为表格]功能。\r\n现在使用Windows系统不允许的文件名命名方式(包括了 : * ? < > | 字符)时，程序会将这些不合法字符转换为下划线( _ )，并给予提示。\r\n2. 优化了网络请求代码，以提升[成本/收益分析]功能的价格获取速度。\r\n3. 调整了程序内[使用教程]、[更新历史]、[意见反馈]及[HQ攻略]的链接。\r\n\r\nhttps://nga.178.com/read.php?pid=638406690"
+    },
+    {
+      "UpdateTime": "2022.09.06",
+      "ProgramVersionBefore": "1.2.0",
+      "ProgramVersionAfter": "1.2.1",
       "DataVersionBefore": 1200,
-      "DataVersionAfter": 1201,
+      "DataVersionAfter": 1202,
+      "SupportFFPatchBefore": "6.20版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "1. 修复了在偏好设置中勾选[导出表格附带成本/收益分析]后，无法在6.20版本使用[导出为Excel]功能的问题。\r\n2. 修复了跨版本升级(如1.1.x->1.2.0)时，更新程序判断错误的问题。\r\n* 仅限HqHelper主程序的更新判断。更新器(HqHelper_Updater)的修复将在后续版本实装。",
+      "Content_FuncAddDetail": "1. [Food Helper]与[Tincture Helper]的数据现已适配6.20版本。\r\n* 若未安装1.2.1以上版本的程序，道具的图标将仍旧显示为默认值。\r\n2. [成本/收益分析]功能现已支持6.20版本的装备。\r\n* 由于国服尚未实装6.20版本，服务器设置为国服服务器时，新增道具的价格将显示为0。\r\n* 物品的中文名为个人暂译。若在偏好设置中设置了物品语言，表格内的道具名将随之转变。\r\n\r\nhttps://nga.178.com/read.php?pid=637641135"
+    },
+    {
+      "UpdateTime": "2022.08.26",
+      "ProgramVersionBefore": "1.1.19",
+      "ProgramVersionAfter": "1.2.0",
+      "DataVersionBefore": 1200,
+      "DataVersionAfter": 1200,
+      "SupportFFPatchBefore": "6.20版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "1. 修复了[点数统计]中6.2新增兑换道具的物品名称未跟随偏好设置中的语言设置的问题；\r\n2. 修复了[点数统计]中亚拉戈神典石在日语/英语中仍显示为亚拉戈经典神典石的问题。\r\n* 6.2版本后亚拉戈经典神典石将被弃用，由天文神典石代替。\r\n* 6.2版本对旧有(6.05/6.1版本)兑换物的单价有所调整。这些变动暂时不会体现到本程序中。预计在国服即将6.2时才会实装改动。\r\n3. 修复了[水晶统计]在版本6.20计算结果与实际消耗有较大差异的问题。\r\n4. 修复了更新1200数据版本可能导致[导出为Excel]功能崩溃的问题。\r\n5. 修复了[导出为Excel]功能输出的[素材统计]未包含'晓月灵砂'数量统计的问题。",
+      "Content_FuncAddDetail": "1. [常规采集品统计]与[限时采集品统计]现已适配6.20版本。\r\n2. [采集时钟]追加了对6.20新增的传说采集点的支持。"
+    },
+    {
+      "UpdateTime": "2022.08.25",
+      "ProgramVersionBefore": "1.1.19",
+      "ProgramVersionAfter": "1.1.19",
+      "DataVersionBefore": 1125,
+      "DataVersionAfter": 1200,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "无",
+      "Content_FuncAddDetail": "新增了版本6.20的装备数据。\r\n★ [常规采集品统计]、[限时采集品统计]、[成本/收益分析]暂不可用。\r\n★ [水晶统计]、[导出为Excel]功能可能在分析6.20版本的数据时出现致命错误。\r\n★ [采集时钟]、[Food Helper]、[Tincture Helper]数据未更新到6.20版本。\r\n★ 此版本仅建议国际服正需要制作610HQ的玩家更新。后续版本将陆续修复数据更新带来的问题。\r\n★ 此外，由于数据为人工录入，可能出现各式问题。如果发现错误或缺漏，还请及时提出。\r\n\r\nhttps://nga.178.com/read.php?pid=635126165"
+    },
+    {
+      "UpdateTime": "2022.08.19",
+      "ProgramVersionBefore": "1.1.19",
+      "ProgramVersionAfter": "1.1.20",
+      "DataVersionBefore": 1125,
+      "DataVersionAfter": 1125,
       "SupportFFPatchBefore": "6.10版本",
       "SupportFFPatchAfter": "6.10版本",
-      "Content_BugFixDetail": "此版本未包含问题修复。\r\n",
-      "Content_FuncAddDetail": "1. 优化了[成本/收益分析]功能。\r\n    1) 极大幅度地优化了分析速度。\r\n       借助universalis的批量价格查询接口，现在程序将会将每100个物品合并发送。\r\n       ※ 伴随这一改动，服务器没有交易数据的道具(比如在此时查询国服的610HQ价格)将被忽略，而不是显示为0。\r\n    2) 现在[总计]栏目的金钱计数模仿游戏中的显示效果(如12345678显示为12,345,678)。\r\n    3) 现在将光标悬停在成本框或收益框的[总计]栏目上，可以查阅到计算了购买的手续费和出售的交易税后的预估金币数。\r\n"
+      "Content_BugFixDetail": "1. 修复了一个可能导致6.2版本数据更新后,打开[限时采集品统计]会使程序崩溃的问题；\r\n2. 提升了[成本/收益分析]的稳定性, 并优化了错误处理。",
+      "Content_FuncAddDetail": "1. [成本/收益分析]现在显示的成品物品名也已跟随偏好设置中的语言设置。\r\n2. [偏好设置]->[主窗口]中新增了选项‘导出表格附带成本/收益分析’。\r\n勾选后，使用顶部工具栏的[导出为表格]功能，导出的表格将会追加[成本分析]与[收益分析]两个表。\r\n* 勾选之后，导出表格将需要先获取物品价格。这可能需要较长的时间。\r\n3. 优化了[导出为表格]功能。\r\n  1) 已存在同名文件时，会对是否覆盖旧文件进行二次确认；\r\n  2) 在成功导出后，将会询问是否打开导出文件所在的目录。\r\n4. [点数统计]功能的点数名称现在同样跟随偏好设置中的语言设置。\r\n★ 伴随这一改动，[点数统计]提供的宏复制格式有所调整。\r\n5. [复制为宏]功能有所优化。\r\n  1) 追加了新的选项‘直接复制’，效果等同于此前的不选择。\r\n  2) 此外还追加了选择记忆功能。之后打开此界面时，会自动选取上一次选择的宏类型。\r\n  3) [常规采集品统计]与[限时采集品统计]现在也已支持[复制为宏]功能。\r\n6. 调整了顶部工具栏及各窗口的标题文本，以使入口文本与显示效果一致。\r\n7. 调整了[更新日志]的布局，以优化显示效果。\r\n8. 添加了少量与6.2有关的数据，以使之后数据更新可以更顺利。\r\n\r\nhttps://nga.178.com/read.php?pid=633560972"
+    },
+    {
+      "UpdateTime": "2022.08.12",
+      "ProgramVersionBefore": "1.1.18",
+      "ProgramVersionAfter": "1.1.19",
+      "DataVersionBefore": 1125,
+      "DataVersionAfter": 1125,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "1. 为6.2版本的选择按钮更新了logo。\r\n2. [成本/收益分析]现在显示的物品名跟随偏好设置中的语言设置。\r\n* 成品的物品名目前仍旧显示为中文。"
+    },
+    {
+      "UpdateTime": "2022.08.09",
+      "ProgramVersionBefore": "1.1.17",
+      "ProgramVersionAfter": "1.1.18",
+      "DataVersionBefore": 1124,
+      "DataVersionAfter": 1125,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "修复了国服数据更新导致的多语言功能错误。",
+      "Content_FuncAddDetail": "1. 进一步完善了[成本/收益预估]功能。\r\n  1) 现已支持国际服服务器。在偏好设置中依次设置大区和服务器，即可在之后的分析中使用国际服的物品价格。\r\n  * 此后若国服与国际服的服务器有增加和修改，本程序可能无法及时跟进。请积极反馈。\r\n  2) 现已支持6.1版本。\r\n  * 由于国服正处于开服阶段，universalis可能无法提供准确的物品价格。建议等待供需市场稳定之后再使用此功能。\r\n2. 调整了顶部工具栏[工具]菜单中Food Helper与Tincture Helper的名称，以使其与其他功能的命名格式保持一致。\r\n\r\nhttps://nga.178.com/read.php?pid=630993966"
+    },
+    {
+      "UpdateTime": "2022.08.08",
+      "ProgramVersionBefore": "1.1.17",
+      "ProgramVersionAfter": "1.1.17",
+      "DataVersionBefore": 1123,
+      "DataVersionAfter": 1124,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "无",
+      "Content_FuncAddDetail": "6.10版本相关的道具名更新至国服文本。"
+    },
+    {
+      "UpdateTime": "2022.07.28",
+      "ProgramVersionBefore": "1.1.16",
+      "ProgramVersionAfter": "1.1.17",
+      "DataVersionBefore": 1121,
+      "DataVersionAfter": 1123,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "调整了主窗口选择部件加减按钮的UI位置，以修复在某些显示器上可能出现的按钮重叠问题。",
+      "Content_FuncAddDetail": "1. 偏好设置中添加了[已选部件显示未操作职业]选项。\r\n勾选后，在查看和编辑主窗口的已选部件界面时，将显示还没有添加过部件的职业，以便更好地添加编辑。\r\n2. 调整了偏好设置的UI，由平铺模式改为选项卡模式，以使其具备更好的可扩展性。\r\n* 仅是UI修改，不会影响此前的设置生效。\r\n3. 为主界面新增了[成本/收益预估]功能。\r\n点击后将会向cafemaker.wakingsands.com及universalis.app获取材料与装备的历史平均价格，并以表格形式展示。\r\n原材料默认使用NQ平均价，成品默认使用HQ平均价。\r\n伴随这一改动，偏好设置添加了专门的选项卡。您需要在此设置服务器之后，才可以使用[成本/收益预估]功能。\r\n* 作为新增功能，此功能可能会有较多的BUG，请谨慎参阅。\r\n* 此功能需要向远程服务器发送多次请求，初次分析速度会较为缓慢。在分析结束后，物品平均价会被保存到本地，以使之后的分析效率大幅提高。\r\n* 保存的数据充足时，主窗口的按钮将可以实时显示预估的成本和收益金额。若新增的物品不在已存数据中，则需要再次点击按钮进行分析和缓存后才能继续实时显示。\r\n* 缓存有效时间(小时)设置的越久，分析速度就会越快，但准确度可能也会越低。您可能需要在此之间作出权衡。\r\n* 暂时只支持国内的服务器。暂时只支持6.05版本。\r\n* 暂时未将水晶等素材纳入统计范围。\r\n伴随这一改动，[导出为表格]功能按钮的位置调整到了顶部工具栏的[工具]菜单中。\r\n4. 关于本作界面中追加了[加入Q群]的按钮。\r\n\r\nhttps://nga.178.com/read.php?pid=628289840"
+    },
+    {
+      "UpdateTime": "2022.07.25",
+      "ProgramVersionBefore": "1.1.15",
+      "ProgramVersionAfter": "1.1.16",
+      "DataVersionBefore": 1121,
+      "DataVersionAfter": 1121,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "修复了在Windows 10及更高版本平台中，打开外部链接调用的是Microsoft Edge而非设置的默认浏览器的问题。\r\n* 通过读取注册表实现，在部分电脑中仍有可能复现此BUG。若在此方面出现问题，请在反馈时说明自己的操作系统及浏览器。",
+      "Content_FuncAddDetail": "1. 试验性地新增了“添加多套”功能。\r\n右键主窗口的“添加整套”按钮，在出现的选项中选择“自定添加套数”，即可自选添加或减少0~9999套。\r\n* 由于不确定此功能的需求广泛程度，暂未给单独部件及职能套装追加此功能。如果您对此有较强烈的需求，请在论坛反馈。\r\n2. 调整了主窗口“选择部件”区域的排版，以使其可以更好地显示较大的数字。\r\n3. 为更新功能添加了维护判定。新版本发布前后的2~10分钟内将进行维护，直到远程数据缓存刷新后才允许下载。\r\n* 为了适应6.2期间可能的高频率更新，建议您更新此版本，以免出错。\r\n4. 优化了部分弹窗提示的UI。\r\n5. 优化了一些内部结构。\r\n\r\nhttps://nga.178.com/read.php?pid=627524014"
+    },
+    {
+      "UpdateTime": "2022.07.05",
+      "ProgramVersionBefore": "1.1.14",
+      "ProgramVersionAfter": "1.1.15",
+      "DataVersionBefore": 1118,
+      "DataVersionAfter": 1121,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "1. 修复了一个文本错误(北州苦灰石->北洲苦灰石)。\r\n2. 修复了导出6.1表格数据时会重复导出稳定炼金药(不揮発性錬金薬/Immutable Solution)的问题。",
+      "Content_FuncAddDetail": "1. 现已支持多语言(中文/英文/日文)。\r\n在偏好设置中选择需要的物品语言后，主界面、Food Helper与Tincture Helper等界面中，按钮点击事件与素材统计将使用对应客户端的物品名称。\r\n此外，导出表格数据时也会使用设置的物品语言。\r\n* 只会改变物品的语言文本。程序的UI语言不会改变。\r\n* 由于灰机wiki不支持带有日文/英文物品名称的链接，物品语言为日文或英文时，主界面的“查询”按钮将引导至物品检索器页面而非直接引导至物品详情页面。\r\n2. 优化了一部分描述文本。\r\n3. 由于查看历史更新笔记功能的加入，此版本开始版本笔记界面不再展示旧版本的更新内容。\r\n\r\nhttps://nga.178.com/read.php?pid=622915387"
+    },
+    {
+      "UpdateTime": "2022.07.02",
+      "ProgramVersionBefore": "1.1.13",
+      "ProgramVersionAfter": "1.1.14",
+      "DataVersionBefore": 1117,
+      "DataVersionAfter": 1118,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "1. 修复了带有已选部件的情况下切换到未支持版本会弹窗2次的问题；\r\n2. 修复了一个可能导致切换到不存在的版本的问题；\r\n3. 修复了在已选择了部件的情况下切换到其他版本，即使点击了‘否’已选职业也会被重置的问题；\r\n4. 优化了一些底层逻辑。",
+      "Content_FuncAddDetail": "1. 优化调整了Food Helper与Tincture Helper中组件的位置，以使各选项卡的排布相对一致。\r\n2. 为检查更新界面添加了查看历史更新笔记与查看当前版本更新笔记的功能，点击按钮即可用默认浏览器打开相应链接。"
+    },
+    {
+      "UpdateTime": "2022.06.29",
+      "ProgramVersionBefore": "1.1.12",
+      "ProgramVersionAfter": "1.1.13",
+      "DataVersionBefore": 1117,
+      "DataVersionAfter": 1117,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "1. 为主程序、Food Helper与Tincture Helper追加了底部工具栏。\r\n若将点击材料按钮的事件设置为“将xx复制到剪贴板”，触发事件时会在工具栏给予提示。\r\n2. 为检查更新界面添加了查看版本讯息的功能。今后更新版本时，将光标悬停到对应区域，即可看到新版本的更新说明。\r\n3. 原有的“查看已选部件”功能现在支持表格化编辑。\r\n* 暂不支持保存删除整行的改动。请不要添加不存在的部件，以免发生错误。\r\n\r\nhttps://nga.178.com/read.php?pid=621533801"
+    },
+    {
+      "UpdateTime": "2022.06.17",
+      "ProgramVersionBefore": "1.1.11",
+      "ProgramVersionAfter": "1.1.12",
+      "DataVersionBefore": 1117,
+      "DataVersionAfter": 1117,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "修复了FoodHelper与TinctureHelper计算结果有误的问题。",
+      "Content_FuncAddDetail": "无"
+    },
+    {
+      "UpdateTime": "2022.06.17",
+      "ProgramVersionBefore": "1.1.10",
+      "ProgramVersionAfter": "1.1.11",
+      "DataVersionBefore": 1117,
+      "DataVersionAfter": 1117,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "无",
+      "Content_FuncAddDetail": "1. 程序现已内置更新功能。点击[设置与更新]->[检查更新]，即可轻松获取到程序和数据的最新版本。\r\n更新程序需要关闭程序进行，请在更新之前作好保存。更新数据不需要关闭程序。\r\n您可以在[偏好设置]中打开自动更新功能，开启后，程序每次运行都会自动在后台检查最新版本，并在有更新时提示。\r\n* 更新功能所需要的数据和文件均通过GitHub存储，因此在部分情况下可能无法顺利进行。\r\n2. 由于更新功能的加入，程序顶部的工具栏布局有所调整。\r\n3. 调整了秘籍半成品区域的布局，以使其可以显示更大的单位数字。\r\n\r\nhttps://nga.178.com/read.php?pid=618750486"
+    },
+    {
+      "UpdateTime": "2022.06.03",
+      "ProgramVersionBefore": "1.1.9",
+      "ProgramVersionAfter": "1.1.10",
+      "DataVersionBefore": 1116,
+      "DataVersionAfter": 1117,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "1. 修复了高分屏[采集时钟]‘隐藏下半区’按钮生效有偏差的问题。\r\n2. 修复了导出Excel在使用默认命名时，导出文件的名称‘小时’属性为12小时制的问题。\r\n3. 修复了在选择了部件的情况下切换版本时，[选择部件]区域的数量文本未被重置的问题。\r\n4. 修复了‘查看已选部件’的Esc快速退出功能在未选择任何部件时不生效的问题。\r\n5. 修复了部分UI错位。",
+      "Content_FuncAddDetail": "1. [偏好设置]追加了通用选项‘取消访问外部网站时的二次确认’。\r\n勾选之后，在程序内点击会调用默认浏览器打开网站的按钮，将不会弹出对话框确认，而是直接打开。\r\n2. [关于本作]的UI界面有所调整。\r\n3. 主程序界面中，追加了战斗职业专用的快速操作按钮。藉此，快速操作区域的UI界面进行了调整。\r\n选择职能之后点击右侧的三个‘实行操作’按钮，即可快速为这一职能添加防具或首饰。\r\n此外，光标移至职能按钮上时，可以查看这一职能的说明。\r\n当前已选择的职能按钮颜色会变为灰色。\r\n伴随这一改动，[偏好设置]中追加了选项‘选择职业时自动选择对应职能’。您可以根据自身需要，自由选择是否启用这一功能。\r\n4. 灵砂的说明文本有所调整。\r\n\r\nhttps://nga.178.com/read.php?pid=615470520"
+    },
+    {
+      "UpdateTime": "2022.05.30",
+      "ProgramVersionBefore": "1.1.8",
+      "ProgramVersionAfter": "1.1.9",
+      "DataVersionBefore": 1116,
+      "DataVersionAfter": 1116,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "1. 修复了(1.1.6~1.1.8版本)导出的Excel中，‘素材统计’表会意外出现晶簇素材的问题。\r\n2. 修复了[偏好设置]选项‘隐藏当前版本不可用的职业图标’勾选并保存后，不会立即生效的问题。",
+      "Content_FuncAddDetail": "1. [偏好设置]追加了选项‘重复点击已选择的职业按钮时，为此职业添加一套主副手’。\r\n勾选之后，在未选择职业或选择了其他职业时双击职业按钮、或是已选择此职业时单击职业按钮，即可快速添加一套此职业的主副手(若此职业没有副手,将只添加一件主手)。"
+    },
+    {
+      "UpdateTime": "2022.05.28",
+      "ProgramVersionBefore": "1.1.7",
+      "ProgramVersionAfter": "1.1.8",
+      "DataVersionBefore": 1116,
+      "DataVersionAfter": 1116,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "修复了1.1.7更新导致的高分屏下职业按钮严重错位的问题。",
+      "Content_FuncAddDetail": "无"
+    },
+    {
+      "UpdateTime": "2022.05.27",
+      "ProgramVersionBefore": "1.1.6",
+      "ProgramVersionAfter": "1.1.7",
+      "DataVersionBefore": 1115,
+      "DataVersionAfter": 1116,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "1. 修复了版本号过低的问题。\r\n2. 修复了部分文本错误。",
+      "Content_FuncAddDetail": "1. [偏好设置]追加了选项‘隐藏当前版本不可用的职业图标’。勾选后切换版本，对应版本无HQ装备的职业按钮将被隐藏。\r\n  此外，勾选此选项后，职业按钮的布局会有变化。\r\n2. 重写了[关于]组件下拉框中的部分选项。描述文本也随之有改动。\r\n  ‘检查更新’将定向到NGA帖子的主楼；‘使用教程’将定向到本帖的1楼教程；‘意见反馈’将定向到本帖的回复页面。\r\n3. [爆发药计算器/ Tincture Helper]的单个爆发药数量上限提升至9999.\r\n  [注] 输入过大的数字会造成程序UI的显示问题。食物/爆发药的上限设置值仍在评估，欢迎回复提出意见。\r\n4. 为[水晶统计]的部分组件追加了描述。\r\n\r\nhttps://nga.178.com/read.php?pid=613739871"
+    },
+    {
+      "UpdateTime": "2022.05.26",
+      "ProgramVersionBefore": "1.1.5",
+      "ProgramVersionAfter": "1.1.6",
+      "DataVersionBefore": 1109,
+      "DataVersionAfter": 1115,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "无",
+      "Content_FuncAddDetail": "1. 追加了‘水晶统计’功能。点击按钮即可查看当前已选择的HQ装备部件需要的碎晶/水晶/晶簇数量。\r\n在统计界面中，光标悬停在数量按钮上时可以查看具体的道具名，且继承主程序偏好设置中的按钮行为选择。\r\n  [注1] 数量统计会统计所有的子素材。例如在计算‘星点石英’时，会将其制作素材‘铁云母磨刀石’制作所需要的水晶一并算入。\r\n  [注2] 由于所有素材均为人工输入，可能会有误差，提供数据仅供参考。\r\n伴随这一改动，在输出Excel时也会同时输出水晶数量统计。\r\n2. 追加了‘版本笔记’功能。更新新版本后初次打开程序，将弹窗显示版本新增内容与问题修复。\r\n会默认勾选‘此版本不再显示’。如果关闭后想要再次阅读，可以点击‘关于’->‘版本笔记’查看。\r\n3. 为[复制为宏]、[xx统计]等工具窗口添加了输入监测。现在按'Esc'键即可关闭工具窗口，按'Enter'即可快速保存/导出。\r\n  为了避免误操作，主窗体、采集时钟、Food Helper和Tincture Helper未添加此功能。\r\n  为适应这一改动，工具窗口的UI有所调整。\r\n\r\nhttps://nga.178.com/read.php?pid=613478510"
+    },
+    {
+      "UpdateTime": "2022.05.13",
+      "ProgramVersionBefore": "1.1.3",
+      "ProgramVersionAfter": "1.1.5",
+      "DataVersionBefore": 1106,
+      "DataVersionAfter": 1109,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "修正了程序的打包方式，以避免ARM64架构操作系统在部分情况下无法正常运行本程序的问题。",
+      "Content_FuncAddDetail": "1. ‘Tincture Helper’功能已经实装。借助此功能，您将可以获得爆发药的材料统计。\r\n2. ‘点数统计’窗口现在可以复制为宏。选择是自提醒宏(/e)或是小队宏(/p)，程序会将相应的宏复制到剪切板，到游戏内可以直接从对话框发送信息。\r\n3. ‘素材统计’功能已经实装。点击[查看/导出表格数据]中的[素材统计]按钮，即可将已选HQ装备的部件、半成品、采集品和点数导出为Excel。\r\nExcel将会输出到程序Exe所在的目录，默认格式为.xlsx。不同的统计将被保存为同个Excel文件的多个sheet。\r\n4. 加快了程序计算刷新频率，以提升使用体验。\r\n5. 赞助功能已经实装。\r\n\r\nhttps://nga.178.com/read.php?pid=610366160"
+    },
+    {
+      "UpdateTime": "2022.05.10",
+      "ProgramVersionBefore": "1.1.2",
+      "ProgramVersionAfter": "1.1.3",
+      "DataVersionBefore": 1105,
+      "DataVersionAfter": 1106,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "无",
+      "Content_FuncAddDetail": "‘偏好设置’功能已经实装。借助此功能，您可以对程序的部分功能进行自定义。\r\n在设置并保存后，程序将在其EXE执行文件的同目录下，生成‘HqHelperConfig.ini’文件。程序将从这个文件中读取您做过的偏好设置。\r\n如果您删除了偏好设置文件，程序的设置将会重置。"
+    },
+    {
+      "UpdateTime": "2022.05.09",
+      "ProgramVersionBefore": "1.1.1",
+      "ProgramVersionAfter": "1.1.2",
+      "DataVersionBefore": 1100,
+      "DataVersionAfter": 1105,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "无",
+      "Content_FuncAddDetail": "追加了‘Food Helper/ 食物计算器’功能。\r\n随意调节或输入你想要制作的食物数量，程序会自动计算出所需要筹备的直接素材，并将普通素材与点数素材区分显示。\r\n单个食物的数量最大值限制暂定为999。"
+    },
+    {
+      "UpdateTime": "2022.04.29",
+      "ProgramVersionBefore": "1.1.0",
+      "ProgramVersionAfter": "1.1.1",
+      "DataVersionBefore": 1100,
+      "DataVersionAfter": 1100,
+      "SupportFFPatchBefore": "6.10版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "修复了一个严重问题：当您添加多个同样装备时，对它的点数计算只会进行一次。即1个戒指和2个戒指所输出的点数结果是一样的。",
+      "Content_FuncAddDetail": "无"
+    },
+    {
+      "UpdateTime": "2022.04.27",
+      "ProgramVersionBefore": "1.0.4",
+      "ProgramVersionAfter": "1.1.0",
+      "DataVersionBefore": 1012,
+      "DataVersionAfter": 1100,
+      "SupportFFPatchBefore": "6.05版本",
+      "SupportFFPatchAfter": "6.10版本",
+      "Content_BugFixDetail": "1. 修复了'检查结果'->'普通半成品'区域文本难以选中的问题。\r\n2. 修复了切换版本时不会清空已选部件的问题。\r\n3. 修复了切换版本时职业选择不会重置的问题。\r\n4. 修复了添加整套相关按钮会添加当前版本并不存在的部件的问题。\r\n5. 修复了幻水区域显示会因切换版本错位的问题。伴随这一修复，幻水区域的按钮排布有所调整。\r\n6. 修复了一些因版本更新而新增的问题。",
+      "Content_FuncAddDetail": "1. 调整了主程序UI布局，以解决部分场景下文本显示不完全的问题。\r\n  (注) 部分计算机仍有可能因缩放而产生问题。出现故障请积极反馈。\r\n2. '检查结果'->'普通半成品'区域文本现在以换行分隔不同材料。\r\n3. 伴随6.10版本的数据支持，新增了数个专为生产采集版本设计的‘快速操作’按钮。\r\n  (注) 由于程序底层逻辑设置 屎山 ，添加共享装备也需要指定职业。因此，‘添加一套生产防具/首饰’会添加一套刻木匠的防具/首饰，‘添加一套采集防具/首饰’会添加一套园艺工的防具/首饰。\r\n  (注) 下图是四个按钮各点击一次后，查看已选部件的效果，可供参考。\r\n4. 为已选择了装备部件后切换版本的行为追加了二次确认提醒。\r\n5. 为适应需要多种点数的场景，更新了点数统计的逻辑。伴随这一改动，同时需要多种点数的场合，点数显示按钮将以'/'对它们进行分隔。\r\n  (注) 部分用户的计算机可能因此显示不全。请点击按钮查看详情。\r\n6. 采集时钟追加了6.1限时时钟。\r\n7. ‘限时采集品统计’按钮现已可用。\r\n8. 修改了‘选择部件’的部件描述，以使其与查看部件的描述统一。\r\n9. 为主程序追加了图标。\r\n10. [采集时钟]的初始位置调整为‘屏幕中央’。\r\n11. [普通采集品统计]和[限时采集品统计]按钮均已适配6.10版本数据。此外，打开统计时不再限制其他窗口的操作，初始位置调整为‘屏幕中央’。\r\n\r\nhttps://nga.178.com/read.php?pid=606417349"
+    },
+    {
+      "UpdateTime": "2022.04.25",
+      "ProgramVersionBefore": "1.0.2",
+      "ProgramVersionAfter": "1.0.4",
+      "DataVersionBefore": 1002,
+      "DataVersionAfter": 1012,
+      "SupportFFPatchBefore": "6.05版本",
+      "SupportFFPatchAfter": "6.05版本",
+      "Content_BugFixDetail": "修复了部分文本错误。",
+      "Content_FuncAddDetail": "1. 数据更新: 素材及半成品名称更新至国服文本。\r\n2. 追加‘常规采集品统计’功能，点击[4. 检查结果]中的此按钮，将展示采集职业的非限时采集品统计。\r\n  (注：截图仅代表UI显示效果，材料计算有误。实装版本已经修复了相关问题。)\r\n3. 追加了‘查看已选部件’功能，可以以表格形式查看已经选择的装备部件数量统计。\r\n  暂不支持编辑功能，将在后续版本实装。\r\n\r\nhttps://nga.178.com/read.php?pid=605904054"
+    },
+    {
+      "UpdateTime": "2022.04.24",
+      "ProgramVersionBefore": "1.0.1",
+      "ProgramVersionAfter": "1.0.2",
+      "DataVersionBefore": 1001,
+      "DataVersionAfter": 1002,
+      "SupportFFPatchBefore": "6.05版本",
+      "SupportFFPatchAfter": "6.05版本",
+      "Content_BugFixDetail": "1. 修复了部分DPI设置下，星级配方数量统计值显示位数过低的问题；\r\n2. 修复了晓月灵砂数量计算错误的问题。伴随这一改动，幻水半成品的描述文字(鼠标悬停在按钮上可以查看)追加了'每份会产出3个成品'的文本。",
+      "Content_FuncAddDetail": "1. 点数统计现在会同时显示点数的名称：\r\n2. 删除了功能重复的'点数素材统计'按钮(请点击灰色底的'点数x1111'按钮来查询点数统计)："
+    },
+    {
+      "UpdateTime": "2022.04.23",
+      "ProgramVersionBefore": "1.0.0",
+      "ProgramVersionAfter": "1.0.1",
+      "DataVersionBefore": 1001,
+      "DataVersionAfter": 1001,
+      "SupportFFPatchBefore": "6.05版本",
+      "SupportFFPatchAfter": "6.05版本",
+      "Content_BugFixDetail": "1. 修复了采集时钟在部分ET下会报错的问题；\r\n2. 修复了采集时钟'隐藏下半区'点击后会遮挡部分采集时钟的问题；\r\n3. 修复了主界面'点数素材统计'按钮不工作的问题。",
+      "Content_FuncAddDetail": "1. 添加了6.0传承录的采集时钟(制作6.05战职装备相关)；\r\n2. 采集时钟现在可以翻页。"
     }
   ]
 }
+
