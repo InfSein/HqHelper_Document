@@ -8,7 +8,7 @@
       "DataVersionAfter": 1203,
       "SupportFFPatchBefore": "6.20版本",
       "SupportFFPatchAfter": "6.20版本",
-      "Content_BugFixDetail": "此版本未包含问题修复。\r\n",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
       "Content_FuncAddDetail": "1. 顶部工具栏的[设置与更新]下拉框中新增了[更新历史]按钮。\r\n点击后，您可以轻松浏览程序自发布以来的版本更新与更新日志。\r\n程序会预留缓存以提升下一次打开的加载速度，直至下一次版本更新。在此之前您可以点击窗口左上角的[强制刷新]按钮来手动刷新。\r\n※ 伴随这一改动，[检查更新]界面的[查看更新历史]按钮被移除。\r\n2. 程序的自动更新功能现在会同时检查HqHelper更新器的最新版本。\r\n当更新器有功能更新时，程序会在下载安装新版本之前先更新更新器。\r\n※ 仅有程序有新版本时才会允许程序更新，进而触发更新器的检查更新。因此您在更新此版本后，可能要等待至1.2.5版本发布时才能获取到新版本的更新器。\r\n3. 优化了[成本/价格分析]功能发生错误时的弹窗说明文本。\r\n4. 对涉及网络请求的功能(如成本/价格分析与更新历史)进行了优化。超时等待时间有所缓和。\r\n"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "UpdateTime": "2022.08.25",
-      "ProgramVersionBefore": "1.1.19",
-      "ProgramVersionAfter": "1.1.19",
+      "ProgramVersionBefore": "1.1.20",
+      "ProgramVersionAfter": "1.1.20",
       "DataVersionBefore": 1125,
       "DataVersionAfter": 1200,
       "SupportFFPatchBefore": "6.10版本",
