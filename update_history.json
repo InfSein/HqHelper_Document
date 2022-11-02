@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2022.11.02",
+      "ProgramVersionBefore": "1.2.6",
+      "ProgramVersionAfter": "1.2.6",
+      "DataVersionBefore": 1203,
+      "DataVersionAfter": 1204,
+      "SupportFFPatchBefore": "6.20版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "修复了6.20版本吟游诗人主手武器配方的错误。",
+      "Content_FuncAddDetail": "此版本未包含功能更新。"
+    },
+    {
       "UpdateTime": "2022.10.20",
       "ProgramVersionBefore": "1.2.5",
       "ProgramVersionAfter": "1.2.6",
