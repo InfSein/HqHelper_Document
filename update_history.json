@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2022.12.02",
+      "ProgramVersionBefore": "1.2.6",
+      "ProgramVersionAfter": "1.2.7",
+      "DataVersionBefore": 1204,
+      "DataVersionAfter": 1204,
+      "SupportFFPatchBefore": "6.20版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "1. [成本/收益预估]窗口现在会在标题栏中显示当前服务器。\r\n2. 优化了[检查更新]的‘更新数据’功能。现在更新失败之后，更新按钮将恢复可点击状态，不再需要重新打开窗口。\r\n3. 优化了[检查更新]功能发生错误时的弹窗说明文本。\r\n4. 网络请求的超时等待时间有所缓和(从15秒增加至30秒)。\r\n5. 新增了日志记录功能，部分错误现在会把详细错误信息记录到本地，以便您向开发者反馈。"
+    },
+    {
       "UpdateTime": "2022.11.02",
       "ProgramVersionBefore": "1.2.6",
       "ProgramVersionAfter": "1.2.6",
