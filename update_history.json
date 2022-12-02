@@ -2,6 +2,17 @@
   "Histories": [
     {
       "UpdateTime": "2022.12.02",
+      "ProgramVersionBefore": "1.2.7",
+      "ProgramVersionAfter": "1.2.8",
+      "DataVersionBefore": 1204,
+      "DataVersionAfter": 1204,
+      "SupportFFPatchBefore": "6.20版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "此版本修复了[成本/收益分析]价格全部为0的问题。",
+      "Content_FuncAddDetail": "此版本未包含功能更新。"
+    },
+    {
+      "UpdateTime": "2022.12.02",
       "ProgramVersionBefore": "1.2.6",
       "ProgramVersionAfter": "1.2.7",
       "DataVersionBefore": 1204,
