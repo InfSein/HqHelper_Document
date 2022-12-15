@@ -2,7 +2,12 @@
   <head>
     <script>
       function goPage(url) {
-        window.open(url, '_blank')
+        window.open(document.location.href + url, '_blank')
+      }
+      function goEdit(url) {
+        var is_gitee = document.location.href.match('gitee.io')
+        let href = is_gitee ? 'https://gitee.com/infsein/hq-helper_-document/edit/main/' : 'https://github.com/InfSein/HqHelper_Document/edit/main/';
+        window.open(href + url, '_blank')
       }
     </script>
   </head>
@@ -12,20 +17,24 @@
     <div class='hrefs'>
       <table><tr>
         <td>DataPtr</td>
-        <td><button onclick='goPage("https://infsein.github.io/HqHelper_Document/data_ptr.json")'>View</button></td>
-        <td><button onclick='goPage("https://github.com/InfSein/HqHelper_Document/edit/main/data_ptr.json")'>Edit</button></td>
+        <td><button onclick='goPage("data_ptr.json")'>View</button></td>
+        <td><button onclick='goEdit("data_ptr.json")'>Edit</button></td>
         </tr><tr>
         <td>Data</td>
-        <td><button onclick='goPage("https://infsein.github.io/HqHelper_Document/data.json")'>View</button></td>
-        <td><button onclick='goPage("https://github.com/InfSein/HqHelper_Document/edit/main/data.json")'>Edit</button></td>
+        <td><button onclick='goPage("data.json")'>View</button></td>
+        <td><button onclick='goEdit("data.json")'>Edit</button></td>
+        </tr><tr>
+        <td>updaterInfo(old)</td>
+        <td><button onclick='goPage("updaterInfo.html")'>View</button></td>
+        <td><button onclick='goEdit("updaterInfo.html")'>Edit</button></td>
         </tr><tr>
         <td>updaterInfo</td>
-        <td><button onclick='goPage("https://infsein.github.io/HqHelper_Document/updaterInfo.html")'>View</button></td>
-        <td><button onclick='goPage("https://github.com/InfSein/HqHelper_Document/edit/main/updaterInfo.html")'>Edit</button></td>
+        <td><button onclick='goPage("updaterInfo.json")'>View</button></td>
+        <td><button onclick='goEdit("updaterInfo.json")'>Edit</button></td>
         </tr><tr>
         <td>updateHistory</td>
-        <td><button onclick='goPage("https://infsein.github.io/HqHelper_Document/update_history.json")'>View</button></td>
-        <td><button onclick='goPage("https://github.com/InfSein/HqHelper_Document/edit/main/update_history.json")'>Edit</button></td>
+        <td><button onclick='goPage("update_history.json")'>View</button></td>
+        <td><button onclick='goEdit("update_history.json")'>Edit</button></td>
         </tr><tr>
         <td>...and This Page</td>
         <td colspan="2" align="right">
