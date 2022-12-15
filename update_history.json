@@ -1,15 +1,15 @@
 {
   "Histories": [
     {
-      "UpdateTime": "2022.12.02",
+      "UpdateTime": "2022.12.15",
       "ProgramVersionBefore": "1.2.7",
-      "ProgramVersionAfter": "1.2.8",
+      "ProgramVersionAfter": "1.2.9",
       "DataVersionBefore": 1204,
       "DataVersionAfter": 1204,
       "SupportFFPatchBefore": "6.20版本",
       "SupportFFPatchAfter": "6.20版本",
-      "Content_BugFixDetail": "此版本修复了[成本/收益分析]价格全部为0的问题。",
-      "Content_FuncAddDetail": "此版本未包含功能更新。"
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "1. 借助Gitee Pages的支持，程序更新的[国际加速]功能现已实装。\r\n    1) 今后，Github中托管的更新数据会被同步到Gitee中。\r\n       对于国内用户，使用Gitee获取更新数据会比原先更加快速和稳定。\r\n       国内用户在更新到此版本之后，便会自动享受加速效果。\r\n       ※ 此项改动只对‘更新历史’和‘检查更新’生效。\r\n       ※ HqHelper更新器的改动将在后续实装。\r\n    2) 若您所在的国家或地区访问Gitee的效率慢于Github(常见于海外用户)，可以尝试关闭此功能。\r\n       前往[偏好设置]中新增的‘更新选项’选项框，勾选‘禁用国际加速’。\r\n       ※ 为避免误操作，勾选此选项框时会弹出二次确认。\r\n       ※ 伴随这一改动，曾位于‘通用’选项框的‘自动检查程序更新’与‘自动检查数据更新’被移动到‘更新选项’选项框。\r\n2. 为适应universalis的接口更改，对[成本/收益分析]功能作出了下述调整。\r\n    1) 在偏好设置中新增了‘价格偏好’与‘区分HQ’的选项。作出更改后，将采用不同的价格数据。\r\n       ※ 若未作出更改，则与1.2.7及更早版本的效果一致。\r\n       ※ 可能需要多次调整才能获得您想要获取的结果。\r\n    2) [成本/收益分析]窗口将同步展示您对‘价格偏好’与‘区分HQ’的设置。\r\n    3) 与此功能相关联的部分文本有所调整。\r\n3. 现在在更新和安装HqHelper更新器时，也会忽略重复的.dll依赖文件。\r\n   ※ 这样会避免生成一些不必要的缓存文件。您可以手动删除程序目录下所有.PendingOverwrite文件，这不会影响使用。\r\n"
     },
     {
       "UpdateTime": "2022.12.02",

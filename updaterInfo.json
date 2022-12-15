@@ -1,10 +1,10 @@
 {
-	"LatestPatch": "1.2.7",
+	"LatestPatch": "1.2.9",
 	"OnMaintenance": false,
-	"PatchInfo": "此版本修复了成本/收益预估中物品价格全部为0的问题。",
-	"DetailLink": "https://bbs.nga.cn/read.php?pid=658245353",
-	"DownloadLink_Light": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.2.7/HqHelper_releases_1.2.7_LightPack.zip",
-	"DownloadLink_Full": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.2.7/HqHelper_releases_1.2.7_FullPack.zip",
+	"PatchInfo": "此版本对内置更新与价格分析功能作出了数项优化。",
+	"DetailLink": "https://bbs.nga.cn/read.php?pid=660225637",
+	"DownloadLink_Light": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.2.9/HqHelper_releases_1.2.9_LightPack.zip",
+	"DownloadLink_Full": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.2.9/HqHelper_releases_1.2.9_FullPack.zip",
 	"Updater_Version": 3,
 	"Updater_DownloadLink": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v3/updater.v3a.zip"
 }
