@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime":"2022.12.18",
+      "ProgramVersionBefore":"1.2.9",
+      "ProgramVersionAfter":"1.2.10",
+      "DataVersionBefore":1204,
+      "DataVersionAfter":1204,
+      "SupportFFPatchBefore":"6.20版本",
+      "SupportFFPatchAfter":"6.20版本",
+      "Content_BugFixDetail":"1. 修复了6.2版本中，晓月灵砂数量的计算忽略了7级幻水的问题。\r\n2. 修复了所有版本中，晓月灵砂数量的计算会合并不同类型幻水的问题。\r\n   ※ 例如，某个配方需要1个刚力幻水和2个耐力幻水。在实际制作时，应当准备2组材料来分别制作两种幻水。在此版本之前，程序会先将这些幻水求和，而计算出只需要1组材料。\r\n",
+      "Content_FuncAddDetail":"为6.30版本添加了Logo。\r\n※ 相关数据仍须等待国际服6.3上线后才能更新。\r\n"
+    },
+    {
       "UpdateTime": "2022.12.15",
       "ProgramVersionBefore": "1.2.7",
       "ProgramVersionAfter": "1.2.9",
