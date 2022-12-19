@@ -1,17 +1,17 @@
 {
   "Version": {
-    "DataVersion": 1204,
+    "DataVersion": 1205,
     "SupportFfPatch": "6.20",
-    "ThemeLink": "https://nga.178.com/read.php?tid=31596099",
-    "HelpLink": "https://nga.178.com/read.php?pid=605238923",
-    "FeedBackLink": "https://nga.178.com/post.php?action=reply&_newui&fid=698&tid=31596099",
-    "UpdateDetailLink": "https://nga.178.com/read.php?tid=31596099&authorid=41369816&page=e",
+    "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
+    "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
+    "FeedBackLink": "https://bbs.nga.cn/post.php?action=reply&_newui&fid=698&tid=31596099",
+    "UpdateDetailLink": "https://bbs.nga.cn/read.php?tid=31596099&authorid=41369816&page=e",
     "CriticalNotice": "",
     "AdditionalTexts": " - 6.20新增的道具数据已经更新完毕。",
     "ExtendedHelpers": {
-      "Patch605": "https://nga.178.com/read.php?tid=30136486",
-      "Patch610": "https://nga.178.com/read.php?tid=31645201",
-      "Patch620": "https://nga.178.com/read.php?tid=33206143",
+      "Patch605": "https://bbs.nga.cn/read.php?tid=30136486",
+      "Patch610": "https://bbs.nga.cn/read.php?tid=31645201",
+      "Patch620": "https://bbs.nga.cn/read.php?tid=33206143",
       "Patch630": "",
       "Patch640": ""
     }
@@ -21740,38 +21740,38 @@
       {
         "id": 51,
         "type": 3,
-        "name": "龙头树木材",
+        "name": "仁面木木材",
         "jpname": "パルダオ材",
         "enname": "Paldao Lumber",
         "foreignName": "Paldao Lumber",
-        "description": "龙头树木材/パルダオ材/Paldao Lumber\n刻木星级配方。\n每份需要：\n[龙头树原木]*5\n[拉扎罕清漆]*2"
+        "description": "仁面木木材/パルダオ材/Paldao Lumber\n刻木星级配方。\n每份需要：\n[仁面木原木]*5\n[拉扎罕清漆]*2"
       },
       {
         "id": 52,
         "type": 3,
-        "name": "褐铁合金锭",
+        "name": "钛铁锭",
         "jpname": "イルメナイトインゴット",
         "enname": "Ilmenite Ingot",
         "foreignName": "Ilmenite Ingot",
-        "description": "褐铁合金锭/イルメナイトインゴット/Ilmenite Ingot\n锻铁/铸甲星级配方。\n每份需要：\n[钛铁矿]*5\n[褐铅矿]*2"
+        "description": "钛铁锭/イルメナイトインゴット/Ilmenite Ingot\n锻铁/铸甲星级配方。\n每份需要：\n[钛铁矿]*5\n[钒铅矿]*2"
       },
       {
         "id": 53,
         "type": 3,
-        "name": "金红石石英",
+        "name": "发晶",
         "jpname": "ルチルクォーツ",
         "enname": "Rutilated Quartz",
         "foreignName": "Rutilated Quartz",
-        "description": "金红石石英/ルチルクォーツ/Rutilated Quartz\n雕金星级配方。\n每份需要：\n[金红石石英原石]*5\n[萨维奈贵榴石]*2"
+        "description": "发晶/ルチルクォーツ/Rutilated Quartz\n雕金星级配方。\n每份需要：\n[发晶原石]*5\n[萨维奈贵榴石]*2"
       },
       {
         "id": 54,
         "type": 3,
-        "name": "提坦诺瓦革",
+        "name": "泰坦蚺革",
         "jpname": "ティタノボアレザー",
         "enname": "Titanoboa Leather",
         "foreignName": "Titanoboa Leather",
-        "description": "提坦诺瓦革/ティタノボアレザー/Titanoboa Leather\n制革星级配方。\n每份需要：\n[诃子]*5\n[提坦诺瓦的粗皮]*2"
+        "description": "泰坦蚺革/ティタノボアレザー/Titanoboa Leather\n制革星级配方。\n每份需要：\n[诃子]*5\n[泰坦蚺的粗皮]*2"
       },
       {
         "id": 55,
@@ -21780,7 +21780,7 @@
         "jpname": "渋木染布",
         "enname": "Bayberry Cloth",
         "foreignName": "Bayberry Cloth",
-        "description": "杨梅染布/渋木染布/Bayberry Cloth\n裁缝星级配方。\n每份需要：\n[杨梅枝]*4\n[白花葛布]*2"
+        "description": "杨梅染布/渋木染布/Bayberry Cloth\n裁缝星级配方。\n每份需要：\n[杨梅]*4\n[白花葛布]*2"
       },
       {
         "id": 56,
@@ -21986,7 +21986,7 @@
         "name": "藤春木木材",
         "need": "萨维奈木贼草",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 12,
@@ -21994,7 +21994,7 @@
         "name": "月精金锭",
         "need": "遗烈乡骸炭",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 13,
@@ -22002,7 +22002,7 @@
         "name": "铑金锭",
         "need": "遗烈乡研磨剂",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 14,
@@ -22010,7 +22010,7 @@
         "name": "两栖犀革",
         "need": "两栖犀的粗皮",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 15,
@@ -22018,7 +22018,7 @@
         "name": "黄金丝绸",
         "need": "萨维奈绢丝",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 16,
@@ -22047,7 +22047,7 @@
       {
         "id": 51,
         "type": 1,
-        "name": "龙头树木材",
+        "name": "仁面木木材",
         "need": "拉扎罕清漆",
         "needCount": 2,
         "totalAllagan": 40
@@ -22055,15 +22055,15 @@
       {
         "id": 52,
         "type": 1,
-        "name": "褐铁合金锭",
-        "need": "褐铅矿",
+        "name": "钛铁锭",
+        "need": "钒铅矿",
         "needCount": 2,
         "totalAllagan": 40
       },
       {
         "id": 53,
         "type": 1,
-        "name": "金红石石英",
+        "name": "发晶",
         "need": "萨维奈贵榴石",
         "needCount": 2,
         "totalAllagan": 40
@@ -22071,8 +22071,8 @@
       {
         "id": 54,
         "type": 1,
-        "name": "提坦诺瓦革",
-        "need": "提坦诺瓦的粗皮",
+        "name": "泰坦蚺革",
+        "need": "泰坦蚺的粗皮",
         "needCount": 2,
         "totalAllagan": 40
       },
@@ -22489,10 +22489,10 @@
       // 6.20
       {
         "patch": 2,
-        "name": "甜瓜馅饼",
+        "name": "蜜瓜派",
         "jpname": "メロンパイ",
         "enname": "Melon Pie",
-        "description": "甜瓜馅饼/メロンパイ/Melon Pie\n>[HQ属性] 耐力+10%(最多118), 直击+10%(最多97), 信念+10%(最多58)\n>>制作配方：\n>>>雷霆甜瓜×1, 小柠檬×1, 晓月灵砂×1\n>>>发酵黄油×1, 裸麦粉×2, 厄尔庇斯之鸟蛋×1",
+        "description": "蜜瓜派/メロンパイ/Melon Pie\n>[HQ属性] 耐力+10%(最多118), 直击+10%(最多97), 信念+10%(最多58)\n>>制作配方：\n>>>电感蜜瓜×1, 小柠檬×1, 晓月灵砂×1\n>>>发酵黄油×1, 裸麦粉×2, 厄尔庇斯之鸟蛋×1",
         "materials": [
           {
             "id": 33,
@@ -22522,10 +22522,10 @@
       },
       {
         "patch": 2,
-        "name": "甜瓜汁",
+        "name": "蜜瓜果汁",
         "jpname": "メロンジュース",
         "enname": "Melon Juice",
-        "description": "甜瓜汁/メロンジュース/Melon Juice\n>[HQ属性] 耐力+10%(最多118), 技能速度+10%(最多97), 直击+10%(最多58)\n>>制作配方：\n>>>雷霆甜瓜×1, 晓月灵砂×1\n>>>野园甜菜糖×1, 棕榈糖×2, 古代肉豆蔻×1, 天水×1",
+        "description": "蜜瓜果汁/メロンジュース/Melon Juice\n>[HQ属性] 耐力+10%(最多118), 技能速度+10%(最多97), 直击+10%(最多58)\n>>制作配方：\n>>>电感蜜瓜×1, 晓月灵砂×1\n>>>野园甜菜糖×1, 棕榈糖×2, 古代肉豆蔻×1, 天水×1",
         "materials": [
           {
             "id": 33,
@@ -22555,10 +22555,10 @@
       },
       {
         "patch": 2,
-        "name": "日落胡萝卜小吃",
+        "name": "落日胡萝卜丝",
         "jpname": "サンセットカロットラペ",
         "enname": "Sunset Carrot Nibbles",
-        "description": "日落胡萝卜小吃/サンセットカロットラペ/Sunset Carrot Nibbles\n>[HQ属性] 耐力+10%(最多118), 暴击+10%(最多97), 技能速度+10%(最多58)\n>>制作配方：\n>>>日落胡萝卜×1, 晓月灵砂×1\n>>>黑夜醋×1, 紫苏油×2, 黄瓜×1, 星外洋葱×1",
+        "description": "落日胡萝卜丝/サンセットカロットラペ/Sunset Carrot Nibbles\n>[HQ属性] 耐力+10%(最多118), 暴击+10%(最多97), 技能速度+10%(最多58)\n>>制作配方：\n>>>落日胡萝卜×1, 晓月灵砂×1\n>>>黑夜醋×1, 紫苏油×2, 黄瓜×1, 星外洋葱×1",
         "materials": [
           {
             "id": 34,
@@ -22591,7 +22591,7 @@
         "name": "胡萝卜布丁",
         "jpname": "カロットプディング",
         "enname": "Carrot Pudding",
-        "description": "胡萝卜布丁/カロットプディング/Carrot Pudding\n>[HQ属性] 耐力+10%(最多118), 信念+10%(最多97), 暴击+10%(最多58)\n>>制作配方：\n>>>日落胡萝卜×1, 晓月灵砂×1\n>>>野园甜菜糖×1, 棕榈糖×2, 麝牛奶×1, 厄尔庇斯之鸟蛋×1",
+        "description": "胡萝卜布丁/カロットプディング/Carrot Pudding\n>[HQ属性] 耐力+10%(最多118), 信念+10%(最多97), 暴击+10%(最多58)\n>>制作配方：\n>>>落日胡萝卜×1, 晓月灵砂×1\n>>>野园甜菜糖×1, 棕榈糖×2, 麝牛奶×1, 厄尔庇斯之鸟蛋×1",
         "materials": [
           {
             "id": 34,
@@ -22621,10 +22621,10 @@
       },
       {
         "patch": 2,
-        "name": "旋转肉卷",
+        "name": "旋转烤肉卷饼",
         "jpname": "ギロピタ",
         "enname": "Gyros",
-        "description": "旋转肉卷/ギロピタ/Gyros\n>[HQ属性] 耐力+10%(最多118), 信仰+10%(最多97), 信念+10%(最多58)\n>>制作配方：\n>>>洛夫坦高级羊肉×1, 晓月灵砂×1\n>>>山地小麦粉×1, 北洋食盐×2, 冰山莴苣×1, 麝牛奶×1",
+        "description": "旋转烤肉卷饼/ギロピタ/Gyros\n>[HQ属性] 耐力+10%(最多118), 信仰+10%(最多97), 信念+10%(最多58)\n>>制作配方：\n>>>洛夫坦山羊臀肉×1, 晓月灵砂×1\n>>>山地小麦粉×1, 北洋食盐×2, 冰山莴苣×1, 麝牛奶×1",
         "materials": [
           {
             "id": 35,
@@ -22654,10 +22654,10 @@
       },
       {
         "patch": 2,
-        "name": "洛夫坦羊排",
+        "name": "洛夫坦山羊臀肉排",
         "jpname": "ロフタンのランプステーキ",
         "enname": "Loaghtan Rump Steak",
-        "description": "洛夫坦羊排/ロフタンのランプステーキ/Loaghtan Rump Steak\n>[HQ属性] 耐力+10%(最多118), 咏唱速度+10%(最多97), 信仰+10%(最多58)\n>>制作配方：\n>>>洛夫坦高级羊肉×1, 晓月灵砂×1\n>>>黑夜胡椒×1, 黑夜醋×1, 紫苏油×2, 萨维奈彩椒×1",
+        "description": "洛夫坦山羊臀肉排/ロフタンのランプステーキ/Loaghtan Rump Steak\n>[HQ属性] 耐力+10%(最多118), 咏唱速度+10%(最多97), 信仰+10%(最多58)\n>>制作配方：\n>>>洛夫坦山羊臀肉×1, 晓月灵砂×1\n>>>黑夜胡椒×1, 黑夜醋×1, 紫苏油×2, 萨维奈彩椒×1",
         "materials": [
           {
             "id": 35,
@@ -22687,10 +22687,10 @@
       },
       {
         "patch": 2,
-        "name": "佩恩罗番茄沙拉",
+        "name": "悬挂番茄沙拉",
         "jpname": "ピエンノロトマトサラダ",
         "enname": "Piennolo Tomato Salad",
-        "description": "佩恩罗番茄沙拉/ピエンノロトマトサラダ/Piennolo Tomato Salad\n>[HQ属性] 耐力+10%(最多118), 咏唱速度+10%(最多97), 直击+10%(最多58)\n>>制作配方：\n>>>佩恩罗番茄×1, 晓月灵砂×1\n>>>黑夜醋×1, 紫苏油×2, 冰山莴苣×1, 萨维奈彩椒×1",
+        "description": "悬挂番茄沙拉/ピエンノロトマトサラダ/Piennolo Tomato Salad\n>[HQ属性] 耐力+10%(最多118), 咏唱速度+10%(最多97), 直击+10%(最多58)\n>>制作配方：\n>>>悬挂番茄×1, 晓月灵砂×1\n>>>黑夜醋×1, 紫苏油×2, 冰山莴苣×1, 萨维奈彩椒×1",
         "materials": [
           {
             "id": 36,
@@ -22723,7 +22723,7 @@
         "name": "加雷马披萨",
         "jpname": "ガレアンピッツァ",
         "enname": "Garlean Pizza",
-        "description": "加雷马披萨/ガレアンピッツァ/Garlean Pizza\n>[HQ属性] 耐力+10%(最多118), 暴击+10%(最多97), 咏唱速度+10%(最多58)\n>>制作配方：\n>>>佩恩罗番茄×1,晓月灵砂×1\n>>>中原罗勒草×1, 山地小麦粉×1, 加雷马奶酪×2, 星外洋葱×1",
+        "description": "加雷马披萨/ガレアンピッツァ/Garlean Pizza\n>[HQ属性] 耐力+10%(最多118), 暴击+10%(最多97), 咏唱速度+10%(最多58)\n>>制作配方：\n>>>悬挂番茄×1,晓月灵砂×1\n>>>中原罗勒草×1, 山地小麦粉×1, 加雷马奶酪×2, 星外洋葱×1",
         "materials": [
           {
             "id": 36,
@@ -22753,10 +22753,10 @@
       },
       {
         "patch": 2,
-        "name": "海胆意面",
+        "name": "帝王海胆奶油面",
         "jpname": "アーチンテリーヌパスタ",
         "enname": "Urchin Pasta",
-        "description": "海胆意面/アーチンテリーヌパスタ/Urchin Pasta\n>[HQ属性] 耐力+10%(最多118), 坚韧+10%(最多97), 信念+10%(最多58)\n>>制作配方：\n>>>海胆王×1, 晓月灵砂×1\n>>>大蒜×1, 高地干面×1, 椰奶×2, 星外洋葱×1",
+        "description": "帝王海胆奶油面/アーチンテリーヌパスタ/Urchin Pasta\n>[HQ属性] 耐力+10%(最多118), 坚韧+10%(最多97), 信念+10%(最多58)\n>>制作配方：\n>>>帝王海胆×1, 晓月灵砂×1\n>>>大蒜×1, 高地干面×1, 椰奶×2, 星外洋葱×1",
         "materials": [
           {
             "id": 37,
@@ -22786,10 +22786,10 @@
       },
       {
         "patch": 2,
-        "name": "海胆王糕",
+        "name": "焗帝王海胆佐面包",
         "jpname": "キングアーチンテリーヌ",
         "enname": "King Urchin Loaf",
-        "description": "海胆王糕/キングアーチンテリーヌ/King Urchin Loaf\n>[HQ属性] 耐力+10%(最多118), 信念+10%(最多97), 坚韧+10%(最多58)\n>>制作配方：\n>>>海胆王×1, 晓月灵砂×1\n>>>牦牛奶油×1, 奶油菇×1, 椰奶×2, 厄尔庇斯之鸟蛋×1",
+        "description": "焗帝王海胆佐面包/キングアーチンテリーヌ/King Urchin Loaf\n>[HQ属性] 耐力+10%(最多118), 信念+10%(最多97), 坚韧+10%(最多58)\n>>制作配方：\n>>>帝王海胆×1, 晓月灵砂×1\n>>>牦牛奶油×1, 奶油菇×1, 椰奶×2, 厄尔庇斯之鸟蛋×1",
         "materials": [
           {
             "id": 37,
@@ -23054,35 +23054,35 @@
       {
         "id": 33,
         "scrip": 15,
-        "name": "雷霆甜瓜",
+        "name": "电感蜜瓜",
         "jpname": "サンダーメロン",
         "enname": "Thundermelon"
       },
       {
         "id": 34,
         "scrip": 15,
-        "name": "日落胡萝卜",
+        "name": "落日胡萝卜",
         "jpname": "サンセットカロット",
         "enname": "Sunset Carrot"
       },
       {
         "id": 35,
         "scrip": 15,
-        "name": "洛夫坦高级羊肉",
+        "name": "洛夫坦山羊臀肉",
         "jpname": "ロフタンの高級ランプ肉",
         "enname": "Prime Loaghtan Rump"
       },
       {
         "id": 36,
         "scrip": 15,
-        "name": "佩恩罗番茄",
+        "name": "悬挂番茄",
         "jpname": "ピエンノロトマト",
         "enname": "Piennolo Tomato"
       },
       {
         "id": 37,
         "scrip": 15,
-        "name": "海胆王",
+        "name": "帝王海胆",
         "jpname": "キングアーチン",
         "enname": "King Urchin"
       },
@@ -23758,16 +23758,16 @@
 
     // 6.2 temps
     "诃子": 37819,
-    "龙头树原木": 37818,
-    "杨梅枝": 37821,
-    "金红石石英原石": 37817,
+    "仁面木原木": 37818,
+    "杨梅": 37821,
+    "发晶原石": 37817,
     "钛铁矿": 37820,
     "灰绿硅藻土": 37822,
     "波洛伽槲寄生": 37823,
     "萨维奈贵榴石": 37825,
     "拉扎罕清漆": 37826,
-    "提坦诺瓦的粗皮": 37827,
-    "褐铅矿": 37828,
+    "泰坦蚺的粗皮": 37827,
+    "钒铅矿": 37828,
     "白花葛布": 37829,
     "610骑士主手": 37742,
     "610骑士副手": 37761,

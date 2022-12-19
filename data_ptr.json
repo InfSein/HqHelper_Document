@@ -1,6 +1,6 @@
 {
-  "LatestDataVersion": 1204,
+  "LatestDataVersion": 1205,
   "OnMaintenance": false,
-  "PatchInfo": "修复了6.20版本吟游诗人主手武器配方的错误。",
-  "DetailLink": "https://nga.178.com/read.php?pid=650247339"
+  "PatchInfo": "将道具名称更新至国服文本。请先将程序更新到1.2.11，以免导致无法预料的错误。",
+  "DetailLink": "https://nga.178.com/read.php?pid=661130319"
 }
