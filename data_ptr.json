@@ -1,6 +1,6 @@
 {
-  "LatestDataVersion": 1205,
+  "LatestDataVersion": 1206,
   "OnMaintenance": false,
-  "PatchInfo": "将道具名称更新至国服文本。请先将程序更新到1.2.11，以免导致无法预料的错误。",
-  "DetailLink": "https://nga.178.com/read.php?pid=661130319"
+  "PatchInfo": "修复一些描述错误。请先将程序更新到1.2.11，以免导致无法预料的错误。",
+  "DetailLink": "https://nga.178.com/read.php?pid=662750914"
 }

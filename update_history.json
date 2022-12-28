@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2022.12.28",
+      "ProgramVersionBefore": "1.2.11",
+      "ProgramVersionAfter": "1.2.11",
+      "DataVersionBefore": 1205,
+      "DataVersionAfter": 1206,
+      "SupportFFPatchBefore": "6.20版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "1. 修复了杨梅染布的描述错误。",
+      "Content_FuncAddDetail": "此版本未包含功能更新。"
+    },
+    {
       "UpdateTime": "2022.12.19",
       "ProgramVersionBefore": "1.2.10",
       "ProgramVersionAfter": "1.2.11",

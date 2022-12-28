@@ -1,13 +1,13 @@
 {
   "Version": {
-    "DataVersion": 1205,
+    "DataVersion": 1206,
     "SupportFfPatch": "6.20",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
     "FeedBackLink": "https://bbs.nga.cn/post.php?action=reply&_newui&fid=698&tid=31596099",
     "UpdateDetailLink": "https://bbs.nga.cn/read.php?tid=31596099&authorid=41369816&page=e",
     "CriticalNotice": "",
-    "AdditionalTexts": " - 6.20新增的道具数据已经更新完毕。",
+    "AdditionalTexts": "",
     "ExtendedHelpers": {
       "Patch605": "https://bbs.nga.cn/read.php?tid=30136486",
       "Patch610": "https://bbs.nga.cn/read.php?tid=31645201",
@@ -21780,7 +21780,7 @@
         "jpname": "渋木染布",
         "enname": "Bayberry Cloth",
         "foreignName": "Bayberry Cloth",
-        "description": "杨梅染布/渋木染布/Bayberry Cloth\n裁缝星级配方。\n每份需要：\n[杨梅]*4\n[白花葛布]*2"
+        "description": "杨梅染布/渋木染布/Bayberry Cloth\n裁缝星级配方。\n每份需要：\n[杨梅]*5\n[白花葛布]*2"
       },
       {
         "id": 56,
