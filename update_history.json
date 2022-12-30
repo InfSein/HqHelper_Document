@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2022.12.30",
+      "ProgramVersionBefore": "1.2.11",
+      "ProgramVersionAfter": "1.2.12",
+      "DataVersionBefore": 1206,
+      "DataVersionAfter": 1207,
+      "SupportFFPatchBefore": "6.20版本",
+      "SupportFFPatchAfter": "6.20版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "1. 610HQ成品名称(仅用于成本/收益分析展示)更新为国服文本。\r\n2. 在[偏好设置]的[通用]选项卡中新增了‘UI缩放’的选项。\r\n可以在下拉框中自行选择1.1~1.5倍的UI缩放，对所有窗体都会生效。\r\n若您的电脑在标准缩放(1.0倍)下无法完整显示所有信息，可以通过这一设置进行调整。\r\n主窗口的UI缩放变动重启后生效，其余窗口立即生效。\r\n※ 使用变大的UI可能会导致一些难以预料的UI错位。请谨慎设置。\r\n3. 优化了自动更新的逻辑。\r\n勾选了‘自动检查程序更新’的用户，检测到更新器的新版本时，会在确认要安装更新后再自动安装更新器。\r\n"
+    },
+    {
       "UpdateTime": "2022.12.28",
       "ProgramVersionBefore": "1.2.11",
       "ProgramVersionAfter": "1.2.11",
