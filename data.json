@@ -1,18 +1,18 @@
 {
   "Version": {
-    "DataVersion": 1206,
-    "SupportFfPatch": "6.20",
+    "DataVersion": 1300,
+    "SupportFfPatch": "6.30",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
     "FeedBackLink": "https://bbs.nga.cn/post.php?action=reply&_newui&fid=698&tid=31596099",
     "UpdateDetailLink": "https://bbs.nga.cn/read.php?tid=31596099&authorid=41369816&page=e",
     "CriticalNotice": "",
-    "AdditionalTexts": "",
+    "AdditionalTexts": "", // 会添加到About页面
     "ExtendedHelpers": {
       "Patch605": "https://bbs.nga.cn/read.php?tid=30136486",
       "Patch610": "https://bbs.nga.cn/read.php?tid=31645201",
       "Patch620": "https://bbs.nga.cn/read.php?tid=33206143",
-      "Patch630": "",
+      "Patch630": "https://bbs.nga.cn/read.php?tid=34987137",
       "Patch640": ""
     }
   },
@@ -17824,8 +17824,8 @@
       }
     },
     "Patch630": {
-      "updated": false,
-      "name": "Patch 6.30-未知",
+      "updated": true,
+      "name": "Patch 6.30-天之庆典、地之鸣动",
       "data": {
         "Tank": {
           "exist": false,
@@ -18822,49 +18822,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 5
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             },
@@ -18873,49 +19146,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 5
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             },
@@ -18924,49 +19470,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 4
+                    },
+                    {
+                      "id": 37830,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 5
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             },
@@ -18975,49 +19794,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 5
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             },
@@ -19026,49 +20118,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 5
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             },
@@ -19077,49 +20442,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 5
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             },
@@ -19128,49 +20766,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 5
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             },
@@ -19179,49 +21090,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37830,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 5
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             }
@@ -19235,49 +21419,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 4
+                    },
+                    {
+                      "id": 37830,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 4
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             },
@@ -19286,49 +21743,322 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 4
+                    },
+                    {
+                      "id": 37830,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 4
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             },
@@ -19337,49 +22067,297 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 14,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": []
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 4
+                    },
+                    {
+                      "id": 37830,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37833,
+                      "count": 3
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 15,
+                      "count": 5
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    }
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 4
+                    },
+                    {
+                      "id": 37834,
+                      "count": 4
+                    },
+                    {
+                      "id": 37832,
+                      "count": 3
+                    },
+                    {
+                      "id": 39595,
+                      "count": 4
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38932,
+                      "count": 3
+                    },
+                    {
+                      "id": 37832,
+                      "count": 4
+                    },
+                    {
+                      "id": 37833,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 3
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37834,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 18,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {
+                      "id": 38931,
+                      "count": 2
+                    },
+                    {
+                      "id": 37832,
+                      "count": 2
+                    },
+                    {
+                      "id": 37831,
+                      "count": 1
+                    },
+                    {
+                      "id": 39595,
+                      "count": 2
+                    },
+                    {
+                      "id": 17,
+                      "count": 5
+                    },
+                    {
+                      "id": 16,
+                      "count": 5
+                    }
+                  ]
                 }
               }
             }
@@ -21054,6 +24032,15 @@
         "description": "巨海灵砂/巨海の霊砂/Endtide Aethersand\n精选收藏品获得\n在[红玉海]的镜岛东部(约39.0,32.1)叉鱼，获取收藏品形态的‘奥萨德圆鳍鱼’。\n在[天外天垓]的(7.3,22.5)使用[灰蚯蚓]垂钓，获取收藏品形态的‘噬卵者’。"
       },
       {
+        "id": 38936,
+        "type": 2,
+        "name": "地鸣灵砂",
+        "jpname": "地鳴の霊砂",
+        "enname": "Earthbreak Aethersand",
+        "foreignName": "地鳴の霊砂/Earthbreak Aethersand",
+        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [大地石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [瓦迪基里斯孔雀鱼/ヴァーディグリスグッピー/Verdigris Guppy]或[鼻龙/ラノシアンサウルス/Nosceasaur]"
+      },
+      {
         "id": 11,
         "type": 3,
         "name": "藤春木木材",
@@ -21390,6 +24377,15 @@
         "enname": "Endtide Aethersand",
         "foreignName": "巨海の霊砂/Endtide Aethersand",
         "description": "巨海灵砂/巨海の霊砂/Endtide Aethersand\n精选收藏品获得\n在[红玉海]的镜岛东部(约39.0,32.1)叉鱼，获取收藏品形态的‘奥萨德圆鳍鱼’。\n在[天外天垓]的(7.3,22.5)使用[灰蚯蚓]垂钓，获取收藏品形态的‘噬卵者’。"
+      },
+      {
+        "id": 38936,
+        "type": 2,
+        "name": "地鸣灵砂",
+        "jpname": "地鳴の霊砂",
+        "enname": "Earthbreak Aethersand",
+        "foreignName": "地鳴の霊砂/Earthbreak Aethersand",
+        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [大地石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [瓦迪基里斯孔雀鱼/ヴァーディグリスグッピー/Verdigris Guppy]或[鼻龙/ラノシアンサウルス/Nosceasaur]"
       },
       {
         "id": 11,
@@ -21738,6 +24734,15 @@
         "description": "巨海灵砂/巨海の霊砂/Endtide Aethersand\n精选收藏品获得\n在[红玉海]的镜岛东部(约39.0,32.1)叉鱼，获取收藏品形态的‘奥萨德圆鳍鱼’。\n在[天外天垓]的(7.3,22.5)使用[灰蚯蚓]垂钓，获取收藏品形态的‘噬卵者’。"
       },
       {
+        "id": 38936,
+        "type": 2,
+        "name": "地鸣灵砂",
+        "jpname": "地鳴の霊砂",
+        "enname": "Earthbreak Aethersand",
+        "foreignName": "地鳴の霊砂/Earthbreak Aethersand",
+        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [大地石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [瓦迪基里斯孔雀鱼/ヴァーディグリスグッピー/Verdigris Guppy]或[鼻龙/ラノシアンサウルス/Nosceasaur]"
+      },
+      {
         "id": 51,
         "type": 3,
         "name": "仁面木木材",
@@ -21977,7 +24982,206 @@
         "description": ""
       }
     ],
-    "Patch630": [ {} ],
+    "Patch630": [
+      {
+        "id": 0,
+        "type": 0,
+        "name": "placeholder",
+        "jpname": "",
+        "enname": "",
+        "foreignName": "",
+        "description": ""
+      },
+      {
+        "id": 36223,
+        "type": 2,
+        "name": "晓月灵砂",
+        "jpname": "暁月の霊砂",
+        "enname": "Moonlight Aethersand",
+        "foreignName": "暁月の霊砂/Moonlight Aethersand",
+        "description": "晓月灵砂/暁月の霊砂/Moonlight Aethersand\n精选收藏品获得\n[ET 00:00~04:00] 使用采矿工在[叹息海]的(21.6,34.7)采集收藏品形态的‘月石英’。\n[ET 08:00~12:00] 使用园艺工在[迷津]的(9.9,34.8)采集收藏品形态的‘水瓶土’。"
+      },
+      {
+        "id": 36224,
+        "type": 2,
+        "name": "巨岩灵砂",
+        "jpname": "巨岩の霊砂",
+        "enname": "Endstone Aethersand",
+        "foreignName": "巨岩の霊砂/Endstone Aethersand",
+        "description": "巨岩灵砂/巨岩の霊砂/Endstone Aethersand\n精选收藏品获得\n[ET 20:00~24:00] 使用采矿工在[加雷马]的(10.1,15.3)采集收藏品形态的‘暗性岩’。"
+      },
+      {
+        "id": 36225,
+        "type": 2,
+        "name": "巨树灵砂",
+        "jpname": "巨樹の霊砂",
+        "enname": "Endwood Aethersand",
+        "foreignName": "巨樹の霊砂/Endwood Aethersand",
+        "description": "巨树灵砂/巨樹の霊砂/Endwood Aethersand\n精选收藏品获得\n[ET 12:00~16:00] 使用园艺工在[萨维奈岛]的(25.2,14.4)采集收藏品形态的‘棕榈碎皮’。"
+      },
+      {
+        "id": 36226,
+        "type": 2,
+        "name": "巨海灵砂",
+        "jpname": "巨海の霊砂",
+        "enname": "Endtide Aethersand",
+        "foreignName": "巨海の霊砂/Endtide Aethersand",
+        "description": "巨海灵砂/巨海の霊砂/Endtide Aethersand\n精选收藏品获得\n在[红玉海]的镜岛东部(约39.0,32.1)叉鱼，获取收藏品形态的‘奥萨德圆鳍鱼’。\n在[天外天垓]的(7.3,22.5)使用[灰蚯蚓]垂钓，获取收藏品形态的‘噬卵者’。"
+      },
+      {
+        "id": 38936,
+        "type": 2,
+        "name": "地鸣灵砂",
+        "jpname": "地鳴の霊砂",
+        "enname": "Earthbreak Aethersand",
+        "foreignName": "地鳴の霊砂/Earthbreak Aethersand",
+        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [大地石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [瓦迪基里斯孔雀鱼/ヴァーディグリスグッピー/Verdigris Guppy]或[鼻龙/ラノシアンサウルス/Nosceasaur]"
+      },
+      {
+        "id": 37831,
+        "type": 3,
+        "name": "仁面木木材",
+        "jpname": "パルダオ材",
+        "enname": "Paldao Lumber",
+        "foreignName": "Paldao Lumber",
+        "description": "仁面木木材/パルダオ材/Paldao Lumber\n刻木星级配方。\n每份需要：\n[仁面木原木]*5\n[拉扎罕清漆]*2"
+      },
+      {
+        "id": 37833,
+        "type": 3,
+        "name": "钛铁锭",
+        "jpname": "イルメナイトインゴット",
+        "enname": "Ilmenite Ingot",
+        "foreignName": "Ilmenite Ingot",
+        "description": "钛铁锭/イルメナイトインゴット/Ilmenite Ingot\n锻铁/铸甲星级配方。\n每份需要：\n[钛铁矿]*5\n[钒铅矿]*2"
+      },
+      {
+        "id": 37830,
+        "type": 3,
+        "name": "发晶",
+        "jpname": "ルチルクォーツ",
+        "enname": "Rutilated Quartz",
+        "foreignName": "Rutilated Quartz",
+        "description": "发晶/ルチルクォーツ/Rutilated Quartz\n雕金星级配方。\n每份需要：\n[发晶原石]*5\n[萨维奈贵榴石]*2"
+      },
+      {
+        "id": 37832,
+        "type": 3,
+        "name": "泰坦蚺革",
+        "jpname": "ティタノボアレザー",
+        "enname": "Titanoboa Leather",
+        "foreignName": "Titanoboa Leather",
+        "description": "泰坦蚺革/ティタノボアレザー/Titanoboa Leather\n制革星级配方。\n每份需要：\n[诃子]*5\n[泰坦蚺的粗皮]*2"
+      },
+      {
+        "id": 37834,
+        "type": 3,
+        "name": "杨梅染布",
+        "jpname": "渋木染布",
+        "enname": "Bayberry Cloth",
+        "foreignName": "Bayberry Cloth",
+        "description": "杨梅染布/渋木染布/Bayberry Cloth\n裁缝星级配方。\n每份需要：\n[杨梅]*5\n[白花葛布]*2"
+      },
+      {
+        "id": 39595,
+        "type": 3,
+        "name": "超级强力胶",
+        "jpname": "超強力ゲル",
+        "enname": "Gripgel",
+        "foreignName": "",
+        "description": "在各地的工票交易人处，以500巧手白票的单价兑换。"
+      },
+      {
+        "id": 38932,
+        "type": 4,
+        "name": "工匠的幻水",
+        "jpname": "匠の幻水",
+        "enname": "Craftsman's Alkahest",
+        "foreignName": "",
+        "description": "工匠的幻水/匠の幻水/Craftsman's Alkahest\n- 90级★★★炼金术士配方\n- 每份需要：朝露树皮*4; 非挥发性炼金药*1; 地鸣灵砂*1"
+      },
+      {
+        "id": 38931,
+        "type": 4,
+        "name": "坦桑石",
+        "jpname": "ゾイサイト",
+        "enname": "Zoisite",
+        "foreignName": "",
+        "description": "坦桑石/ゾイサイト/Zoisite\n- 90级★★★雕金匠配方\n- 每份需要：坦桑石原石*4; 非挥发性炼金药*1; 地鸣灵砂*1"
+      },
+      {
+        "id": -1,
+        "type": 4,
+        "name": "无",
+        "jpname": "",
+        "enname": "",
+        "foreignName": "",
+        "description": ""
+      },
+      {
+        "id": -2,
+        "type": 4,
+        "name": "无",
+        "jpname": "",
+        "enname": "",
+        "foreignName": "",
+        "description": ""
+      },
+      {
+        "id": -3,
+        "type": 4,
+        "name": "无",
+        "jpname": "",
+        "enname": "",
+        "foreignName": "",
+        "description": ""
+      },
+      {
+        "id": 14,
+        "type": 5,
+        "name": "火之晶簇",
+        "jpname": "ファイアクラスター",
+        "enname": "Fire Cluster",
+        "foreignName": "",
+        "description": ""
+      },
+      {
+        "id": 17,
+        "type": 5,
+        "name": "土之晶簇",
+        "jpname": "アースクラスター",
+        "enname": "Earth Cluster",
+        "foreignName": "",
+        "description": ""
+      },
+      {
+        "id": 16,
+        "type": 5,
+        "name": "风之晶簇",
+        "jpname": "ウィンドクラスター",
+        "enname": "Wind Cluster",
+        "foreignName": "",
+        "description": ""
+      },
+      {
+        "id": 18,
+        "type": 5,
+        "name": "雷之晶簇",
+        "jpname": "ライトニングクラスター",
+        "enname": "Lightning Cluster",
+        "foreignName": "",
+        "description": ""
+      },
+      {
+        "id": 15,
+        "type": 5,
+        "name": "冰之晶簇",
+        "jpname": "アイスクラスター",
+        "enname": "Ice Cluster",
+        "foreignName": "",
+        "description": ""
+      }
+    ],
     "Patch640": [ {} ],
     "AllaganReflects": [
       {
@@ -22083,6 +25287,70 @@
         "need": "白花葛布",
         "needCount": 2,
         "totalAllagan": 40
+      },
+      {
+        "id": 37831,
+        "type": 1,
+        "name": "仁面木木材",
+        "need": "拉扎罕清漆",
+        "needCount": 2,
+        "totalAllagan": 40
+      },
+      {
+        "id": 37833,
+        "type": 1,
+        "name": "钛铁锭",
+        "need": "钒铅矿",
+        "needCount": 2,
+        "totalAllagan": 40
+      },
+      {
+        "id": 37830,
+        "type": 1,
+        "name": "发晶",
+        "need": "萨维奈贵榴石",
+        "needCount": 2,
+        "totalAllagan": 40
+      },
+      {
+        "id": 37832,
+        "type": 1,
+        "name": "泰坦蚺革",
+        "need": "泰坦蚺的粗皮",
+        "needCount": 2,
+        "totalAllagan": 40
+      },
+      {
+        "id": 37834,
+        "type": 1,
+        "name": "杨梅染布",
+        "need": "白花葛布",
+        "needCount": 2,
+        "totalAllagan": 40
+      },
+      {
+        "id": 39595,
+        "type": 3,
+        "name": "超级强力胶",
+        "need": "超级强力胶",
+        "needCount": 1,
+        "totalAllagan": 500
+      },
+      {
+        "id": 38932,
+        "type": 2,
+        "name": "工匠的幻水",
+        "need": "非挥发性炼金药",
+        "needCount": 1,
+        "totalAllagan": 125
+      },
+      {
+        "id": 38931,
+        "type": 2,
+        "name": "坦桑石",
+        "need": "非挥发性炼金药",
+        "needCount": 1,
+        "totalAllagan": 125
       }
     ]
   },
@@ -23756,7 +27024,7 @@
     "条约大地马裤": 36716,
     "条约大地矮靴": 36717,
 
-    // 6.2 temps
+    // 6.2
     "诃子": 37819,
     "仁面木原木": 37818,
     "杨梅": 37821,
@@ -23769,81 +27037,133 @@
     "泰坦蚺的粗皮": 37827,
     "钒铅矿": 37828,
     "白花葛布": 37829,
-    "610骑士主手": 37742,
-    "610骑士副手": 37761,
-    "610战士主手": 37744,
-    "610DK主手": 37748,
-    "610枪刃主手": 37757,
-    "610龙骑主手": 37745,
-    "610镰刀主手": 37760,
-    "610武僧主手": 37743,
-    "610武士主手": 37755,
-    "610忍者主手": 37747,
-    "610诗人主手": 37746,
-    "610机工主手": 37749,
-    "610舞者主手": 37758,
-    "610黑魔主手": 37751,
-    "610召唤主手": 37752,
-    "610赤魔主手": 37756,
-    "610白魔主手": 37750,
-    "610学者主手": 37753,
-    "610占星主手": 37754,
-    "610贤者主手": 37759,
-    "610御敌头": 37762,
-    "610御敌衣": 37763,
-    "610御敌手": 37764,
-    "610御敌腿": 37765,
-    "610御敌脚": 37766,
-    "610御敌耳坠": 37797,
-    "610御敌项链": 37802,
-    "610御敌手镯": 37807,
-    "610御敌戒指": 37812,
-    "610制敌头": 37767,
-    "610制敌衣": 37768,
-    "610制敌手": 37769,
-    "610制敌腿": 37770,
-    "610制敌脚": 37771,
-    "610强袭头": 37772,
-    "610强袭衣": 37773,
-    "610强袭手": 37774,
-    "610强袭腿": 37775,
-    "610强袭脚": 37776,
-    "610强攻耳坠": 37798,
-    "610强攻项链": 37803,
-    "610强攻手镯": 37808,
-    "610强攻戒指": 37813,
-    "610游击头": 37782,
-    "610游击衣": 37783,
-    "610游击手": 37784,
-    "610游击腿": 37785,
-    "610游击脚": 37786,
-    "610精准头": 37777,
-    "610精准衣": 37778,
-    "610精准手": 37779,
-    "610精准腿": 37780,
-    "610精准脚": 37781,
-    "610精准耳坠": 37799,
-    "610精准项链": 37804,
-    "610精准手镯": 37809,
-    "610精准戒指": 37814,
-    "610咏咒头": 37792,
-    "610咏咒衣": 37793,
-    "610咏咒手": 37794,
-    "610咏咒腿": 37795,
-    "610咏咒脚": 37796,
-    "610咏咒耳坠": 37801,
-    "610咏咒项链": 37806,
-    "610咏咒手镯": 37811,
-    "610咏咒戒指": 37816,
-    "610治疗头": 37787,
-    "610治疗衣": 37788,
-    "610治疗手": 37789,
-    "610治疗腿": 37790,
-    "610治疗脚": 37791,
-    "610治疗耳坠": 37800,
-    "610治疗项链": 37805,
-    "610治疗手镯": 37810,
-    "610治疗戒指": 37815
+    "复兴长剑": 37742,
+    "复兴鸢盾": 37761,
+    "复兴双刃斧": 37744,
+    "复兴巨剑": 37748,
+    "复兴魔机刃": 37757,
+    "复兴长枪": 37745,
+    "复兴扎戈斧镰": 37760,
+    "复兴指虎": 37743,
+    "复兴武士刀": 37755,
+    "复兴小刀": 37747,
+    "复兴复合弓": 37746,
+    "复兴重炮": 37749,
+    "复兴战轮": 37758,
+    "复兴法杖": 37751,
+    "复兴魔导书": 37752,
+    "复兴刺剑": 37756,
+    "复兴牧杖": 37750,
+    "复兴魔导典": 37753,
+    "复兴天星盘": 37754,
+    "复兴振空摆": 37759,
+    "复兴御敌头盔": 37762,
+    "复兴御敌胸甲": 37763,
+    "复兴御敌臂甲": 37764,
+    "复兴御敌护膝裤": 37765,
+    "复兴御敌铠靴": 37766,
+    "复兴御敌耳坠": 37797,
+    "复兴御敌项链": 37802,
+    "复兴御敌手镯": 37807,
+    "复兴御敌戒指": 37812,
+    "复兴制敌头盔": 37767,
+    "复兴制敌胸甲": 37768,
+    "复兴制敌臂甲": 37769,
+    "复兴制敌护膝裤": 37770,
+    "复兴制敌铠靴": 37771,
+    "复兴强袭兜帽": 37772,
+    "复兴强袭上衣": 37773,
+    "复兴强袭护臂": 37774,
+    "复兴强袭护膝裤": 37775,
+    "复兴强袭皮鞋": 37776,
+    "复兴强攻耳坠": 37798,
+    "复兴强攻项链": 37803,
+    "复兴强攻手镯": 37808,
+    "复兴强攻戒指": 37813,
+    "复兴游击兜帽": 37782,
+    "复兴游击上衣": 37783,
+    "复兴游击护臂": 37784,
+    "复兴游击护膝裤": 37785,
+    "复兴游击铠靴": 37786,
+    "复兴精准贝雷帽": 37777,
+    "复兴精准上衣": 37778,
+    "复兴精准手套": 37779,
+    "复兴精准护膝裤": 37780,
+    "复兴精准铠靴": 37781,
+    "复兴精准耳坠": 37799,
+    "复兴精准项链": 37804,
+    "复兴精准手镯": 37809,
+    "复兴精准戒指": 37814,
+    "复兴咏咒兜帽": 37792,
+    "复兴咏咒外套": 37793,
+    "复兴咏咒护臂": 37794,
+    "复兴咏咒护膝裤": 37795,
+    "复兴咏咒皮鞋": 37796,
+    "复兴咏咒耳坠": 37801,
+    "复兴咏咒项链": 37806,
+    "复兴咏咒手镯": 37811,
+    "复兴咏咒戒指": 37816,
+    "复兴治愈贝雷帽": 37787,
+    "复兴治愈外套": 37788,
+    "复兴治愈手套": 37789,
+    "复兴治愈护膝裤": 37790,
+    "复兴治愈皮鞋": 37791,
+    "复兴治愈耳坠": 37800,
+    "复兴治愈项链": 37805,
+    "复兴治愈手镯": 37810,
+    "复兴治愈戒指": 37815,
+
+    // 6.3 temp
+    "坦桑石原石": 38934,
+    "朝露树皮": 38933,
+    "地鸣灵砂": 38936,
+    "苦参": 38938,
+    "大地石英": 38937,
+    "瓦迪基里斯孔雀鱼": 38939,
+    "鼻龙": 38841,
+    "红虾": 38935,
+    "超级强力胶": 39595,
+    "坦桑石": 38931,
+    "工匠的幻水": 38932,
+    "620刻木主手": 38890,
+    "620锻铁主手": 38891,
+    "620铸甲主手": 38892,
+    "620雕金主手": 38893,
+    "620制革主手": 38894,
+    "620裁缝主手": 38895,
+    "620炼金主手": 38896,
+    "620烹调主手": 38897,
+    "620刻木副手": 38901,
+    "620锻铁副手": 38902,
+    "620铸甲副手": 38903,
+    "620雕金副手": 38904,
+    "620制革副手": 38905,
+    "620裁缝副手": 38906,
+    "620炼金副手": 38907,
+    "620烹调副手": 38908,
+    "620生产帽子": 38911,
+    "620生产衣服": 38912,
+    "620生产手套": 38913,
+    "620生产裤子": 38914,
+    "620生产鞋子": 38915,
+    "620生产耳坠": 38921,
+    "620生产项链": 38922,
+    "620生产手镯": 38923,
+    "620生产戒指": 38924,
+    "620采矿主手": 38898,
+    "620园艺主手": 38899,
+    "620捕鱼主手": 38899,
+    "620采矿副手": 38909,
+    "620园艺副手": 38910,
+    "620采集帽子": 38916,
+    "620采集衣服": 38917,
+    "620采集手套": 38918,
+    "620采集裤子": 38919,
+    "620采集鞋子": 38920,
+    "620采集耳坠": 38925,
+    "620采集项链": 38926,
+    "620采集手镯": 38927,
+    "620采集戒指": 38928
 
   }
 }
