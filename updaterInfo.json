@@ -1,14 +1,10 @@
 {
-	"LatestPatch": "1.2.12",
+	"LatestPatch": "1.3.0",
 	"OnMaintenance": false,
-	"PatchInfo": "此版本将610HQ成品道具名称更新至国服文本，并新增了UI缩放功能。",
-	"DetailLink": "https://bbs.nga.cn/read.php?pid=663192291",
-	"DownloadLink_Light": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.2.12/HqHelper_releases_1.2.12_LightPack.zip",
-	"DownloadLink_Full": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.2.12/HqHelper_releases_1.2.12_FullPack.zip",
-	"Updater_Version": 5,
-	"Updater_DownloadLink": "https://github.com/InfSein/HqHelper_Document/releases/download/upd.v5/Updater.dotnet6.light.zip",
-	// //"Updater_DownloadLink": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v4/updater.v4.zip",
-	"DotNet_Updater_Version": 5,
-	"DotNet_Updater_DownloadLink_Light": "",
-	"DotNet_Updater_DownloadLink_Full": ""
+	"PatchInfo": "此版本更新了6.3的主要装备数据，并包含一些其他更新。",
+	"DetailLink": "https://bbs.nga.cn/read.php?pid=665619453",
+	"DownloadLink_Light": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.3.0/HqHelper_releases_1.3.0_LightPack.zip",
+	"DownloadLink_Full": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.3.0/HqHelper_releases_1.3.0_FullPack.zip",
+	"Updater_Version": 4,
+	"Updater_DownloadLink": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v4/updater.v4.zip"
 }

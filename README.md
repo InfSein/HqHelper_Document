@@ -22,6 +22,18 @@ https://infsein.github.io/HqHelper_Document/
 
 此项目并未包含项目源码，仅作更新判断支持和传输文件之用。
 
+### 下载量详情
+![LATEST](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/latest/total)
+
+#### 1.1.x
+![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.12/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.13/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.14/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.15/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.16/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.17/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.18/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.19/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.20/total) 
+
+#### 1.2.x
+![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.0/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.1/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.2/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.3/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.4/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.5/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.6/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.7/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.8/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.9/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.10/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.2.11/total) 
+
+#### Updater
+![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v2/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v3/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v4/total)
+
 ### 下载使用
 
 请勿通过此仓库的Release安装：此仓库所提供的zip文件不包括更新器。请到 https://bbs.nga.cn/read.php?tid=31596099 内下载完整包。
