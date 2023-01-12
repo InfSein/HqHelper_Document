@@ -5,10 +5,9 @@
 	"DetailLink": "https://bbs.nga.cn/read.php?pid=665619453",
 	"DownloadLink_Light": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.3.0/HqHelper_releases_1.3.0_LightPack.zip",
 	"DownloadLink_Full": "https://ghproxy.com/https://github.com//InfSein/HqHelper_Document/releases/download/v1.3.0/HqHelper_releases_1.3.0_FullPack.zip",
-	"Updater_Version": 5,
-	"Updater_DownloadLink": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v5a/Updater.dotnet6.light.zip",
-	// //"Updater_DownloadLink": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v4/updater.v4.zip",
+	"Updater_Version": 4,
+	"Updater_DownloadLink": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v4/updater.v4.zip",
 	"DotNet_Updater_Version": 5,
-	"DotNet_Updater_DownloadLink_Light": "",
-	"DotNet_Updater_DownloadLink_Full": ""
+	"DotNet_Updater_DownloadLink_Light": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v5a/Updater.dotnet6.light.zip",
+	"DotNet_Updater_DownloadLink_Full": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v5a/Updater.dotnet6.full.zip"
 }
