@@ -1,6 +1,6 @@
 {
   "Version": {
-    "DataVersion": 1301,
+    "DataVersion": 1302,
     "SupportFfPatch": "6.30",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
@@ -26084,6 +26084,73 @@
             "need": 1
           }
         ]
+      },
+      // 6.30
+      {
+        "patch": 3,
+        "name": "红虾咖喱",
+        "jpname": "ジンガカレー",
+        "enname": "Jhinga Curry",
+        "description": "红虾咖喱/ジンガカレー/Jhinga Curry\n>[HQ属性] 采集力+5%(最多31), 获得力+7%(最多136)\n>>制作配方：\n>>>红虾×1, 地鸣灵砂×1\n>>>椰奶×2, 紫苏油×1, 血番茄×2, 古代肉豆蔻×1",
+        "materials": [
+          {
+            "id": 47,
+            "need": 1
+          },
+          {
+            "id": 48,
+            "need": 1
+          },
+          {
+            "id": 27,
+            "need": 2
+          },
+          {
+            "id": 12,
+            "need": 1
+          },
+          {
+            "id": 15,
+            "need": 2
+          },
+          {
+            "id": 26,
+            "need": 1
+          }
+        ]
+      },
+      {
+        "patch": 3,
+        "name": "红虾焖饭",
+        "jpname": "ジンガビリヤニ",
+        "enname": "Jhinga Biryani",
+        "description": "红虾焖饭/ジンガビリヤニ/Jhinga Biryani\n>[HQ属性] 制作力+26%(最多86), 加工精度+5%(最多90)\n>>制作配方：\n>>>红虾×1, 地鸣灵砂×1\n>>>紫苏油×2, 北洋食盐×1, 邦巴米×2, 萨维奈彩椒×1",
+        "materials": [
+          {
+            "id": 47,
+            "need": 1
+          },
+          {
+            "id": 48,
+            "need": 1
+          },
+          {
+            "id": 12,
+            "need": 2
+          },
+          {
+            "id": 17,
+            "need": 1
+          },
+          {
+            "id": 25,
+            "need": 2
+          },
+          {
+            "id": 24,
+            "need": 1
+          }
+        ]
       }
     ],
     "Materials": [
@@ -26416,6 +26483,20 @@
         "name": "奶油菇",
         "jpname": "クリームマッシュルーム",
         "enname": "Creamtop Mushroom"
+      },
+      {
+        "id": 47,
+        "scrip": 0,
+        "name": "红虾",
+        "jpname": "ジンガ",
+        "enname": "Jhinga"
+      },
+      {
+        "id": 48,
+        "scrip": 0,
+        "name": "地鸣灵砂",
+        "jpname": "地鳴の霊砂",
+        "enname": "Earthbreak Aethersand"
       }
     ]
   },
