@@ -1,6 +1,6 @@
 {
   "Version": {
-    "DataVersion": 1302,
+    "DataVersion": 1303,
     "SupportFfPatch": "6.30",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
@@ -24749,7 +24749,7 @@
         "jpname": "パルダオ材",
         "enname": "Paldao Lumber",
         "foreignName": "Paldao Lumber",
-        "description": "仁面木木材/パルダオ材/Paldao Lumber\n刻木星级配方。\n每份需要：\n[仁面木原木]*5\n[拉扎罕清漆]*2"
+        "description": "仁面木木材/パルダオ材/Paldao Lumber\n刻木星级配方。\n每份需要：\n[仁面木原木]*5\n[拉札罕清漆]*2"
       },
       {
         "id": 52,
@@ -25044,7 +25044,7 @@
         "jpname": "パルダオ材",
         "enname": "Paldao Lumber",
         "foreignName": "Paldao Lumber",
-        "description": "仁面木木材/パルダオ材/Paldao Lumber\n刻木星级配方。\n每份需要：\n[仁面木原木]*5\n[拉扎罕清漆]*2"
+        "description": "仁面木木材/パルダオ材/Paldao Lumber\n刻木星级配方。\n每份需要：\n[仁面木原木]*5\n[拉札罕清漆]*2"
       },
       {
         "id": 37833,
@@ -25252,7 +25252,7 @@
         "id": 51,
         "type": 1,
         "name": "仁面木木材",
-        "need": "拉扎罕清漆",
+        "need": "拉札罕清漆",
         "needCount": 2,
         "totalAllagan": 40
       },
@@ -25292,7 +25292,7 @@
         "id": 37831,
         "type": 1,
         "name": "仁面木木材",
-        "need": "拉扎罕清漆",
+        "need": "拉札罕清漆",
         "needCount": 2,
         "totalAllagan": 40
       },
@@ -27114,7 +27114,7 @@
     "灰绿硅藻土": 37822,
     "波洛伽槲寄生": 37823,
     "萨维奈贵榴石": 37825,
-    "拉扎罕清漆": 37826,
+    "拉札罕清漆": 37826,
     "泰坦蚺的粗皮": 37827,
     "钒铅矿": 37828,
     "白花葛布": 37829,

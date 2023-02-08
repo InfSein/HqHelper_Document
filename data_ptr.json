@@ -1,7 +1,7 @@
 {
-  "LatestDataVersion": 1302,
+  "LatestDataVersion": 1303,
   "OnMaintenance": false,
   "leastPatch": "1.3.0",
-  "PatchInfo": "新增了6.3的食物数据。",
-  "DetailLink": "https://bbs.nga.cn/read.php?pid=666126811"
+  "PatchInfo": "修复了一个文本错误。",
+  "DetailLink": "https://bbs.nga.cn/read.php?pid=671806817"
 }

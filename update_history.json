@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2023.02.08",
+      "ProgramVersionBefore": "1.3.2",
+      "ProgramVersionAfter": "1.3.3",
+      "DataVersionBefore": 1302,
+      "DataVersionAfter": 1303,
+      "SupportFFPatchBefore": "6.30版本",
+      "SupportFFPatchAfter": "6.30版本",
+      "Content_BugFixDetail": "1. 修复了拉札罕清漆中文名称错误的问题(此前为“拉扎罕清漆”)。",
+      "Content_FuncAddDetail": "此版本未包含功能更新。"
+    },
+    {
       "UpdateTime": "2023.01.18",
       "ProgramVersionBefore": "1.3.1",
       "ProgramVersionAfter": "1.3.2",
