@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2023.03.09",
+      "ProgramVersionBefore": "1.3.3",
+      "ProgramVersionAfter": "1.3.4",
+      "DataVersionBefore": 1303,
+      "DataVersionAfter": 1303,
+      "SupportFFPatchBefore": "6.30版本",
+      "SupportFFPatchAfter": "6.30版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "新增功能“肝武记录器(莫雯工具记录器)”。\r\n在[工具]菜单中选择[肝武记录器/ SplendorousTool Helper]，即可记录生产采集6.x肝武的进度。\r\n此工具以选择框表格的形式记录和展示您的肝武制作进度。程序将立即记录您的每次改动。\r\n此外，只需将光标悬停在选择框上方，即可阅读对应道具的中日英文名、阶段介绍与详细属性。\r\n您的肝武进度将被记录在'HqHelperConfig.ini'文件中。只要文件不丢失，您的进度将一直保存，不会因为程序更新而重置。\r\n※ 材料计算等功能将在后续版本追加。如果您有迫切需要的内容，也可以回复NGA的主题提出。\r\n※ HqHelper的肝武记录器仅对生产采集职业开放。关于是否另外制作战职记录器的问题仍在考虑之中。\r\n※ 肝武记录器界面支持自定义尺寸，数据会贴合窗体展示。每次您调整窗口大小之后，程序都将进行记录。下一次打开时，窗口的大小将自动调整为与上次关闭时一致。\r\n※ 肝武记录器所使用的道具中文名为本人的暂时翻译。官方中文名公布时，本程序将随之更新。\r\n"
+    },
+    {
       "UpdateTime": "2023.02.08",
       "ProgramVersionBefore": "1.3.2",
       "ProgramVersionAfter": "1.3.3",
