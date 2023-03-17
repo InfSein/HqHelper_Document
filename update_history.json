@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2023.03.17",
+      "ProgramVersionBefore": "1.3.4",
+      "ProgramVersionAfter": "1.3.5",
+      "DataVersionBefore": 1303,
+      "DataVersionAfter": 1303,
+      "SupportFFPatchBefore": "6.30版本",
+      "SupportFFPatchAfter": "6.30版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "1. [肝武记录器]实装了素材统计功能。\r\n点击顶部菜单的[尚缺素材]选项，即可看到目前距离全收集目标的素材需求统计。\r\n此外，道具的介绍文本也添加了[素材需求]的说明。\r\n2. 修改了[肝武记录器]相关道具的中文译名和介绍文本，以使其语义更接近J端的相关文本。\r\n3. 调整了[肝武记录器]的界面布局。表格首列的宽度被缩减, 且所有单元格现在都居中显示。\r\n4. 调整了[肝武记录器]的顶部菜单选项。\r\n    ‘制作攻略’项将引导至 kreslink 撰写的 6.35生产采集莫雯工具简报(https://bbs.nga.cn/read.php?tid=35596469);\r\n    ‘外观预览’项将引导至 洒金笺 制作的 6.35莫雯工具第3阶段外观速览(https://www.bilibili.com/video/BV1kk4y1b71i);\r\n    ‘战职同款’项将引导至 阿布evo 制作的 发光武器制作进度登记追踪表(https://bbs.nga.cn/read.php?tid=35411024)。\r\n    ※ 菜单选项会随着版本推进而变化。\r\n5. 调整了[更新日志]的界面布局。将‘问题修复’与‘功能更新’合并，以减少空间浪费。\r\n6. 重做了[关于本作]界面的布局。修改了视觉图片，移除了赞助按钮，新增了致谢名单。\r\n旧有的版本信息与版权声明文本结构及措辞细节有所调整。\r\n7. 以下界面现已支持自定义尺寸，可以通过鼠标拖拽窗口边缘来调整大小及UI位置：\r\n[更新日志]、[关于本作]、[更新历史]。\r\n8. [赞助作者]的入口调整至主窗口菜单中，并且为其新增了引导窗口。\r\n赞助功能的相关说明请在主楼Q群的群公告中查看。\r\n"
+    },
+    {
       "UpdateTime": "2023.03.09",
       "ProgramVersionBefore": "1.3.3",
       "ProgramVersionAfter": "1.3.4",
