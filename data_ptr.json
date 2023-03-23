@@ -1,7 +1,7 @@
 {
-  "LatestDataVersion": 1303,
+  "LatestDataVersion": 1304,
   "OnMaintenance": false,
   "leastPatch": "1.3.0",
-  "PatchInfo": "修复了一个文本错误。",
-  "DetailLink": "https://bbs.nga.cn/read.php?pid=671806817"
+  "PatchInfo": "修复了一些可能导致[成本/收益分析]需要额外获取物品id的内部数据问题。",
+  "DetailLink": "https://bbs.nga.cn/read.php?pid=680069271"
 }
