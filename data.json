@@ -1,6 +1,6 @@
 {
   "Version": {
-    "DataVersion": 1304,
+    "DataVersion": 1310,
     "SupportFfPatch": "6.30",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
@@ -19,7 +19,7 @@
   "Datas": {
     "Patch605": {
       "updated": true,
-      "name": "Patch 6.05-零式万魔殿 边境之狱",
+      "name": "Patch 6.05-零式万魔殿边境之狱 (战斗职业580HQ)",
       "data": {
         "Tank": {
           "exist": true,
@@ -6966,7 +6966,7 @@
     },
     "Patch610": {
       "updated": true,
-      "name": "Patch 6.10-崭新的冒险",
+      "name": "Patch 6.10-崭新的冒险 (生活职业590HQ)",
       "data": {
         "Tank": {
           "exist": false,
@@ -10734,7 +10734,7 @@
     },
     "Patch620": {
       "updated": true,
-      "name": "Patch 6.20-零式万魔殿 炼净之狱",
+      "name": "Patch 6.20-禁断的记忆 / 零式万魔殿炼净之狱 (战斗职业610HQ)",
       "data": {
         "Tank": {
           "exist": true,
@@ -17825,7 +17825,7 @@
     },
     "Patch630": {
       "updated": true,
-      "name": "Patch 6.30-天之庆典、地之鸣动",
+      "name": "Patch 6.30-天上欢庆·地下轰鸣 (生活职业620HQ)",
       "data": {
         "Tank": {
           "exist": false,
@@ -22367,7 +22367,7 @@
     },
     "Patch640": {
       "updated": false,
-      "name": "Patch 6.40-未知",
+      "name": "Patch 6.40-王座的罪人 / 零式万魔殿天镜之狱 (战斗职业640HQ)",
       "data": {
         "Tank": {
           "exist": true,
@@ -24038,7 +24038,7 @@
         "jpname": "地鳴の霊砂",
         "enname": "Earthbreak Aethersand",
         "foreignName": "地鳴の霊砂/Earthbreak Aethersand",
-        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [大地石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [瓦迪基里斯孔雀鱼/ヴァーディグリスグッピー/Verdigris Guppy]或[鼻龙/ラノシアンサウルス/Nosceasaur]"
+        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [土之石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [铜绿虹鳉/ヴァーディグリスグッピー/Verdigris Guppy]或[拉诺西亚龙/ラノシアンサウルス/Nosceasaur]"
       },
       {
         "id": 11,
@@ -24385,7 +24385,7 @@
         "jpname": "地鳴の霊砂",
         "enname": "Earthbreak Aethersand",
         "foreignName": "地鳴の霊砂/Earthbreak Aethersand",
-        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [大地石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [瓦迪基里斯孔雀鱼/ヴァーディグリスグッピー/Verdigris Guppy]或[鼻龙/ラノシアンサウルス/Nosceasaur]"
+        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [土之石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [铜绿虹鳉/ヴァーディグリスグッピー/Verdigris Guppy]或[拉诺西亚龙/ラノシアンサウルス/Nosceasaur]"
       },
       {
         "id": 11,
@@ -24740,7 +24740,7 @@
         "jpname": "地鳴の霊砂",
         "enname": "Earthbreak Aethersand",
         "foreignName": "地鳴の霊砂/Earthbreak Aethersand",
-        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [大地石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [瓦迪基里斯孔雀鱼/ヴァーディグリスグッピー/Verdigris Guppy]或[鼻龙/ラノシアンサウルス/Nosceasaur]"
+        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [土之石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [铜绿虹鳉/ヴァーディグリスグッピー/Verdigris Guppy]或[拉诺西亚龙/ラノシアンサウルス/Nosceasaur]"
       },
       {
         "id": 51,
@@ -25035,7 +25035,7 @@
         "jpname": "地鳴の霊砂",
         "enname": "Earthbreak Aethersand",
         "foreignName": "地鳴の霊砂/Earthbreak Aethersand",
-        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [大地石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [瓦迪基里斯孔雀鱼/ヴァーディグリスグッピー/Verdigris Guppy]或[鼻龙/ラノシアンサウルス/Nosceasaur]"
+        "description": "地鸣灵砂/地鳴の霊砂/Earthbreak Aethersand\n精选收藏品获得\n1、在 [ET 08:00~12:00] 使用园艺工前往 迷津(9.9,34.8) 采集 [苦参/苦参/Sophora Roots]\n2、在 [ET 00:00~04:00] 使用采矿工前往 叹息海(21.6,34.7) 采集 [土之石英/アースクォーツ/Earthen Quartz]\n3、使用捕鱼人前往 拉诺西亚高地(24.5,21.2) 的 90级★★刺鱼区 潜水叉鱼 [铜绿虹鳉/ヴァーディグリスグッピー/Verdigris Guppy]或[拉诺西亚龙/ラノシアンサウルス/Nosceasaur]"
       },
       {
         "id": 37831,
@@ -25085,7 +25085,7 @@
       {
         "id": 39595,
         "type": 3,
-        "name": "超级强力胶",
+        "name": "超强力胶",
         "jpname": "超強力ゲル",
         "enname": "Gripgel",
         "foreignName": "",
@@ -25098,16 +25098,16 @@
         "jpname": "匠の幻水",
         "enname": "Craftsman's Alkahest",
         "foreignName": "",
-        "description": "工匠的幻水/匠の幻水/Craftsman's Alkahest\n- 90级★★★炼金术士配方\n- 每份需要：朝露树皮*4; 非挥发性炼金药*1; 地鸣灵砂*1"
+        "description": "工匠的幻水/匠の幻水/Craftsman's Alkahest\n- 90级★★★炼金术士配方\n- 每份需要：晨雾树皮*4; 非挥发性炼金药*1; 地鸣灵砂*1"
       },
       {
         "id": 38931,
         "type": 4,
-        "name": "坦桑石",
+        "name": "黝帘石",
         "jpname": "ゾイサイト",
         "enname": "Zoisite",
         "foreignName": "",
-        "description": "坦桑石/ゾイサイト/Zoisite\n- 90级★★★雕金匠配方\n- 每份需要：坦桑石原石*4; 非挥发性炼金药*1; 地鸣灵砂*1"
+        "description": "黝帘石/ゾイサイト/Zoisite\n- 90级★★★雕金匠配方\n- 每份需要：黝帘石原石*4; 非挥发性炼金药*1; 地鸣灵砂*1"
       },
       {
         "id": -1,
@@ -25331,8 +25331,8 @@
       {
         "id": 39595,
         "type": 3,
-        "name": "超级强力胶",
-        "need": "超级强力胶",
+        "name": "超强力胶",
+        "need": "超强力胶",
         "needCount": 1,
         "totalAllagan": 500
       },
@@ -25347,7 +25347,7 @@
       {
         "id": 38931,
         "type": 2,
-        "name": "坦桑石",
+        "name": "黝帘石",
         "need": "非挥发性炼金药",
         "needCount": 1,
         "totalAllagan": 125
@@ -26088,10 +26088,10 @@
       // 6.30
       {
         "patch": 3,
-        "name": "红虾咖喱",
+        "name": "近东虾咖喱",
         "jpname": "ジンガカレー",
         "enname": "Jhinga Curry",
-        "description": "红虾咖喱/ジンガカレー/Jhinga Curry\n>[HQ属性] 采集力+5%(最多31), 获得力+7%(最多136)\n>>制作配方：\n>>>红虾×1, 地鸣灵砂×1\n>>>椰奶×2, 紫苏油×1, 血番茄×2, 古代肉豆蔻×1",
+        "description": "近东虾咖喱/ジンガカレー/Jhinga Curry\n>[HQ属性] 采集力+5%(最多31), 获得力+7%(最多136)\n>>制作配方：\n>>>近东虾×1, 地鸣灵砂×1\n>>>椰奶×2, 紫苏油×1, 血番茄×2, 古代肉豆蔻×1",
         "materials": [
           {
             "id": 47,
@@ -26121,10 +26121,10 @@
       },
       {
         "patch": 3,
-        "name": "红虾焖饭",
+        "name": "近东虾香饭",
         "jpname": "ジンガビリヤニ",
         "enname": "Jhinga Biryani",
-        "description": "红虾焖饭/ジンガビリヤニ/Jhinga Biryani\n>[HQ属性] 制作力+26%(最多86), 加工精度+5%(最多90)\n>>制作配方：\n>>>红虾×1, 地鸣灵砂×1\n>>>紫苏油×2, 北洋食盐×1, 邦巴米×2, 萨维奈彩椒×1",
+        "description": "近东虾香饭/ジンガビリヤニ/Jhinga Biryani\n>[HQ属性] 制作力+26%(最多86), 加工精度+5%(最多90)\n>>制作配方：\n>>>近东虾×1, 地鸣灵砂×1\n>>>紫苏油×2, 北洋食盐×1, 邦巴米×2, 萨维奈彩椒×1",
         "materials": [
           {
             "id": 47,
@@ -26487,7 +26487,7 @@
       {
         "id": 47,
         "scrip": 0,
-        "name": "红虾",
+        "name": "近东虾",
         "jpname": "ジンガ",
         "enname": "Jhinga"
       },
@@ -27195,16 +27195,16 @@
     "复兴治愈戒指": 37815,
 
     // 6.3 temp
-    "坦桑石原石": 38934,
-    "朝露树皮": 38933,
+    "黝帘石原石": 38934,
+    "晨雾树皮": 38933,
     "地鸣灵砂": 38936,
     "苦参": 38938,
-    "大地石英": 38937,
-    "瓦迪基里斯孔雀鱼": 38939,
-    "鼻龙": 38841,
-    "红虾": 38935,
-    "超级强力胶": 39595,
-    "坦桑石": 38931,
+    "土之石英": 38937,
+    "铜绿虹鳉": 38939,
+    "拉诺西亚龙": 38841,
+    "近东虾": 38935,
+    "超强力胶": 39595,
+    "黝帘石": 38931,
     "工匠的幻水": 38932,
     "620刻木主手": 38890,
     "620锻铁主手": 38891,
