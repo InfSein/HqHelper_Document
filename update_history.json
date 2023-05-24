@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2023.05.24",
+      "ProgramVersionBefore": "1.3.7",
+      "ProgramVersionAfter": "1.4.0",
+      "DataVersionBefore": 1310,
+      "DataVersionAfter": 1400,
+      "SupportFFPatchBefore": "6.30版本",
+      "SupportFFPatchAfter": "6.40版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "1. 版本6.4新增的生产采集HQ绿装数据现已追加。\r\n包括主窗口材料统计、限时采集品统计、点数统计、水晶统计、采集时钟、多语言展示等。\r\n成本/收益分析等功能将在后续版本实装。\r\n此外，6.40的攻略资料现已可用，欢迎阅读。\r\n※ 版本6.4新增的食物与爆发药数据已经追加，但图标与描述尚未完善。这些内容将在下个版本实装。\r\n2. 由于6.4数据添加后，采集时钟的选项增多，对[采集时钟]和[编辑采集时钟预设]窗口的结构进行了调整。\r\n现在若[采集时钟]选项卡无法在一行内完全展示，会在最右侧显示左右调整按钮来提供横向翻页的功能。\r\n"
+    },
+    {
       "UpdateTime": "2023.05.07",
       "ProgramVersionBefore": "1.3.6",
       "ProgramVersionAfter": "1.3.7",

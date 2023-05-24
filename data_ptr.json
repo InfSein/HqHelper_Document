@@ -1,7 +1,7 @@
 {
-  "LatestDataVersion": 1310,
+  "LatestDataVersion": 1400,
   "OnMaintenance": false,
-  "leastPatch": "1.3.7",
-  "PatchInfo": "道具名称更新至国服正式文本。\n请先更新到1.3.7或更高版本。",
-  "DetailLink": "https://bbs.nga.cn/read.php?pid=688451786"
+  "leastPatch": "1.4.0",
+  "PatchInfo": "添加了国际服6.4版本新增的HQ道具及食物、爆发药、采集点数据。\n请先更新到1.4.0或更高版本。",
+  "DetailLink": "https://bbs.nga.cn/read.php?pid=691982273"
 }

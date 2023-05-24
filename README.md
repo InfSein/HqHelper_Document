@@ -37,6 +37,9 @@ https://infsein.github.io/HqHelper_Document/
 #### 1.3.x
 ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.0/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.1/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.2/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.3/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.4/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.5/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.6/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.7/total)
 
+#### 1.4.x
+![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.4.0/total)
+
 #### Updater
 ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v2/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v3/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v4/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v5a/total)
 
@@ -47,5 +50,6 @@ https://infsein.github.io/HqHelper_Document/
 ### 问题反馈
 
 建议在 https://bbs.nga.cn/read.php?tid=31596099 下回复。在此提出的Issue可能无法被及时响应。
-or Q群：721051298
+
+Q群：`721051298`
 
