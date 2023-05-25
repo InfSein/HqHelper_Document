@@ -1,6 +1,6 @@
 {
   "Version": {
-    "DataVersion": 1400,
+    "DataVersion": 1401,
     "SupportFfPatch": "6.40",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
@@ -29460,7 +29460,7 @@
       {
         "id": 4,
         "type": 1,
-        "name": "完满木材",
+        "name": "完满木木材",
         "jpname": "インテグラル材",
         "enname": "Integral Lumber",
         "foreignName": "Integral Lumber",
@@ -29807,7 +29807,7 @@
       {
         "id": 4,
         "type": 1,
-        "name": "完满木材",
+        "name": "完满木木材",
         "jpname": "インテグラル材",
         "enname": "Integral Lumber",
         "foreignName": "Integral Lumber",
@@ -30162,7 +30162,7 @@
       {
         "id": 4,
         "type": 1,
-        "name": "完满木材",
+        "name": "完满木木材",
         "jpname": "インテグラル材",
         "enname": "Integral Lumber",
         "foreignName": "Integral Lumber",
