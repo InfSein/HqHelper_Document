@@ -38,7 +38,7 @@ https://infsein.github.io/HqHelper_Document/
 ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.0/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.1/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.2/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.3/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.4/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.5/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.6/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.3.7/total)
 
 #### 1.4.x
-![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.4.0/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.4.1/total)
+![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.4.0/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.4.1/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.4.2/total)
 
 #### Updater
 ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v2/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v3/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v4/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/upd.v5a/total)

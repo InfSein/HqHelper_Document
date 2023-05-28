@@ -1,7 +1,7 @@
 {
-  "LatestDataVersion": 1401,
+  "LatestDataVersion": 1410,
   "OnMaintenance": false,
   "leastPatch": "1.4.1",
-  "PatchInfo": "针对6.4版本更新造致的一些问题进行了多项修复和优化。\n请先更新到1.4.1或更高版本。",
-  "DetailLink": "https://bbs.nga.cn/read.php?pid=691982273"
+  "PatchInfo": "针对6.4版本的数据进行了多项优化。\n请先更新到1.4.1或更高版本。\n建议更新到1.4.2或更高版本。",
+  "DetailLink": "https://bbs.nga.cn/read.php?pid=692734076"
 }

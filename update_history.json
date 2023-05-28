@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2023.05.28",
+      "ProgramVersionBefore": "1.4.1",
+      "ProgramVersionAfter": "1.4.2",
+      "DataVersionBefore": 1401,
+      "DataVersionAfter": 1410,
+      "SupportFFPatchBefore": "6.40版本",
+      "SupportFFPatchAfter": "6.40版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。\r\n※ 如果在使用程序时发现问题，请在\r\n    NGA的主题 (https://bbs.nga.cn/read.php?tid=31596099)\r\n    或\r\n    QQ交流群 (721051298)\r\n中反馈，以便我们及时定位和修复。\r\n",
+      "Content_FuncAddDetail": "1. 现在点数材料默认强制按照游戏内兑换商店的顺序(即 布皮木铁金)排序，以便兑换。\r\n※ [偏好设置]中的物品语言设置为日语或英语时也同样生效。\r\n2. [食物计算器/ Food Helper]现已追加版本6.4新增食物的介绍文本。\r\n3. [爆发药计算器/ Tincture Helper]现已追加版本6.4新增爆发药的介绍文本。\r\n4. [成本/收益分析]功能现已适配6.4内容。\r\n※ 国服未实装6.4版本更新之前，此功能只能适用国际服的服务器设置。\r\n"
+    },
+    {
       "UpdateTime": "2023.05.25",
       "ProgramVersionBefore": "1.4.0",
       "ProgramVersionAfter": "1.4.1",
