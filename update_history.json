@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2023.07.04",
+      "ProgramVersionBefore": "1.4.4",
+      "ProgramVersionAfter": "1.4.5",
+      "DataVersionBefore": 1412,
+      "DataVersionAfter": 1412,
+      "SupportFFPatchBefore": "6.40版本",
+      "SupportFFPatchAfter": "6.40版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。\r\n—————————————————————————————\r\n※ 如果在使用程序时发现其他问题，请在\r\n    NGA的主题 (https://bbs.nga.cn/read.php?tid=31596099)\r\n    或\r\n    QQ交流群 (721051298)\r\n中反馈，以便我们及时定位和修复。\r\n",
+      "Content_FuncAddDetail": "1. 实装了新功能：从Excel中导入。\r\n现在导出Excel时，会自动同时导出程序的工作状态。\r\n将导出的Excel再次导入，即可将程序恢复到之前的工作状态，或是在多种预设工作状态之间切换。\r\n※ 仅支持导入此版本(1.4.5)及之后版本HqHelper导出的Excel。\r\n※ 请勿对导出Excel的[工作状态]表单作出修改，否则可能无法再将此文件正常导入。\r\n2. “导出为Excel”窗口现已与导入窗口整合。可以通过点击选项卡来在两种功能窗口之间切换。\r\n此外，窗口现已支持自定义尺寸，数据会贴合窗体展示。\r\n鼠标拖拽窗口边缘，即可调整窗口的大小。\r\n※ 由于支持自定义尺寸，[偏好设置]中的“界面缩放”设置不会再对“成本/收益分析”窗口生效。\r\n3. 顶部工具栏新增了“导入与导出”选项集。\r\n※ 原位于“工具”选项集的“导出为Excel”选项已被移动至新的选项集。\r\n4. “导出为Excel”功能现在会把导出的Excel存入程序目录下的“Excels”文件夹，以便查阅或修改。\r\n"
+    },
+    {
       "UpdateTime": "2023.06.16",
       "ProgramVersionBefore": "1.4.3",
       "ProgramVersionAfter": "1.4.4",
