@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2023.07.24",
+      "ProgramVersionBefore": "1.4.6",
+      "ProgramVersionAfter": "1.4.7",
+      "DataVersionBefore": 1412,
+      "DataVersionAfter": 1412,
+      "SupportFFPatchBefore": "6.40版本",
+      "SupportFFPatchAfter": "6.40版本",
+      "Content_BugFixDetail": "此版本未包含问题修复。",
+      "Content_FuncAddDetail": "1. “肝武记录器”追加了6.45版本莫雯工具(生产采集肝武)的数据。\r\n特别感谢[@夜北yakita]提供6.45新增道具的名称翻译。\r\n※ 新增道具的中文名均为通过国际服道具名翻译的文本，与国服最终实装的道具名可能有很大出入，请谨慎参考。\r\n国服实装6.45版本前后，本程序会将这些道具的名称更新至国服实装的道具名。\r\n2. 调整了“肝武记录器”的“参考文档”，以适配6.45新增的肝武阶段。\r\n"
+    },
+    {
       "UpdateTime": "2023.07.11",
       "ProgramVersionBefore": "1.4.5",
       "ProgramVersionAfter": "1.4.6",
