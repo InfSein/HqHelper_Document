@@ -27,8 +27,8 @@ https://infsein.github.io/HqHelper_Document/
 
 ### 下载量详情
 
-#### 最新版本
-![LATEST](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/latest/total)
+#### FullPack
+![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/fullpack.v1.4.8/total)
 
 #### 1.1.x
 ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.12/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.13/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.14/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.15/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.16/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.17/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.18/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.19/total) ![releases](https://img.shields.io/github/downloads-pre/InfSein/HqHelper_Document/v1.1.20/total) 
@@ -47,7 +47,9 @@ https://infsein.github.io/HqHelper_Document/
 
 ### 下载使用
 
-请勿通过此仓库的Release安装：此仓库所提供的zip文件不包括更新器。请到 https://bbs.nga.cn/read.php?tid=31596099 内下载完整包。
+https://bbs.nga.cn/read.php?tid=31596099
+
+https://github.com/InfSein/HqHelper_Document/releases/tag/fullpack.v1.4.8
 
 ### 问题反馈
 
