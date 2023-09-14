@@ -1,7 +1,7 @@
 {
 	"LatestPatch": "1.4.8",
 	"OnMaintenance": false,
-	"PatchInfo": "对主窗口版本选择按钮进行了UI优化,重做并整合了食物计算器及爆发药计算器。",
+	"PatchInfo": "此版本对主窗口版本选择按钮进行了UI优化,重做并整合了食物计算器及爆发药计算器。",
 	"DetailLink": "https://bbs.nga.cn/read.php?pid=708498751",
 	"DownloadLink_Light": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/v1.4.8/hqHelper_releases.zip",
 	"DownloadLink_Full": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/v1.4.8/hqHelper_full_releases.zip",
