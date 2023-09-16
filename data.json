@@ -1,6 +1,6 @@
 {
   "Version": {
-    "DataVersion": 1412,
+    "DataVersion": 1420,
     "SupportFfPatch": "6.40",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
@@ -22367,7 +22367,7 @@
     },
     "Patch640": {
       "updated": true,
-      "name": "Patch 6.40-王座的罪人 / 零式万魔殿天镜之狱 (战斗职业640HQ)",
+      "name": "Patch 6.40-负罪的王座 / 零式万魔殿荒天之狱 (战斗职业640HQ)",
       "data": {
         "Tank": {
           "exist": true,
@@ -30774,11 +30774,11 @@
       {
         "id": 39717,
         "type": 3,
-        "name": "黑樱桃木材",
+        "name": "暗樱木材",
         "jpname": "ブラックチェリー材",
         "enname": "Dark Cherry Lumber",
         "foreignName": "",
-        "description": "黑樱桃木材/ブラックチェリー材/Dark Cherry Lumber\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 黑樱桃原木/ブラックチェリー原木/Dark Cherry Log\n2 x 液体玻璃/液体ガラス/Liquid Glass"
+        "description": "暗樱木材/ブラックチェリー材/Dark Cherry Lumber\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 暗樱原木/ブラックチェリー原木/Dark Cherry Log\n2 x 液体玻璃/液体ガラス/Liquid Glass"
       },
       {
         "id": 39718,
@@ -30787,7 +30787,7 @@
         "jpname": "ソフトシルバーインゴット",
         "enname": "Softsilver Ingot",
         "foreignName": "",
-        "description": "软银锭/ソフトシルバーインゴット/Softsilver Ingot\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 软银矿/軟銀鉱/Softsilver Ore\n2 x 萨维奈溶剂/サベネアンフラックス/Thavnairian Flux"
+        "description": "软银锭/ソフトシルバーインゴット/Softsilver Ingot\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 软银矿/軟銀鉱/Softsilver Ore\n2 x 萨维奈助融剂/サベネアンフラックス/Thavnairian Flux"
       },
       {
         "id": 39719,
@@ -30796,25 +30796,25 @@
         "jpname": "スポジュメン",
         "enname": "Spodumene",
         "foreignName": "",
-        "description": "紫锂辉石/スポジュメン/Spodumene\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 紫锂辉石原石/スポジュメン原石/Raw Spodumene\n2 x 研磨液/研削油/Grinding Fluid"
+        "description": "紫锂辉石/スポジュメン/Spodumene\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 紫锂辉石原石/スポジュメン原石/Raw Spodumene\n2 x 研磨油/研削油/Grinding Fluid"
       },
       {
         "id": 39721,
         "type": 3,
-        "name": "恐鳄革",
+        "name": "恐鳄鞣革",
         "jpname": "デイノスクスレザー",
         "enname": "Deinosuchus Leather",
         "foreignName": "",
-        "description": "恐鳄革/デイノスクスレザー/Deinosuchus Leather\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 野芥菜/アブラナ/Field Mustard\n2 x 恐鳄的粗皮/デイノスクスの粗皮/Deinosuchus Skin"
+        "description": "恐鳄鞣革/デイノスクスレザー/Deinosuchus Leather\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 油菜花/アブラナ/Field Mustard\n2 x 恐鳄的粗皮/デイノスクスの粗皮/Deinosuchus Skin"
       },
       {
         "id": 39720,
         "type": 3,
-        "name": "石榴染布",
+        "name": "石榴红棉布",
         "jpname": "ガーネットコットン",
         "enname": "Garnet Cotton",
         "foreignName": "",
-        "description": "石榴染布/ガーネットコットン/Garnet Cotton\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 石榴色明矾/マグヘマイト/Maghemite\n2 x 拉札罕棉布/ラザハンコットン/Hannish Cotton"
+        "description": "石榴红棉布/ガーネットコットン/Garnet Cotton\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n5 x 磁赤铁矿/マグヘマイト/Maghemite\n2 x 拉札罕棉布/ラザハンコットン/Hannish Cotton"
       },
       {
         "id": 39722,
@@ -30824,7 +30824,7 @@
         "jpname": "剛力の幻水G8",
         "enname": "Grade 8 Strength Alkahest",
         "foreignName": "",
-        "description": "8级刚力之幻水/剛力の幻水G8/Grade 8 Strength Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 蔷薇花/ラヴィングフラワー/Lovingbloom\n1 x 甜香荠, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
+        "description": "8级刚力之幻水/剛力の幻水G8/Grade 8 Strength Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 爱情花/ラヴィングフラワー/Lovingbloom\n1 x 甜香荠, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
       },
       {
         "id": 39723,
@@ -30834,7 +30834,7 @@
         "jpname": "眼力の幻水G8",
         "enname": "Grade 8 Dexterity Alkahest",
         "foreignName": "",
-        "description": "8级巧力之幻水/眼力の幻水G8/Grade 8 Dexterity Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 蔷薇花/ラヴィングフラワー/Lovingbloom\n1 x 光芒大丁草, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
+        "description": "8级巧力之幻水/眼力の幻水G8/Grade 8 Dexterity Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 爱情花/ラヴィングフラワー/Lovingbloom\n1 x 光芒大丁草, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
       },
       {
         "id": 39724,
@@ -30844,7 +30844,7 @@
         "jpname": "活力の幻水G8",
         "enname": "Grade 8 Vitality Alkahest",
         "foreignName": "",
-        "description": "8级耐力之幻水/活力の幻水G8/Grade 8 Vitality Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 蔷薇花/ラヴィングフラワー/Lovingbloom\n1 x 青柠罗勒草, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
+        "description": "8级耐力之幻水/活力の幻水G8/Grade 8 Vitality Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 爱情花/ラヴィングフラワー/Lovingbloom\n1 x 青柠罗勒草, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
       },
       {
         "id": 39725,
@@ -30854,7 +30854,7 @@
         "jpname": "知力の幻水G8",
         "enname": "Grade 8 Intelligence Alkahest",
         "foreignName": "",
-        "description": "8级智力之幻水/知力の幻水G8/Grade 8 Intelligence Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 蔷薇花/ラヴィングフラワー/Lovingbloom\n1 x 邪衣薰衣草, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
+        "description": "8级智力之幻水/知力の幻水G8/Grade 8 Intelligence Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 爱情花/ラヴィングフラワー/Lovingbloom\n1 x 邪衣薰衣草, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
       },
       {
         "id": 39726,
@@ -30864,7 +30864,7 @@
         "jpname": "心力の幻水G8",
         "enname": "Grade 8 Mind Alkahest",
         "foreignName": "",
-        "description": "8级意力之幻水/心力の幻水G8/Grade 8 Mind Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 蔷薇花/ラヴィングフラワー/Lovingbloom\n1 x 虎百合, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
+        "description": "8级意力之幻水/心力の幻水G8/Grade 8 Mind Alkahest\n90级★★★★半成品配方 需要秘籍第10卷\n耐久35, 难度4488, 品质9090\n每份需要：\n1 x 爱情花/ラヴィングフラワー/Lovingbloom\n1 x 虎百合, 1 x 非挥发性炼金药, 1 x 地鸣灵砂"
       },
       {
         "id": 14,
@@ -30992,7 +30992,7 @@
         "name": "仁面木木材",
         "need": "拉札罕清漆",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 52,
@@ -31000,7 +31000,7 @@
         "name": "钛铁锭",
         "need": "钒铅矿",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 53,
@@ -31008,7 +31008,7 @@
         "name": "发晶",
         "need": "萨维奈贵榴石",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 54,
@@ -31016,7 +31016,7 @@
         "name": "泰坦蚺革",
         "need": "泰坦蚺的粗皮",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 55,
@@ -31024,7 +31024,7 @@
         "name": "杨梅染布",
         "need": "白花葛布",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 37831,
@@ -31032,7 +31032,7 @@
         "name": "仁面木木材",
         "need": "拉札罕清漆",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 37833,
@@ -31040,7 +31040,7 @@
         "name": "钛铁锭",
         "need": "钒铅矿",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 37830,
@@ -31048,7 +31048,7 @@
         "name": "发晶",
         "need": "萨维奈贵榴石",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 37832,
@@ -31056,7 +31056,7 @@
         "name": "泰坦蚺革",
         "need": "泰坦蚺的粗皮",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 37834,
@@ -31064,7 +31064,7 @@
         "name": "杨梅染布",
         "need": "白花葛布",
         "needCount": 2,
-        "totalAllagan": 40
+        "totalAllagan": 20
       },
       {
         "id": 39595,
@@ -31093,7 +31093,7 @@
       {
         "id": 39717,
         "type": 1,
-        "name": "黑樱桃木材",
+        "name": "暗樱木材",
         "need": "液体玻璃",
         "needCount": 2,
         "totalAllagan": 40
@@ -31102,7 +31102,7 @@
         "id": 39718,
         "type": 1,
         "name": "软银锭",
-        "need": "萨维奈溶剂",
+        "need": "萨维奈助融剂",
         "needCount": 2,
         "totalAllagan": 40
       },
@@ -31110,14 +31110,14 @@
         "id": 39719,
         "type": 1,
         "name": "紫锂辉石",
-        "need": "研磨液",
+        "need": "研磨油",
         "needCount": 2,
         "totalAllagan": 40
       },
       {
         "id": 39720,
         "type": 1,
-        "name": "石榴染布",
+        "name": "石榴红棉布",
         "need": "拉札罕棉布",
         "needCount": 2,
         "totalAllagan": 40
@@ -31125,7 +31125,7 @@
       {
         "id": 39721,
         "type": 1,
-        "name": "恐鳄革",
+        "name": "恐鳄鞣革",
         "need": "恐鳄的粗皮",
         "needCount": 2,
         "totalAllagan": 40
@@ -31933,10 +31933,10 @@
       // 6.40
       {
         "patch": 4,
-        "name": "蜜渍火龙果",
+        "name": "蜜浸火龙果",
         "jpname": "蜂蜜漬けドラゴンフルーツ",
         "enname": "Honeyed Dragonfruit",
-        "description": "蜜渍火龙果/蜂蜜漬けドラゴンフルーツ/Honeyed Dragonfruit\n>[HQ属性] 耐力+10%(最多143), 直击+10%(最多103), 信念+10%(最多62)\n制作需要：\n - 火龙果\n - 小柠檬, 天水, 地鸣灵砂, 黄金蜂蜜, 2 棕榈糖",
+        "description": "蜜浸火龙果/蜂蜜漬けドラゴンフルーツ/Honeyed Dragonfruit\n>[HQ属性] 耐力+10%(最多143), 直击+10%(最多103), 信念+10%(最多62)\n制作需要：\n - 火龙果\n - 小柠檬, 天水, 地鸣灵砂, 黄金蜂蜜, 2 棕榈糖",
         "materials": [
           {
             "id": 39864,
@@ -31966,10 +31966,10 @@
       },
       {
         "patch": 4,
-        "name": "火龙果冰沙",
+        "name": "火龙果果昔",
         "jpname": "ドラゴンフルーツスムージー",
         "enname": "Dragonfruit Blend",
-        "description": "火龙果冰沙/ドラゴンフルーツスムージー/Dragonfruit Blend\n>[HQ属性] 耐力+10%(最多143), 技速+10%(最多103), 直击+10%(最多62)\n制作需要：\n - 火龙果\n - 云海香蕉, 麝牛奶, 地鸣灵砂, 野园甜菜糖, 2 椰奶",
+        "description": "火龙果果昔/ドラゴンフルーツスムージー/Dragonfruit Blend\n>[HQ属性] 耐力+10%(最多143), 技速+10%(最多103), 直击+10%(最多62)\n制作需要：\n - 火龙果\n - 云海香蕉, 麝牛奶, 地鸣灵砂, 野园甜菜糖, 2 椰奶",
         "materials": [
           {
             "id": 39864,
@@ -31999,10 +31999,10 @@
       },
       {
         "patch": 4,
-        "name": "萨维奈茄泥",
+        "name": "茄泥酱",
         "jpname": "ババガヌーシュ",
         "enname": "Baba Ghanoush",
-        "description": "萨维奈茄泥/ババガヌーシュ/Baba Ghanoush\n>[HQ属性] 耐力+10%(最多143), 暴击+10%(最多103), 技速+10%(最多62)\n制作需要：\n - 深色茄子\n - 大蒜, 萨维奈彩椒, 地鸣灵砂, 海藻盐, 2 紫苏油",
+        "description": "茄泥酱/ババガヌーシュ/Baba Ghanoush\n>[HQ属性] 耐力+10%(最多143), 暴击+10%(最多103), 技速+10%(最多62)\n制作需要：\n - 暗色茄子\n - 大蒜, 萨维奈彩椒, 地鸣灵砂, 海藻盐, 2 紫苏油",
         "materials": [
           {
             "id": 39865,
@@ -32032,10 +32032,10 @@
       },
       {
         "patch": 4,
-        "name": "烤深色茄子",
+        "name": "烧烤暗色茄子",
         "jpname": "ベイクドダークエッグプラント",
         "enname": "Baked Eggplant",
-        "description": "烤深色茄子/ベイクドダークエッグプラント/Baked Eggplant\n>[HQ属性] 耐力+10%(最多143), 信念+10%(最多103), 暴击+10%(最多62)\n制作需要：\n - 深色茄子\n - 血番茄, 巨人新薯, 地鸣灵砂, 油橄榄油, 2 加雷马奶酪",
+        "description": "烧烤暗色茄子/ベイクドダークエッグプラント/Baked Eggplant\n>[HQ属性] 耐力+10%(最多143), 信念+10%(最多103), 暴击+10%(最多62)\n制作需要：\n - 暗色茄子\n - 血番茄, 巨人新薯, 地鸣灵砂, 油橄榄油, 2 加雷马奶酪",
         "materials": [
           {
             "id": 39865,
@@ -32065,10 +32065,10 @@
       },
       {
         "patch": 4,
-        "name": "香辣星外洋葱汤",
+        "name": "宇宙香辣汤",
         "jpname": "スペーススパイシースープ",
         "enname": "Spicy Stellar Soup",
-        "description": "香辣星外洋葱汤/スペーススパイシースープ/Spicy Stellar Soup\n>[HQ属性] 耐力+10%(最多143), 信仰+10%(最多103), 信念+10%(最多62)\n制作需要：\n - 高级孜然\n - 开心胡萝卜, 星外洋葱, 地鸣灵砂, 牦牛奶油, 2 北洋食盐",
+        "description": "宇宙香辣汤/スペーススパイシースープ/Spicy Stellar Soup\n>[HQ属性] 耐力+10%(最多143), 信仰+10%(最多103), 信念+10%(最多62)\n制作需要：\n - 高级孜然\n - 开心胡萝卜, 星外洋葱, 地鸣灵砂, 牦牛奶油, 2 北洋食盐",
         "materials": [
           {
             "id": 39866,
@@ -32098,10 +32098,10 @@
       },
       {
         "patch": 4,
-        "name": "近东风味烤盗龙腿肉",
+        "name": "窑烤盗龙腿",
         "jpname": "タンドリーラプトル",
         "enname": "Tandoori Raptor",
-        "description": "近东风味烤盗龙腿肉/タンドリーラプトル/Tandoori Raptor\n>[HQ属性] 耐力+10%(最多143), 咏速+10%(最多103), 信仰+10%(最多62)\n制作需要：\n - 高级孜然\n - 盗龙腿肉, 麝牛奶, 地鸣灵砂, 油橄榄油, 2 北洋食盐",
+        "description": "窑烤盗龙腿/タンドリーラプトル/Tandoori Raptor\n>[HQ属性] 耐力+10%(最多143), 咏速+10%(最多103), 信仰+10%(最多62)\n制作需要：\n - 高级孜然\n - 盗龙腿肉, 麝牛奶, 地鸣灵砂, 油橄榄油, 2 北洋食盐",
         "materials": [
           {
             "id": 39866,
@@ -32131,10 +32131,10 @@
       },
       {
         "patch": 4,
-        "name": "鲟鳇鱼子酱三明治",
+        "name": "鱼子酱三明治",
         "jpname": "キャビアサンド",
         "enname": "Caviar Sandwich",
-        "description": "鲟鳇鱼子酱三明治/キャビアサンド/Caviar Sandwich\n>[HQ属性] 耐力+10%(最多143), 咏速+10%(最多103), 直击+10%(最多62)\n制作需要：\n - 鲟鳇鱼子酱\n - 鳄梨, 厄尔庇斯之鸟蛋, 地鸣灵砂, 山地小麦粉, 2 北洋食盐",
+        "description": "鱼子酱三明治/キャビアサンド/Caviar Sandwich\n>[HQ属性] 耐力+10%(最多143), 咏速+10%(最多103), 直击+10%(最多62)\n制作需要：\n - 鲟鱼\n - 鳄梨, 厄尔庇斯之鸟蛋, 地鸣灵砂, 山地小麦粉, 2 北洋食盐",
         "materials": [
           {
             "id": 39867,
@@ -32164,10 +32164,10 @@
       },
       {
         "patch": 4,
-        "name": "鲟鳇鱼子酱脆饼",
+        "name": "鱼子酱佐小饼干",
         "jpname": "キャビアカナッペ",
         "enname": "Caviar Canapes",
-        "description": "鲟鳇鱼子酱脆饼/キャビアカナッペ/Caviar Canapes\n>[HQ属性] 耐力+10%(最多143), 暴击+10%(最多103), 咏速+10%(最多62)\n制作需要：\n - 鲟鳇鱼子酱\n - 血番茄, 星外洋葱, 地鸣灵砂, 山地小麦粉, 2 加雷马奶酪",
+        "description": "鱼子酱佐小饼干/キャビアカナッペ/Caviar Canapes\n>[HQ属性] 耐力+10%(最多143), 暴击+10%(最多103), 咏速+10%(最多62)\n制作需要：\n - 鲟鱼\n - 血番茄, 星外洋葱, 地鸣灵砂, 山地小麦粉, 2 加雷马奶酪",
         "materials": [
           {
             "id": 39867,
@@ -32197,10 +32197,10 @@
       },
       {
         "patch": 4,
-        "name": "醋腌花椰菜",
+        "name": "浅腌球形甘蓝",
         "jpname": "ブロコフラワーマリネ",
         "enname": "Marinated Broccoflower",
-        "description": "醋腌花椰菜/ブロコフラワーマリネ/Marinated Broccoflower\n>[HQ属性] 耐力+10%(最多143), 坚韧+10%(最多103), 信念+10%(最多62)\n制作需要：\n - 花椰菜\n - 萨维奈彩椒, 星外洋葱, 地鸣灵砂, 黑夜醋, 2 紫苏油",
+        "description": "浅腌球形甘蓝/ブロコフラワーマリネ/Marinated Broccoflower\n>[HQ属性] 耐力+10%(最多143), 坚韧+10%(最多103), 信念+10%(最多62)\n制作需要：\n - 球形甘蓝\n - 萨维奈彩椒, 星外洋葱, 地鸣灵砂, 黑夜醋, 2 紫苏油",
         "materials": [
           {
             "id": 39868,
@@ -32230,10 +32230,10 @@
       },
       {
         "patch": 4,
-        "name": "炖花椰菜",
+        "name": "球形甘蓝炖菜",
         "jpname": "ブロコフラワーシチュー",
         "enname": "Broccoflower Stew",
-        "description": "炖花椰菜/ブロコフラワーシチュー/Broccoflower Stew\n>[HQ属性] 耐力+10%(最多143), 信念+10%(最多103), 坚韧+10%(最多62)\n制作需要：\n - 花椰菜\n - 开心胡萝卜, 厄尔庇斯之鸟胸肉, 地鸣灵砂, 山地小麦粉, 2 北洋食盐",
+        "description": "球形甘蓝炖菜/ブロコフラワーシチュー/Broccoflower Stew\n>[HQ属性] 耐力+10%(最多143), 信念+10%(最多103), 坚韧+10%(最多62)\n制作需要：\n - 球形甘蓝\n - 开心胡萝卜, 厄尔庇斯之鸟胸肉, 地鸣灵砂, 山地小麦粉, 2 北洋食盐",
         "materials": [
           {
             "id": 39868,
@@ -32680,7 +32680,7 @@
       {
         "id": 39865,
         "scrip": 15,
-        "name": "深色茄子",
+        "name": "暗色茄子",
         "jpname": "ダークエッグプラント",
         "enname": "Dark Eggplant"
       },
@@ -32785,7 +32785,7 @@
       {
         "id": 39867,
         "scrip": 15,
-        "name": "鲟鳇鱼子酱",
+        "name": "鲟鱼",
         "jpname": "キャビアフィッシュ",
         "enname": "Caviar Sturgeon"
       },
@@ -32813,7 +32813,7 @@
       {
         "id": 39868,
         "scrip": 15,
-        "name": "花椰菜",
+        "name": "球形甘蓝",
         "jpname": "ブロコフラワー",
         "enname": "Broccoflower"
       },
@@ -33182,7 +33182,7 @@
         "name": "8级刚力之幻药",
         "jpname": "剛力の幻薬G8",
         "enname": "Grade 8 Tincture of Strength",
-        "description": "8级刚力之幻药/剛力の幻薬G8/Grade 8 Tincture of Strength\n>\n>属性：(HQ) 力量+10%（上限262）\n>适用职业：防护职业、龙骑士、钐镰客、武士、武僧\n>>制作配方：\n>>>炼金专用纯水×1, 5级刚力之幻水×1, 地鸣灵砂×1",
+        "description": "8级刚力之幻药/剛力の幻薬G8/Grade 8 Tincture of Strength\n>\n>属性：(HQ) 力量+10%（上限262）\n>适用职业：防护职业、龙骑士、钐镰客、武士、武僧\n>>制作配方：\n>>>炼金用纯水×1, 5级刚力之幻水×1, 地鸣灵砂×1",
         "materials": [
           {
             "id": 39716,
@@ -33203,7 +33203,7 @@
         "name": "8级巧力之幻药",
         "jpname": "眼力の幻薬G8",
         "enname": "Grade 8 Tincture of Dexterity",
-        "description": "8级巧力之幻药/眼力の幻薬G8/Grade 8 Tincture of Dexterity\n>\n>属性：(HQ) 灵巧+10%（上限262）\n>适用职业：忍者、吟游诗人、机工士、舞者\n>>制作配方：\n>>>炼金专用纯水×1, 5级巧力之幻水×1, 地鸣灵砂×1",
+        "description": "8级巧力之幻药/眼力の幻薬G8/Grade 8 Tincture of Dexterity\n>\n>属性：(HQ) 灵巧+10%（上限262）\n>适用职业：忍者、吟游诗人、机工士、舞者\n>>制作配方：\n>>>炼金用纯水×1, 5级巧力之幻水×1, 地鸣灵砂×1",
         "materials": [
           {
             "id": 39716,
@@ -33224,7 +33224,7 @@
         "name": "8级耐力之幻药",
         "jpname": "活力の幻薬G8",
         "enname": "Grade 8 Tincture of Vitality",
-        "description": "8级耐力之幻药/活力の幻薬G8/Grade 8 Tincture of Vitality\n>\n>属性：(HQ) 耐力+10%（上限262）\n>适用职业：不推荐\n>>制作配方：\n>>>炼金专用纯水×1, 5级耐力之幻水×1, 地鸣灵砂×1",
+        "description": "8级耐力之幻药/活力の幻薬G8/Grade 8 Tincture of Vitality\n>\n>属性：(HQ) 耐力+10%（上限262）\n>适用职业：不推荐\n>>制作配方：\n>>>炼金用纯水×1, 5级耐力之幻水×1, 地鸣灵砂×1",
         "materials": [
           {
             "id": 39716,
@@ -33245,7 +33245,7 @@
         "name": "8级智力之幻药",
         "jpname": "知力の幻薬G8",
         "enname": "Grade 8 Tincture of Intelligence",
-        "description": "8级智力之幻药/知力の幻薬G8/Grade 8 Tincture of Intelligence\n>\n>属性：(HQ) 智力+10%（上限262）\n>适用职业：黑魔法师、召唤师、赤魔法师\n>>制作配方：\n>>>炼金专用纯水×1, 5级智力之幻水×1, 地鸣灵砂×1",
+        "description": "8级智力之幻药/知力の幻薬G8/Grade 8 Tincture of Intelligence\n>\n>属性：(HQ) 智力+10%（上限262）\n>适用职业：黑魔法师、召唤师、赤魔法师\n>>制作配方：\n>>>炼金用纯水×1, 5级智力之幻水×1, 地鸣灵砂×1",
         "materials": [
           {
             "id": 39716,
@@ -33266,7 +33266,7 @@
         "name": "8级意力之幻药",
         "jpname": "心力の幻薬G8",
         "enname": "Grade 8 Tincture of Mind",
-        "description": "8级意力之幻药/心力の幻薬G8/Grade 8 Tincture of Mind\n>\n>属性：(HQ) 精神+10%（上限262）\n>适用职业：治疗职业\n>>制作配方：\n>>>炼金专用纯水×1, 5级意力之幻水×1, 地鸣灵砂×1",
+        "description": "8级意力之幻药/心力の幻薬G8/Grade 8 Tincture of Mind\n>\n>属性：(HQ) 精神+10%（上限262）\n>适用职业：治疗职业\n>>制作配方：\n>>>炼金用纯水×1, 5级意力之幻水×1, 地鸣灵砂×1",
         "materials": [
           {
             "id": 39716,
@@ -33399,7 +33399,7 @@
       {
         "id": 39716,
         "type": 0,
-        "name": "炼金专用纯水",
+        "name": "炼金用纯水",
         "jpname": "錬金用純水",
         "enname": "Alche-mist"
       },
@@ -33446,6 +33446,918 @@
         "enname": "Grade 5 Mind Alkahest"
       }
     ]
+  },
+  "GanwuData": {
+    "TopMenu": {
+      "(6.35)制作攻略": "https://bbs.nga.cn/read.php?tid=35596469",
+      "(6.35)外观预览": "https://www.bilibili.com/video/BV1kk4y1b71i",
+      "(6.45)外观预览": "https://www.bilibili.com/video/BV1UV41157XW",
+      "(友链)战职同款": "https://bbs.nga.cn/read.php?tid=35411024"
+    },
+    "TableColumnTitles": [
+      "+0(570)",
+      "+1(590)",
+      "+2(620)",
+      "+3(625)",
+      "+4(630)"
+    ],
+    "TableData": [
+      {
+        "JobName": "刻木",
+        "Cells": [
+          {
+            "item_id": 38715,
+            "item_name_cn": "卓越手锯",
+            "item_name_en": "Splendorous Saw",
+            "item_name_jp": "モーエン・ソー",
+            "description": "卓越手锯\n[外文名] モーエン・ソー/Splendorous Saw\n[物品品级] 570\n[6.35版本] [刻木匠主手工具] [莫雯卓越工具第1阶段]\n[属性] 作业精度+1023, 加工精度+556\n不可镶嵌魔晶石",
+            "requires": "common_craft_s1"
+          },
+          {
+            "item_id": 38726,
+            "item_name_cn": "改良型卓越手锯",
+            "item_name_en": "Augmented Splendorous Saw",
+            "item_name_jp": "モーエン・ソーRE",
+            "description": "改良型卓越手锯\n[外文名] モーエン・ソーRE/Augmented Splendorous Saw\n[物品品级] 590\n[6.35版本] [刻木匠主手工具] [莫雯卓越工具第2阶段]\n[属性] 作业精度+1107, 加工精度+593\n不可镶嵌魔晶石",
+            "requires": "kemu_s2"
+          },
+          {
+            "item_id": 38737,
+            "item_name_cn": "水晶手锯",
+            "item_name_en": "Crystalline Saw",
+            "item_name_jp": "クリスタライン・ソー",
+            "description": "水晶手锯\n[外文名] クリスタライン・ソー/Crystalline Saw\n[物品品级] 620\n[6.35版本] [刻木匠主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1208, 加工精度+638, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "kemu_s3"
+          },
+          {
+            "item_id": 39732,
+            "item_name_cn": "改良型水晶手锯",
+            "item_name_en": "Chora-Zoi's Crystalline Saw",
+            "item_name_jp": "ゾイズクリスタライン・ソー",
+            "description": "改良型水晶手锯\n[外文名] ゾイズクリスタライン・ソー/Chora-Zoi's Crystalline Saw\n[物品品级] 625\n[6.45版本] [刻木匠主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1220, 加工精度+646, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "kemu_s4"
+          },
+          {
+            "item_id": 39743,
+            "item_name_cn": "闪耀手锯",
+            "item_name_en": "Brilliant Saw",
+            "item_name_jp": "ゾイズスプレンディド・ソー",
+            "description": "闪耀手锯\n[外文名] ゾイズスプレンディド・ソー/Brilliant Saw\n[物品品级] 630\n[6.45版本] [刻木匠主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1232, 加工精度+655, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "kemu_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "锻铁",
+        "Cells": [
+          {
+            "item_id": 38716,
+            "item_name_cn": "卓越横头锤",
+            "item_name_en": "Splendorous Cross-pein Hammer",
+            "item_name_jp": "モーエン・クロスペインハンマー",
+            "description": "卓越横头锤\n[外文名] モーエン・クロスペインハンマー/Splendorous Cross-pein Hammer\n[物品品级] 570\n[6.35版本] [锻铁匠主手工具] [莫雯卓越工具第1阶段]\n[属性] 作业精度+1023, 加工精度+556\n不可镶嵌魔晶石",
+            "requires": "common_craft_s1"
+          },
+          {
+            "item_id": 38727,
+            "item_name_cn": "改良型卓越横头锤",
+            "item_name_en": "Augmented Splendorous Cross-pein Hammer",
+            "item_name_jp": "モーエン・クロスペインハンマーRE",
+            "description": "改良型卓越横头锤\n[外文名] モーエン・クロスペインハンマーRE/Augmented Splendorous Cross-pein Hammer\n[物品品级] 590\n[6.35版本] [锻铁匠主手工具] [莫雯卓越工具第2阶段]\n[属性] 作业精度+1107, 加工精度+593\n不可镶嵌魔晶石",
+            "requires": "duantie_s2"
+          },
+          {
+            "item_id": 38738,
+            "item_name_cn": "水晶横头锤",
+            "item_name_en": "Crystalline Cross-pein Hammer",
+            "item_name_jp": "クリスタライン・クロスペインハンマー",
+            "description": "水晶横头锤\n[外文名] クリスタライン・クロスペインハンマー/Crystalline Cross-pein Hammer\n[物品品级] 620\n[6.35版本] [锻铁匠主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1208, 加工精度+638, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "duantie_s3"
+          },
+          {
+            "item_id": 39733,
+            "item_name_cn": "改良型水晶横头锤",
+            "item_name_en": "Chora-Zoi's Crystalline Cross-pein Hammer",
+            "item_name_jp": "ゾイズクリスタライン・クロスペインハンマー",
+            "description": "改良型水晶横头锤\n[外文名] ゾイズクリスタライン・クロスペインハンマー/Chora-Zoi's Crystalline Cross-pein Hammer\n[物品品级] 625\n[6.45版本] [锻铁匠主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1220, 加工精度+646, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "duantie_s4"
+          },
+          {
+            "item_id": 39744,
+            "item_name_cn": "闪耀横头锤",
+            "item_name_en": "Brilliant Cross-pein Hammer",
+            "item_name_jp": "ゾイズスプレンディド・クロスペインハンマー",
+            "description": "闪耀横头锤\n[外文名] ゾイズスプレンディド・クロスペインハンマー/Brilliant Cross-pein Hammer\n[物品品级] 630\n[6.45版本] [锻铁匠主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1232, 加工精度+655, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "duantie_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "铸甲",
+        "Cells": [
+          {
+            "item_id": 38717,
+            "item_name_cn": "卓越圆头锤",
+            "item_name_en": "Splendorous Raising Hammer",
+            "item_name_jp": "モーエン・レイジングハンマー",
+            "description": "卓越圆头锤\n[外文名] モーエン・レイジングハンマー/Splendorous Raising Hammer\n[物品品级] 570\n[6.35版本] [铸甲匠主手工具] [莫雯卓越工具第1阶段]\n[属性] 作业精度+1023, 加工精度+556\n不可镶嵌魔晶石",
+            "requires": "common_craft_s1"
+          },
+          {
+            "item_id": 38728,
+            "item_name_cn": "改良型卓越圆头锤",
+            "item_name_en": "Augmented Splendorous Raising Hammer",
+            "item_name_jp": "モーエン・レイジングハンマーRE",
+            "description": "改良型卓越圆头锤\n[外文名] モーエン・レイジングハンマーRE/Augmented Splendorous Raising Hammer\n[物品品级] 590\n[6.35版本] [铸甲匠主手工具] [莫雯卓越工具第2阶段]\n[属性] 作业精度+1107, 加工精度+593\n不可镶嵌魔晶石",
+            "requires": "zhujia_s2"
+          },
+          {
+            "item_id": 38739,
+            "item_name_cn": "水晶圆头锤",
+            "item_name_en": "Crystalline Raising Hammer",
+            "item_name_jp": "クリスタライン・レイジングハンマー",
+            "description": "水晶圆头锤\n[外文名] クリスタライン・レイジングハンマー/Crystalline Raising Hammer\n[物品品级] 620\n[6.35版本] [铸甲匠主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1208, 加工精度+638, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "zhujia_s3"
+          },
+          {
+            "item_id": 39734,
+            "item_name_cn": "改良型水晶圆头锤",
+            "item_name_en": "Chora-Zoi's Crystalline Raising Hammer",
+            "item_name_jp": "ゾイズクリスタライン・レイジングハンマー",
+            "description": "改良型水晶圆头锤\n[外文名] ゾイズクリスタライン・レイジングハンマー/Chora-Zoi's Crystalline Raising Hammer\n[物品品级] 625\n[6.45版本] [铸甲匠主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1220, 加工精度+646, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "zhujia_s4"
+          },
+          {
+            "item_id": 39745,
+            "item_name_cn": "闪耀圆头锤",
+            "item_name_en": "Brilliant Raising Hammer",
+            "item_name_jp": "ゾイズスプレンディド・レイジングハンマー",
+            "description": "闪耀圆头锤\n[外文名] ゾイズスプレンディド・レイジングハンマー/Brilliant Raising Hammer\n[物品品级] 630\n[6.45版本] [铸甲匠主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1232, 加工精度+655, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "zhujia_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "雕金",
+        "Cells": [
+          {
+            "item_id": 38718,
+            "item_name_cn": "卓越工艺锤",
+            "item_name_en": "Splendorous Mallet",
+            "item_name_jp": "モーエン・マレット",
+            "description": "卓越工艺锤\n[外文名] モーエン・マレット/Splendorous Mallet\n[物品品级] 570\n[6.35版本] [雕金匠主手工具] [莫雯卓越工具第1阶段]\n[属性] 作业精度+1023, 加工精度+556\n不可镶嵌魔晶石",
+            "requires": "common_craft_s1"
+          },
+          {
+            "item_id": 38729,
+            "item_name_cn": "改良型卓越工艺锤",
+            "item_name_en": "Augmented Splendorous Mallet",
+            "item_name_jp": "モーエン・マレットRE",
+            "description": "改良型卓越工艺锤\n[外文名] モーエン・マレットRE/Augmented Splendorous Mallet\n[物品品级] 590\n[6.35版本] [雕金匠主手工具] [莫雯卓越工具第2阶段]\n[属性] 作业精度+1107, 加工精度+593\n不可镶嵌魔晶石",
+            "requires": "diaojin_s2"
+          },
+          {
+            "item_id": 38740,
+            "item_name_cn": "水晶工艺锤",
+            "item_name_en": "Crystalline Mallet",
+            "item_name_jp": "クリスタライン・マレット",
+            "description": "水晶工艺锤\n[外文名] クリスタライン・マレット/Crystalline Mallet\n[物品品级] 620\n[6.35版本] [雕金匠主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1208, 加工精度+638, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "diaojin_s3"
+          },
+          {
+            "item_id": 39735,
+            "item_name_cn": "改良型水晶工艺锤",
+            "item_name_en": "Chora-Zoi's Crystalline Mallet",
+            "item_name_jp": "ゾイズクリスタライン・マレット",
+            "description": "改良型水晶工艺锤\n[外文名] ゾイズクリスタライン・マレット/Chora-Zoi's Crystalline Mallet\n[物品品级] 625\n[6.45版本] [雕金匠主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1220, 加工精度+646, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "diaojin_s4"
+          },
+          {
+            "item_id": 39746,
+            "item_name_cn": "闪耀工艺锤",
+            "item_name_en": "Brilliant Mallet",
+            "item_name_jp": "ゾイズスプレンディド・マレット",
+            "description": "闪耀工艺锤\n[外文名] ゾイズスプレンディド・マレット/Brilliant Mallet\n[物品品级] 630\n[6.45版本] [雕金匠主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1232, 加工精度+655, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "diaojin_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "制革",
+        "Cells": [
+          {
+            "item_id": 38719,
+            "item_name_cn": "卓越圆革刀",
+            "item_name_en": "Splendorous Knife",
+            "item_name_jp": "モーエン・ナイフ",
+            "description": "卓越圆革刀\n[外文名] モーエン・ナイフ/Splendorous Knife\n[物品品级] 570\n[6.35版本] [制革匠主手工具] [莫雯卓越工具第1阶段]\n[属性] 作业精度+1023, 加工精度+556\n不可镶嵌魔晶石",
+            "requires": "common_craft_s1"
+          },
+          {
+            "item_id": 38730,
+            "item_name_cn": "改良型卓越圆革刀",
+            "item_name_en": "Augmented Splendorous Knife",
+            "item_name_jp": "モーエン・ナイフRE",
+            "description": "改良型卓越圆革刀\n[外文名] モーエン・ナイフRE/Augmented Splendorous Knife\n[物品品级] 590\n[6.35版本] [制革匠主手工具] [莫雯卓越工具第2阶段]\n[属性] 作业精度+1107, 加工精度+593\n不可镶嵌魔晶石",
+            "requires": "zhige_s2"
+          },
+          {
+            "item_id": 38741,
+            "item_name_cn": "水晶圆革刀",
+            "item_name_en": "Crystalline Round Knife",
+            "item_name_jp": "クリスタライン・ラウンドナイフ",
+            "description": "水晶圆革刀\n[外文名] クリスタライン・ラウンドナイフ/Crystalline Round Knife\n[物品品级] 620\n[6.35版本] [制革匠主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1208, 加工精度+638, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "zhige_s3"
+          },
+          {
+            "item_id": 39736,
+            "item_name_cn": "改良型水晶圆革刀",
+            "item_name_en": "Chora-Zoi's Crystalline Round Knife",
+            "item_name_jp": "ゾイズクリスタライン・ラウンドナイフ",
+            "description": "闪耀圆革刀\n[外文名] ゾイズクリスタライン・ラウンドナイフ/Chora-Zoi's Crystalline Round Knife\n[物品品级] 625\n[6.45版本] [制革匠主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1220, 加工精度+646, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "zhige_s4"
+          },
+          {
+            "item_id": 39747,
+            "item_name_cn": "闪耀圆革刀",
+            "item_name_en": "Brilliant Round Knife",
+            "item_name_jp": "ゾイズスプレンディド・ラウンドナイフ",
+            "description": "闪耀圆革刀\n[外文名] ゾイズスプレンディド・ラウンドナイフ/Brilliant Round Knife\n[物品品级] 630\n[6.45版本] [制革匠主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1232, 加工精度+655, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "zhige_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "裁缝",
+        "Cells": [
+          {
+            "item_id": 38720,
+            "item_name_cn": "卓越缝针",
+            "item_name_en": "Splendorous Needle",
+            "item_name_jp": "モーエン・ニードル",
+            "description": "卓越缝针\n[外文名] モーエン・ニードル/Splendorous Needle\n[物品品级] 570\n[6.35版本] [裁衣匠主手工具] [莫雯卓越工具第1阶段]\n[属性] 作业精度+1023, 加工精度+556\n不可镶嵌魔晶石",
+            "requires": "common_craft_s1"
+          },
+          {
+            "item_id": 38731,
+            "item_name_cn": "改良型卓越缝针",
+            "item_name_en": "Augmented Splendorous Needle",
+            "item_name_jp": "モーエン・ニードルRE",
+            "description": "改良型卓越缝针\n[外文名] モーエン・ニードルRE/Augmented Splendorous Needle\n[物品品级] 590\n[6.35版本] [裁衣匠主手工具] [莫雯卓越工具第2阶段]\n[属性] 作业精度+1107, 加工精度+593\n不可镶嵌魔晶石",
+            "requires": "caifeng_s2"
+          },
+          {
+            "item_id": 38742,
+            "item_name_cn": "水晶缝针",
+            "item_name_en": "Crystalline Needle",
+            "item_name_jp": "クリスタライン・ニードル",
+            "description": "水晶缝针\n[外文名] クリスタライン・ニードル/Crystalline Needle\n[物品品级] 620\n[6.35版本] [裁衣匠主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1208, 加工精度+638, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "caifeng_s3"
+          },
+          {
+            "item_id": 39737,
+            "item_name_cn": "改良型水晶缝针",
+            "item_name_en": "Chora-Zoi's Crystalline Needle",
+            "item_name_jp": "ゾイズクリスタライン・ニードル",
+            "description": "改良型水晶缝针\n[外文名] ゾイズクリスタライン・ニードル/Chora-Zoi's Crystalline Needle\n[物品品级] 625\n[6.45版本] [裁衣匠主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1220, 加工精度+646, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "caifeng_s4"
+          },
+          {
+            "item_id": 39748,
+            "item_name_cn": "闪耀缝针",
+            "item_name_en": "Brilliant Needle",
+            "item_name_jp": "ゾイズスプレンディド・ニードル",
+            "description": "闪耀缝针\n[外文名] ゾイズスプレンディド・ニードル/Brilliant Needle\n[物品品级] 630\n[6.45版本] [裁衣匠主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1232, 加工精度+655, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "caifeng_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "炼金",
+        "Cells": [
+          {
+            "item_id": 38721,
+            "item_name_cn": "卓越蒸馏器",
+            "item_name_en": "Splendorous Alembic",
+            "item_name_jp": "モーエン・アレンビック",
+            "description": "卓越蒸馏器\n[外文名] モーエン・アレンビック/Splendorous Alembic\n[物品品级] 570\n[6.35版本] [炼金术士主手工具] [莫雯卓越工具第1阶段]\n[属性] 作业精度+1023, 加工精度+556\n不可镶嵌魔晶石",
+            "requires": "common_craft_s1"
+          },
+          {
+            "item_id": 38732,
+            "item_name_cn": "改良型卓越蒸馏器",
+            "item_name_en": "Augmented Splendorous Alembic",
+            "item_name_jp": "モーエン・アレンビックRE",
+            "description": "改良型卓越蒸馏器\n[外文名] モーエン・アレンビックRE/Augmented Splendorous Alembic\n[物品品级] 590\n[6.35版本] [炼金术士主手工具] [莫雯卓越工具第2阶段]\n[属性] 作业精度+1107, 加工精度+593\n不可镶嵌魔晶石",
+            "requires": "lianjin_s2"
+          },
+          {
+            "item_id": 38743,
+            "item_name_cn": "水晶蒸馏器",
+            "item_name_en": "Crystalline Alembic",
+            "item_name_jp": "クリスタライン・アレンビック",
+            "description": "水晶蒸馏器\n[外文名] クリスタライン・アレンビック/Crystalline Alembic\n[物品品级] 620\n[6.35版本] [炼金术士主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1208, 加工精度+638, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "lianjin_s3"
+          },
+          {
+            "item_id": 39738,
+            "item_name_cn": "改良型水晶蒸馏器",
+            "item_name_en": "Chora-Zoi's Crystalline Alembic",
+            "item_name_jp": "ゾイズクリスタライン・アレンビック",
+            "description": "改良型水晶蒸馏器\n[外文名] ゾイズクリスタライン・アレンビック/Chora-Zoi's Crystalline Alembic\n[物品品级] 625\n[6.45版本] [炼金术士主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1220, 加工精度+646, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "lianjin_s4"
+          },
+          {
+            "item_id": 39749,
+            "item_name_cn": "闪耀蒸馏器",
+            "item_name_en": "Brilliant Alembic",
+            "item_name_jp": "ゾイズスプレンディド・アレンビック",
+            "description": "闪耀蒸馏器\n[外文名] ゾイズスプレンディド・アレンビック/Brilliant Alembic\n[物品品级] 630\n[6.45版本] [炼金术士主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1232, 加工精度+655, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "lianjin_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "烹调",
+        "Cells": [
+          {
+            "item_id": 38722,
+            "item_name_cn": "卓越煎锅",
+            "item_name_en": "Splendorous Frypan",
+            "item_name_jp": "モーエン・フライパン",
+            "description": "卓越煎锅\n[外文名] モーエン・フライパン/Splendorous Frypan\n[物品品级] 570\n[6.35版本] [烹调师主手工具] [莫雯卓越工具第1阶段]\n[属性] 作业精度+1023, 加工精度+556\n不可镶嵌魔晶石",
+            "requires": "common_craft_s1"
+          },
+          {
+            "item_id": 38733,
+            "item_name_cn": "改良型卓越煎锅",
+            "item_name_en": "Augmented Splendorous Frypan",
+            "item_name_jp": "モーエン・フライパンRE",
+            "description": "改良型卓越煎锅\n[外文名] モーエン・フライパンRE/Augmented Splendorous Frypan\n[物品品级] 590\n[6.35版本] [烹调师主手工具] [莫雯卓越工具第2阶段]\n[属性] 作业精度+1107, 加工精度+593\n不可镶嵌魔晶石",
+            "requires": "pengtiao_s2"
+          },
+          {
+            "item_id": 38744,
+            "item_name_cn": "水晶煎锅",
+            "item_name_en": "Crystalline Frypan",
+            "item_name_jp": "クリスタライン・フライパン",
+            "description": "水晶煎锅\n[外文名] クリスタライン・フライパン/Crystalline Frypan\n[物品品级] 620\n[6.35版本] [烹调师主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1208, 加工精度+638, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "pengtiao_s3"
+          },
+          {
+            "item_id": 39739,
+            "item_name_cn": "改良型水晶煎锅",
+            "item_name_en": "Chora-Zoi's Crystalline Frypan",
+            "item_name_jp": "ゾイズクリスタライン・フライパン",
+            "description": "改良型水晶煎锅\n[外文名] ゾイズクリスタライン・フライパン/Chora-Zoi's Crystalline Frypan\n[物品品级] 625\n[6.45版本] [烹调师主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1220, 加工精度+646, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "pengtiao_s4"
+          },
+          {
+            "item_id": 39750,
+            "item_name_cn": "闪耀煎锅",
+            "item_name_en": "Brilliant Frypan",
+            "item_name_jp": "ゾイズスプレンディド・フライパン",
+            "description": "闪耀煎锅\n[外文名] ゾイズスプレンディド・フライパン/Brilliant Frypan\n[物品品级] 630\n[6.45版本] [烹调师主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 高品质状态时品质上升量是通常状态的1.75倍。\n[属性] 作业精度+1232, 加工精度+655, 制作力+7\n不可镶嵌魔晶石",
+            "requires": "pengtiao_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "采矿",
+        "Cells": [
+          {
+            "item_id": 38723,
+            "item_name_cn": "卓越鹤嘴锄",
+            "item_name_en": "Splendorous Pickaxe",
+            "item_name_jp": "モーエン・ピック",
+            "description": "卓越鹤嘴锄\n[外文名] モーエン・ピック/Splendorous Pickaxe\n[物品品级] 570\n[6.35版本] [采矿工主手工具] [莫雯卓越工具第1阶段]\n[属性] 耐力+115, 获得力+1049, 鉴别力+599\n不可镶嵌魔晶石",
+            "requires": "common_gather_s1"
+          },
+          {
+            "item_id": 38734,
+            "item_name_cn": "改良型卓越鹤嘴锄",
+            "item_name_en": "Augmented Splendorous Pickaxe",
+            "item_name_jp": "モーエン・ピックRE",
+            "description": "改良型卓越鹤嘴锄\n[外文名] モーエン・ピックRE/Augmented Splendorous Pickaxe\n[物品品级] 590\n[6.35版本] [采矿工主手工具] [莫雯卓越工具第2阶段]\n[属性] 耐力+131, 获得力+1120, 鉴别力+640\n不可镶嵌魔晶石",
+            "requires": "caikuang_s2"
+          },
+          {
+            "item_id": 38745,
+            "item_name_cn": "水晶鹤嘴锄",
+            "item_name_en": "Crystalline Pickaxe",
+            "item_name_jp": "クリスタライン・ピック",
+            "description": "水晶鹤嘴锄\n[外文名] クリスタライン・ピック/Crystalline Pickaxe\n[物品品级] 620\n[6.35版本] [采矿工主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 收藏品采集时，价值提升的发生率提高20%。\n[属性] 耐力+159, 获得力+1227, 鉴别力+701, 采集力+9\n不可镶嵌魔晶石",
+            "requires": "caikuang_s3"
+          },
+          {
+            "item_id": 39740,
+            "item_name_cn": "改良型水晶鹤嘴锄",
+            "item_name_en": "Chora-Zoi's Crystalline Pickaxe",
+            "item_name_jp": "ゾイズクリスタライン・ピック",
+            "description": "改良型水晶鹤嘴锄\n[外文名] ゾイズクリスタライン・ピック/Chora-Zoi's Crystalline Pickaxe\n[物品品级] 625\n[6.45版本] [采矿工主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 收藏品采集时，价值提升的发生率提高20%。\n[属性] 耐力+164, 获得力+1245, 鉴别力+711, 采集力+9\n不可镶嵌魔晶石",
+            "requires": "caikuang_s4"
+          },
+          {
+            "item_id": 39751,
+            "item_name_cn": "闪耀鹤嘴锄",
+            "item_name_en": "Brilliant Pickaxe",
+            "item_name_jp": "ゾイズスプレンディド・ピック",
+            "description": "闪耀鹤嘴锄\n[外文名] ゾイズスプレンディド・ピック/Brilliant Pickaxe\n[物品品级] 630\n[6.45版本] [采矿工主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 收藏品采集时，价值提升的发生率提高20%。\n[属性] 耐力+169, 获得力+1263, 鉴别力+722, 采集力+9\n不可镶嵌魔晶石",
+            "requires": "caikuang_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "园艺",
+        "Cells": [
+          {
+            "item_id": 38724,
+            "item_name_cn": "卓越手斧",
+            "item_name_en": "Splendorous Hatchet",
+            "item_name_jp": "モーエン・ハチェット",
+            "description": "卓越手斧\n[外文名] モーエン・ハチェット/Splendorous Hatchet\n[物品品级] 570\n[6.35版本] [园艺工主手工具] [莫雯卓越工具第1阶段]\n[属性] 耐力+115, 获得力+1049, 鉴别力+599\n不可镶嵌魔晶石",
+            "requires": "common_gather_s1"
+          },
+          {
+            "item_id": 38735,
+            "item_name_cn": "改良型卓越手斧",
+            "item_name_en": "Augmented Splendorous Hatchet",
+            "item_name_jp": "モーエン・ハチェットRE",
+            "description": "改良型卓越手斧\n[外文名] モーエン・ハチェットRE/Augmented Splendorous Hatchet\n[物品品级] 590\n[6.35版本] [园艺工主手工具] [莫雯卓越工具第2阶段]\n[属性] 耐力+131, 获得力+1120, 鉴别力+640\n不可镶嵌魔晶石",
+            "requires": "yuanyi_s2"
+          },
+          {
+            "item_id": 38746,
+            "item_name_cn": "水晶手斧",
+            "item_name_en": "Crystalline Hatchet",
+            "item_name_jp": "クリスタライン・ハチェット",
+            "description": "水晶手斧\n[外文名] クリスタライン・ハチェット/Crystalline Hatchet\n[物品品级] 620\n[6.35版本] [园艺工主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 收藏品采集时，价值提升的发生率提高20%。\n[属性] 耐力+159, 获得力+1227, 鉴别力+701, 采集力+9\n不可镶嵌魔晶石",
+            "requires": "yuanyi_s3"
+          },
+          {
+            "item_id": 39741,
+            "item_name_cn": "改良型水晶手斧",
+            "item_name_en": "Chora-Zoi's Crystalline Hatchet",
+            "item_name_jp": "ゾイズクリスタライン・ハチェット",
+            "description": "改良型水晶手斧\n[外文名] ゾイズクリスタライン・ハチェット/Chora-Zoi's Crystalline Hatchet\n[物品品级] 625\n[6.45版本] [园艺工主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 收藏品采集时，价值提升的发生率提高20%。\n[属性] 耐力+164, 获得力+1245, 鉴别力+711, 采集力+9\n不可镶嵌魔晶石",
+            "requires": "yuanyi_s4"
+          },
+          {
+            "item_id": 39752,
+            "item_name_cn": "闪耀手斧",
+            "item_name_en": "Brilliant Hatchet",
+            "item_name_jp": "ゾイズスプレンディド・ハチェット",
+            "description": "闪耀手斧\n[外文名] ゾイズスプレンディド・ハチェット/Brilliant Hatchet\n[物品品级] 630\n[6.45版本] [园艺工主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 收藏品采集时，价值提升的发生率提高20%。\n[属性] 耐力+169, 获得力+1263, 鉴别力+722, 采集力+9\n不可镶嵌魔晶石",
+            "requires": "yuanyi_s5"
+          }
+        ]
+      },
+      {
+        "JobName": "捕鱼",
+        "Cells": [
+          {
+            "item_id": 38725,
+            "item_name_cn": "卓越钓竿",
+            "item_name_en": "Splendorous Fishing Rod",
+            "item_name_jp": "モーエン・ロッド",
+            "description": "卓越鱼竿\n[外文名] モーエン・ロッド/Splendorous Fishing Rod\n[物品品级] 570\n[6.35版本] [捕鱼人主手工具] [莫雯卓越工具第1阶段]\n[属性] 耐力+115, 获得力+1049, 鉴别力+599\n不可镶嵌魔晶石",
+            "requires": "common_gather_s1"
+          },
+          {
+            "item_id": 38736,
+            "item_name_cn": "改良型卓越钓竿",
+            "item_name_en": "Augmented Splendorous Fishing Rod",
+            "item_name_jp": "モーエン・ロッドRE",
+            "description": "改良型卓越钓竿\n[外文名] モーエン・ロッドRE/Augmented Splendorous Fishing Rod\n[物品品级] 590\n[6.35版本] [捕鱼人主手工具] [莫雯卓越工具第2阶段]\n[属性] 耐力+131, 获得力+1120, 鉴别力+640\n不可镶嵌魔晶石",
+            "requires": "diaoyu_s2"
+          },
+          {
+            "item_id": 38747,
+            "item_name_cn": "水晶钓竿",
+            "item_name_en": "Crystalline Fishing Rod",
+            "item_name_jp": "クリスタライン・フィッシングロッド",
+            "description": "水晶钓竿\n[外文名] クリスタライン・フィッシングロッド/Crystalline Fishing Rod\n[物品品级] 620\n[6.35版本] [捕鱼人主手工具] [莫雯卓越工具第3阶段]\n[特殊效果] 使用强力提钩或精准提钩时，一定几率采集力消耗减轻50%。\n[属性] 耐力+159, 获得力+1227, 鉴别力+701, 采集力+9\n不可镶嵌魔晶石",
+            "requires": "diaoyu_s3"
+          },
+          {
+            "item_id": 39742,
+            "item_name_cn": "改良型水晶钓竿",
+            "item_name_en": "Chora-Zoi's Crystalline Fishing Rod",
+            "item_name_jp": "ゾイズクリスタライン・フィッシングロッド",
+            "description": "改良型水晶钓竿\n[外文名] ゾイズクリスタライン・フィッシングロッド/Chora-Zoi's Crystalline Fishing Rod\n[物品品级] 625\n[6.45版本] [捕鱼人主手工具] [莫雯卓越工具第4阶段]\n[特殊效果] 使用强力提钩或精准提钩时，一定几率采集力消耗减轻50%。\n[属性] 耐力+164, 获得力+1245, 鉴别力+711, 采集力+9\n不可镶嵌魔晶石",
+            "requires": "diaoyu_s4"
+          },
+          {
+            "item_id": 39753,
+            "item_name_cn": "闪耀钓竿",
+            "item_name_en": "Brilliant Fishing Rod",
+            "item_name_jp": "ゾイズスプレンディド・フィッシングロッド",
+            "description": "闪耀钓竿\n[外文名] ゾイズスプレンディド・フィッシングロッド/Brilliant Fishing Rod\n[物品品级] 630\n[6.45版本] [捕鱼人主手工具] [莫雯卓越工具第5阶段]\n[特殊效果] 使用强力提钩或精准提钩时，一定几率采集力消耗减轻50%。\n[属性] 耐力+169, 获得力+1263, 鉴别力+722, 采集力+9\n不可镶嵌魔晶石",
+            "requires": "diaoyu_s5"
+          }
+        ]
+      }
+    ],
+    "RequireMap": {
+      "Sample": {
+        "require_1": 3,
+        "require_2": 1
+      },
+      "common_craft_s1": {
+        "巧手白票": 1500
+      },
+      "common_gather_s1": {
+        "大地白票": 1500
+      },
+      "kemu_s2": {
+        "(点数素材)卓越商会特选铁木木材": 20,
+        "铁木原木": 40
+      },
+      "duantie_s2": {
+        "(点数素材)卓越商会特选锰钢锭": 20,
+        "弗里金矿": 40
+      },
+      "zhujia_s2": {
+        "(点数素材)卓越商会特选纯钛板": 20,
+        "铁木原木": 40
+      },
+      "diaojin_s2": {
+        "(点数素材)卓越商会特选水晶板": 20,
+        "铋矿": 40
+      },
+      "zhige_s2": {
+        "(点数素材)卓越商会特选斯剑虎革": 20,
+        "阿尔马斯提毛": 40
+      },
+      "caifeng_s2": {
+        "(点数素材)卓越商会特选绛红草布": 20,
+        "阿尔马斯提毛": 40
+      },
+      "lianjin_s2": {
+        "(点数素材)卓越商会特选阱蛇麻的叶子": 20,
+        "彩蝶鳞粉": 40
+      },
+      "pengtiao_s2": {
+        "(点数素材)卓越商会特选仙子莓": 20,
+        "高山茶叶": 40
+      },
+      "caikuang_s2": {
+        "(收藏品采集)面向收藏家的彩虹晶": 60,
+        "(隐藏采集道具)改良用的水之碎晶": 180
+      },
+      "yuanyi_s2": {
+        "(收藏品采集)面向收藏家的硬质金合欢树皮": 60,
+        "(隐藏采集道具)改良用的土之碎晶": 180
+      },
+      "diaoyu_s2": {
+        "(钓鱼-收藏品采集)白金海马": 30,
+        "(钓鱼-收藏品采集)击木灯塔守卫": 30
+      },
+      "kemu_s3": {
+        "(点数素材)卓越商会特选铁木木材": 30,
+        "完满木木材": 30,
+        "球粒陨石锭": 30
+      },
+      "duantie_s3": {
+        "(点数素材)卓越商会特选锰钢锭": 30,
+        "星点石英": 30,
+        "球粒陨石锭": 30
+      },
+      "zhujia_s3": {
+        "(点数素材)卓越商会特选纯钛板": 30,
+        "完满木木材": 30,
+        "球粒陨石锭": 30
+      },
+      "diaojin_s3": {
+        "(点数素材)卓越商会特选水晶板": 30,
+        "星点石英": 30,
+        "球粒陨石锭": 30
+      },
+      "zhige_s3": {
+        "(点数素材)卓越商会特选斯剑虎革": 30,
+        "完满木木材": 30,
+        "迷彩绒": 30
+      },
+      "caifeng_s3": {
+        "(点数素材)卓越商会特选绛红草布": 30,
+        "迷彩绒": 30,
+        "蛇牛革": 30
+      },
+      "lianjin_s3": {
+        "(点数素材)卓越商会特选阱蛇麻的叶子": 30,
+        "5级耐力之幻水": 60,
+        "5级意力之幻水": 60
+      },
+      "pengtiao_s3": {
+        "(点数素材)卓越商会特选仙子莓": 30,
+        "裸麦粉": 60,
+        "棕榈糖浆": 60
+      },
+      "caikuang_s3": {
+        "(收藏品采集)面向收藏家的红孔雀石": 70,
+        "(隐藏采集道具)改良用的火之水晶": 210
+      },
+      "yuanyi_s3": {
+        "(收藏品采集)面向收藏家的雷霆薄荷": 70,
+        "(隐藏采集道具)改良用的雷之水晶": 210
+      },
+      "diaoyu_s3": {
+        "(钓鱼-收藏品采集)镜中影": 40,
+        "(钓鱼-收藏品采集)亮片巨骨舌鱼": 40
+      },
+      "kemu_s4": {
+        "(点数素材)卓越商会特选暗栗木材": 30,
+        "红松木材": 30,
+        "亚麻帆布": 30
+      },
+      "duantie_s4": {
+        "(点数素材)卓越商会特选铋金锭": 30,
+        "白镴锭": 30,
+        "卸铁锭": 30
+      },
+      "zhujia_s4": {
+        "(点数素材)卓越商会特选钴铁板": 30,
+        "锰钢锭": 30,
+        "水晶板": 30
+      },
+      "diaojin_s4": {
+        "(点数素材)卓越商会特选灵青石材": 30,
+        "白镴锭": 30,
+        "魔银块": 30
+      },
+      "zhige_s4": {
+        "(点数素材)卓越商会特选绿飘龙革": 30,
+        "金毗罗鳄革": 30,
+        "虹茧布": 30
+      },
+      "caifeng_s4": {
+        "(点数素材)卓越商会特选疏水布": 30,
+        "锰钢锭": 30,
+        "亚麻帆布": 30
+      },
+      "lianjin_s4": {
+        "(点数素材)卓越商会特选拉凯提卡幼苗": 30,
+        "5级智力之幻水": 90,
+        "植物成长剂10型": 30
+      },
+      "pengtiao_s4": {
+        "(点数素材)卓越商会特选乌贼墨汁": 30,
+        "北洋食盐": 90,
+        "山地小麦粉": 90
+      },
+      "caikuang_s4": {
+        "(收藏品采集)面向收藏家的枯骨": 70,
+        "(隐藏采集道具)改良用的冰之水晶": 210
+      },
+      "yuanyi_s4": {
+        "(收藏品采集)面向收藏家的仙果木": 70,
+        "(隐藏采集道具)改良用的风之水晶": 210
+      },
+      "diaoyu_s4": {
+        "(钓鱼-收藏品采集)黄金沙遁鱼": 40,
+        "(钓鱼-收藏品采集)被宽恕的忧郁鱼": 40
+      },
+      "kemu_s5": {
+        "(点数素材)卓越商会特选暗栗木材": 30,
+        "完满木木材": 30,
+        "铁木木材": 30,
+        "锰钢锭": 30
+      },
+      "duantie_s5": {
+        "(点数素材)卓越商会特选铋金锭": 30,
+        "球粒陨石锭": 30,
+        "锰钢锭": 30,
+        "弗里金锭": 30
+      },
+      "zhujia_s5": {
+        "(点数素材)卓越商会特选钴铁板": 30,
+        "球粒陨石锭": 30,
+        "锰钢锭": 30,
+        "铁木木材": 30
+      },
+      "diaojin_s5": {
+        "(点数素材)卓越商会特选灵青石材": 30,
+        "星点石英": 30,
+        "弗里金锭": 30,
+        "锰钢锭": 30
+      },
+      "zhige_s5": {
+        "(点数素材)卓越商会特选绿飘龙革": 30,
+        "蛇牛革": 30,
+        "弗里金锭": 30,
+        "碧企鹅绵毛": 60
+      },
+      "caifeng_s5": {
+        "(点数素材)卓越商会特选疏水布": 30,
+        "迷彩绒": 30,
+        "绛红草布": 30,
+        "赛加羚羊革": 30
+      },
+      "lianjin_s5": {
+        "(点数素材)卓越商会特选拉凯提卡幼苗": 30,
+        "铁木木材": 30,
+        "5级耐力之幻水": 90,
+        "植物成长剂10型": 60
+      },
+      "pengtiao_s5": {
+        "(点数素材)卓越商会特选乌贼墨汁": 30,
+        "紫苏油": 90,
+        "加雷马奶酪": 90,
+        "高地干面": 90
+      },
+      "caikuang_s5": {
+        "(收藏品采集)面向收藏家的皇金矿": 70,
+        "(隐藏采集道具)改良用的雷之晶簇": 210
+      },
+      "yuanyi_s5": {
+        "(收藏品采集)面向收藏家的丁香花": 70,
+        "(隐藏采集道具)改良用的土之晶簇": 210
+      },
+      "diaoyu_s5": {
+        "(钓鱼-收藏品采集)油膜鱼": 40,
+        "(钓鱼-收藏品采集)贡萨洛鱼": 40
+      }
+    },
+    "CraftScripMap": {
+      "巧手白票": 1,
+      "(点数素材)卓越商会特选铁木木材": 50,
+      "(点数素材)卓越商会特选锰钢锭": 50,
+      "(点数素材)卓越商会特选纯钛板": 50,
+      "(点数素材)卓越商会特选水晶板": 50,
+      "(点数素材)卓越商会特选斯剑虎革": 50,
+      "(点数素材)卓越商会特选绛红草布": 50,
+      "(点数素材)卓越商会特选阱蛇麻的叶子": 50,
+      "(点数素材)卓越商会特选仙子莓": 50,
+      "(点数素材)卓越商会特选暗栗木材": 60,
+      "(点数素材)卓越商会特选铋金锭": 60,
+      "(点数素材)卓越商会特选钴铁板": 60,
+      "(点数素材)卓越商会特选灵青石材": 60,
+      "(点数素材)卓越商会特选绿飘龙革": 60,
+      "(点数素材)卓越商会特选疏水布": 60,
+      "(点数素材)卓越商会特选拉凯提卡幼苗": 60,
+      "(点数素材)卓越商会特选乌贼墨汁": 60
+    },
+    "TranslateMapJp": {
+      "(点数素材)卓越商会特选铁木木材": "(点数素材)モーエン商会特選アイアンウッド材",
+      "(点数素材)卓越商会特选水晶板": "(点数素材)モーエン商会特選クリスタルガラス",
+      "(点数素材)卓越商会特选斯剑虎革": "(点数素材)モーエン商会特選スミロドンレザー",
+      "(点数素材)卓越商会特选纯钛板": "(点数素材)モーエン商会特選チタンプレート",
+      "(点数素材)卓越商会特选仙子莓": "(点数素材)モーエン商会特選ピクシーベリー",
+      "(点数素材)卓越商会特选阱蛇麻的叶子": "(点数素材)モーエン商会特選ホップトラップの葉",
+      "(点数素材)卓越商会特选锰钢锭": "(点数素材)モーエン商会特選マンガンインゴット",
+      "(点数素材)卓越商会特选绛红草布": "(点数素材)モーエン商会特選紅草布",
+      "(收藏品采集)面向收藏家的红孔雀石": "(收藏品采集)好事家向けの紅孔雀石",
+      "(收藏品采集)面向收藏家的彩虹晶": "(收藏品采集)好事家向けの虹結晶",
+      "(收藏品采集)面向收藏家的雷霆薄荷": "(收藏品采集)好事家向けのライトニングミント",
+      "(收藏品采集)面向收藏家的硬质金合欢树皮": "(收藏品采集)好事家向けのハードワットル樹皮",
+      "(隐藏采集道具)改良用的火之水晶": "(隐藏采集道具)改良用のファイアクリスタル",
+      "(隐藏采集道具)改良用的雷之水晶": "(隐藏采集道具)改良用のライトニングクリスタル",
+      "(隐藏采集道具)改良用的水之碎晶": "(隐藏采集道具)改良用のウォーターシャード",
+      "(隐藏采集道具)改良用的土之碎晶": "(隐藏采集道具)改良用のアースシャード",
+      "(钓鱼-收藏品采集)白金海马": "(钓鱼-收藏品采集)プラチナホース",
+      "(钓鱼-收藏品采集)击木灯塔守卫": "(钓鱼-收藏品采集)クレイヴキーパー",
+      "(钓鱼-收藏品采集)镜中影": "(钓鱼-收藏品采集)手鏡の残像",
+      "(钓鱼-收藏品采集)亮片巨骨舌鱼": "(钓鱼-收藏品采集)シークインピラルク",
+      "5级耐力之幻水": "活力の幻水G5",
+      "5级意力之幻水": "心力の幻水G5",
+      "阿尔马斯提毛": "アルマスティの毛",
+      "铋矿": "蒼鉛鉱",
+      "彩蝶鳞粉": "ペタルダの鱗粉",
+      "弗里金矿": "フリギアンゴールド鉱",
+      "高山茶叶": "シデリティス茶葉",
+      "裸麦粉": "黒麦粉",
+      "迷彩绒": "カエアンビロード",
+      "球粒陨石锭": "コンドライトインゴット",
+      "蛇牛革": "オピオタウロスレザー",
+      "铁木原木": "アイアンウッド原木",
+      "完满木木材": "インテグラル材",
+      "星点石英": "スタークォーツ",
+      "棕榈糖浆": "パームシロップ",
+      "大地白票": "ギャザラースクリップ:白貨",
+      "巧手白票": "クラフタースクリップ:白貨",
+      "碧企鹅绵毛": "アプカルの綿毛",
+      "亚麻帆布": "リネンカンバス",
+      "水晶板": "クリスタルガラス",
+      "高地干面": "ヴァーミセリ",
+      "卸铁锭": "卸し鉄",
+      "魔银块": "マナシルバーナゲット",
+      "虹茧布": "虹繭布",
+      "植物成长剂10型": "グロースフォーミュラ・カッパ",
+      "山地小麦粉": "アップランド小麦粉",
+      "北洋食盐": "北洋食塩",
+      "紫苏油": "ペリラオイル",
+      "加雷马奶酪": "ガレアンチーズ",
+      "锰钢锭": "マンガンインゴット",
+      "白镴锭": "ピューターインゴット",
+      "弗里金锭": "フリギアンゴールドインゴット",
+      "红松木材": "レッドパイン材",
+      "铁木木材": "アイアンウッド材",
+      "绛红草布": "紅草布",
+      "5级智力之幻水": "知力の幻水G5",
+      "赛加羚羊革": "サイガレザー",
+      "金毗罗鳄革": "クンビーラレザー",
+      "(点数素材)卓越商会特选暗栗木材": "(点数素材)モーエン商会特選ダークチェスナット材",
+      "(点数素材)卓越商会特选铋金锭": "(点数素材)モーエン商会特選ビスマスインゴット",
+      "(点数素材)卓越商会特选钴铁板": "(点数素材)モーエン商会特選コバルトプレート",
+      "(点数素材)卓越商会特选灵青石材": "(点数素材)モーエン商会特選霊青材",
+      "(点数素材)卓越商会特选绿飘龙革": "(点数素材)モーエン商会特選グリーングライダーレザー",
+      "(点数素材)卓越商会特选疏水布": "(点数素材)モーエン商会特選撥水布",
+      "(点数素材)卓越商会特选拉凯提卡幼苗": "(点数素材)モーエン商会特選ラケティカの苗",
+      "(点数素材)卓越商会特选乌贼墨汁": "(点数素材)モーエン商会特選スクイッドインク",
+      "(收藏品采集)面向收藏家的枯骨": "(收藏品采集)好事家向けの枯骨",
+      "(隐藏采集道具)改良用的冰之水晶": "(隐藏采集道具)改良用のアイスクリスタル",
+      "(收藏品采集)面向收藏家的仙果木": "(收藏品采集)好事家向けのミラクルアップル",
+      "(隐藏采集道具)改良用的风之水晶": "(隐藏采集道具)改良用のウインドクリスタル",
+      "(钓鱼-收藏品采集)黄金沙遁鱼": "(钓鱼-收藏品采集)イエローサブマリナー",
+      "(钓鱼-收藏品采集)被宽恕的忧郁鱼": "(钓鱼-收藏品采集)フォーギヴン・メランコリー",
+      "(收藏品采集)面向收藏家的皇金矿": "(收藏品采集)好事家向けの皇金鉱",
+      "(隐藏采集道具)改良用的雷之晶簇": "(隐藏采集道具)改良用のライトニングクラスター",
+      "(收藏品采集)面向收藏家的丁香花": "(收藏品采集)好事家向けのクローヴ",
+      "(隐藏采集道具)改良用的冰之晶簇": "(隐藏采集道具)改良用のアースクラスター",
+      "(钓鱼-收藏品采集)油膜鱼": "(钓鱼-收藏品采集)オイルスリッカー",
+      "(钓鱼-收藏品采集)贡萨洛鱼": "(钓鱼-收藏品采集)ゴンザーロスラッグ"
+    },
+    "TranslateMapEn": {
+      "(点数素材)卓越商会特选铁木木材": "(点数素材)Select Ironwood Lumber",
+      "(点数素材)卓越商会特选水晶板": "(点数素材)Select Crystal Glass",
+      "(点数素材)卓越商会特选斯剑虎革": "(点数素材)Select Smilodon Leather",
+      "(点数素材)卓越商会特选纯钛板": "(点数素材)Select Titanium Plate",
+      "(点数素材)卓越商会特选仙子莓": "(点数素材)Select Pixieberry",
+      "(点数素材)卓越商会特选阱蛇麻的叶子": "(点数素材)Select Hoptrap Leaf",
+      "(点数素材)卓越商会特选锰钢锭": "(点数素材)Select Manganese Ingot",
+      "(点数素材)卓越商会特选绛红草布": "(点数素材)Select Scarlet Moko Cloth",
+      "(收藏品采集)面向收藏家的红孔雀石": "(收藏品采集)Connoisseur's Red Malachite",
+      "(收藏品采集)面向收藏家的彩虹晶": "(收藏品采集)Connoisseur's Prismstone",
+      "(收藏品采集)面向收藏家的雷霆薄荷": "(收藏品采集)Connoisseur's Levin Mint",
+      "(收藏品采集)面向收藏家的硬质金合欢树皮": "(收藏品采集)Connoisseur's Wattle Petribark",
+      "(隐藏采集道具)改良用的火之水晶": "(隐藏采集道具)Adaptive Fire Crystal",
+      "(隐藏采集道具)改良用的雷之水晶": "(隐藏采集道具)Adaptive Lightning Crystal",
+      "(隐藏采集道具)改良用的水之碎晶": "(隐藏采集道具)Splendorous Water Shard",
+      "(隐藏采集道具)改良用的土之碎晶": "(隐藏采集道具)Splendorous Earth Shard",
+      "(钓鱼-收藏品采集)白金海马": "(钓鱼-收藏品采集)Platinum Seahorse",
+      "(钓鱼-收藏品采集)击木灯塔守卫": "(钓鱼-收藏品采集)Clavekeeper",
+      "(钓鱼-收藏品采集)镜中影": "(钓鱼-收藏品采集)Mirror Image",
+      "(钓鱼-收藏品采集)亮片巨骨舌鱼": "(钓鱼-收藏品采集)Spangled Pirarucu",
+      "5级活力之幻水": "Grade 5 Vitality Alkahest",
+      "5级意力之幻水": "Grade 5 Mind Alkahest",
+      "阿尔马斯提毛": "Almasty Fur",
+      "铋矿": "Bismuth Ore",
+      "彩蝶鳞粉": "Petalouda Scales",
+      "弗里金矿": "Phrygian Gold Ore",
+      "高山茶叶": "Sideritis Leaves",
+      "裸麦粉": "Dark Rye Flour",
+      "迷彩绒": "AR-Caean Velvet",
+      "球粒陨石锭": "Chondrite Ingot",
+      "蛇牛革": "Ophiotauros Leather",
+      "铁木原木": "Ironwood Log",
+      "完满木木材": "Integral Lumber",
+      "星点石英": "Star Quartz",
+      "棕榈糖浆": "Palm Syrup",
+      "大地白票": "White Gatherers' Scrip",
+      "巧手白票": "White Crafters' Scrip",
+      "碧企鹅绵毛": "Apkallu Down",
+      "亚麻帆布": "Linen Canvas",
+      "水晶板": "Crystal Glass",
+      "高地干面": "Vermicelli",
+      "卸铁锭": "Oroshigane Ingot",
+      "魔银块": "Manasilver Nugget",
+      "虹茧布": "Iridescent Silk",
+      "植物成长剂10型": "Growth Formula Kappa",
+      "山地小麦粉": "Upland Wheat Flour",
+      "北洋食盐": "Northern Sea Salt",
+      "紫苏油": "Perilla Oil",
+      "加雷马奶酪": "Garlean Cheese",
+      "锰钢锭": "Manganese Ingot",
+      "白镴锭": "Pewter Ingot",
+      "弗里金锭": "Phrygian Gold Ingot",
+      "红松木材": "Red Pine Lumber",
+      "铁木木材": "Ironwood Lumber",
+      "绛红草布": "Scarlet Moko Cloth",
+      "5级耐力之幻水": "Grade 5 Vitality Alkahest",
+      "5级智力之幻水": "Grade 5 Intelligence Alkahest",
+      "赛加羚羊革": "Saiga Leather",
+      "金毗罗鳄革": "Kumbhira Leather",
+      "(点数素材)卓越商会特选暗栗木材": "(点数素材)Select Dark Chestnut Lumber",
+      "(点数素材)卓越商会特选铋金锭": "(点数素材)Select Bismuth Ingot",
+      "(点数素材)卓越商会特选钴铁板": "(点数素材)Select Cobalt Plate",
+      "(点数素材)卓越商会特选灵青石材": "(点数素材)Select Bluespirit Tile",
+      "(点数素材)卓越商会特选绿飘龙革": "(点数素材)Select Green Glider Leather",
+      "(点数素材)卓越商会特选疏水布": "(点数素材)Select Waterproof Cloth",
+      "(点数素材)卓越商会特选拉凯提卡幼苗": "(点数素材)Select Rak'tika Seedling",
+      "(点数素材)卓越商会特选乌贼墨汁": "(点数素材)Select Squid Ink",
+      "(收藏品采集)面向收藏家的枯骨": "(收藏品采集)Connoisseur's Soiled Femur",
+      "(隐藏采集道具)改良用的冰之水晶": "(隐藏采集道具)Custom Ice Crystal",
+      "(收藏品采集)面向收藏家的仙果木": "(收藏品采集)Connoisseur's Miracle Apple",
+      "(隐藏采集道具)改良用的风之水晶": "(隐藏采集道具)Custom Wind Crystal",
+      "(钓鱼-收藏品采集)黄金沙遁鱼": "(钓鱼-收藏品采集)Gold Dustfish",
+      "(钓鱼-收藏品采集)被宽恕的忧郁鱼": "(钓鱼-收藏品采集)Forgiven Melancholy",
+      "(收藏品采集)面向收藏家的皇金矿": "(收藏品采集)Connoisseur's Aurum Regis Ore",
+      "(隐藏采集道具)改良用的雷之晶簇": "(隐藏采集道具)Brilliant Lightning Cluster",
+      "(收藏品采集)面向收藏家的丁香花": "(收藏品采集)Connoisseur's Cloves",
+      "(隐藏采集道具)改良用的冰之晶簇": "(隐藏采集道具)Brilliant Earth Cluster",
+      "(钓鱼-收藏品采集)油膜鱼": "(钓鱼-收藏品采集)Oil Slick",
+      "(钓鱼-收藏品采集)贡萨洛鱼": "(钓鱼-收藏品采集)Gonzalo's Grace"
+    }
   },
   "ItemOutIds": {
     // 6.05
@@ -33736,28 +34648,28 @@
     "研究者大地指环": 38928,
 
     // 6.4
-    "蔷薇花": 39710,
-    "黑樱桃原木": 39705,
+    "爱情花": 39710,
+    "暗樱原木": 39705,
     "软银矿": 39706,
-    "石榴色明矾": 39708,
+    "磁赤铁矿": 39708,
     "紫锂辉石原石": 39707,
-    "野芥菜": 39709,
+    "油菜花": 39709,
     "液体玻璃": 39711,
-    "萨维奈溶剂": 39712,
-    "研磨液": 39713,
+    "萨维奈助融剂": 39712,
+    "研磨油": 39713,
     "恐鳄的粗皮": 39715,
     "拉札罕棉布": 39714,
-    "炼金专用纯水": 39716,
-    "花椰菜": 39868,
-    "鲟鳇鱼子酱": 39867,
+    "炼金用纯水": 39716,
+    "球形甘蓝": 39868,
+    "鲟鱼": 39867,
     "高级孜然": 39866,
-    "深色茄子": 39865,
+    "暗色茄子": 39865,
     "火龙果": 39864,
-    "黑樱桃木材": 39717,
+    "暗樱木材": 39717,
     "软银锭": 39718,
     "紫锂辉石": 39707,
-    "恐鳄革": 39721,
-    "石榴染布": 39720,
+    "恐鳄鞣革": 39721,
+    "石榴红棉布": 39720,
     "8级刚力之幻水": 39722,
     "8级巧力之幻水": 39723,
     "8级耐力之幻水": 39724,
