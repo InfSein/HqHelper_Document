@@ -1,7 +1,7 @@
 {
-  "LatestDataVersion": 1420,
+  "LatestDataVersion": 1422,
   "OnMaintenance": false,
-  "leastPatch": "1.4.9",
-  "PatchInfo": "6.4版本新增的道具名称及其版本名更新至国服文本。\n请先更新到1.4.9或更高版本。",
-  "DetailLink": "https://bbs.nga.cn/read.php?pid=715728585"
+  "leastPatch": "1.4.10",
+  "PatchInfo": "6.40版本战斗职业的HQ绿装成品道具名称更新至国服文本。\n请先更新到1.4.10或更高版本。",
+  "DetailLink": "https://bbs.nga.cn/read.php?pid=716941896"
 }
