@@ -1,6 +1,6 @@
 {
   "Version": {
-    "DataVersion": 1422,
+    "DataVersion": 1423,
     "SupportFfPatch": "6.40",
     "ThemeLink": "https://bbs.nga.cn/read.php?tid=31596099",
     "HelpLink": "https://bbs.nga.cn/read.php?pid=605238923",
@@ -81,7 +81,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -247,7 +246,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -412,9 +410,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -580,7 +579,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -745,9 +743,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -913,7 +912,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -1078,9 +1076,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -1246,7 +1245,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -1416,9 +1414,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -1584,7 +1583,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -1749,9 +1747,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -1917,7 +1916,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -2082,9 +2080,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -2250,7 +2249,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -2415,9 +2413,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -2583,7 +2582,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -2754,9 +2752,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -2922,7 +2921,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -3087,9 +3085,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -3255,7 +3254,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -3420,9 +3418,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -3588,7 +3587,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -3753,9 +3751,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -3921,7 +3920,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -4087,9 +4085,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -4255,7 +4254,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -4420,9 +4418,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -4588,7 +4587,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -4753,9 +4751,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -4921,7 +4920,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -5086,9 +5084,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -5254,7 +5253,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -5420,9 +5418,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -5588,7 +5587,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -5761,9 +5759,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -5929,7 +5928,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -6094,9 +6092,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -6262,7 +6261,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -6399,49 +6397,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -6450,49 +6468,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -6501,49 +6539,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -6552,49 +6610,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -6603,49 +6681,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -6654,49 +6752,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -6705,49 +6823,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -6756,49 +6894,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -6812,49 +6970,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -6863,49 +7041,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -6914,49 +7112,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -6976,49 +7194,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7027,49 +7265,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7078,49 +7336,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7129,49 +7407,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -7185,49 +7483,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7236,49 +7554,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7287,49 +7625,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7338,49 +7696,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -7395,49 +7773,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7446,49 +7844,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7497,49 +7915,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7548,49 +7986,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7600,49 +8058,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7651,49 +8129,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7702,49 +8200,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7753,49 +8271,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7805,49 +8343,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7856,49 +8414,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -7907,49 +8485,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -8027,7 +8625,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -8193,22 +8790,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -8281,7 +8885,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -8447,22 +9050,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -8535,7 +9145,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -8701,22 +9310,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -8789,7 +9405,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -8955,22 +9570,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -9043,7 +9665,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -9209,22 +9830,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -9297,7 +9925,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -9463,22 +10090,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -9551,7 +10185,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -9717,22 +10350,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -9805,7 +10445,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -9971,22 +10610,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -10064,7 +10710,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -10230,22 +10875,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -10318,7 +10970,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -10484,22 +11135,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -10541,9 +11199,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -10709,22 +11368,29 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -10796,7 +11462,6 @@
                     }
                   ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -10962,7 +11627,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -11135,9 +11799,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -11303,7 +11968,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -11476,9 +12140,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -11644,7 +12309,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -11817,9 +12481,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -11985,7 +12650,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -12163,9 +12827,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -12331,7 +12996,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -12504,9 +13168,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -12672,7 +13337,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -12845,9 +13509,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -13013,7 +13678,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -13186,9 +13850,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -13354,7 +14019,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -13533,9 +14197,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -13701,7 +14366,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -13874,9 +14538,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -14042,7 +14707,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -14215,9 +14879,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -14383,7 +15048,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -14556,9 +15220,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -14724,7 +15389,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -14898,9 +15562,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -15066,7 +15731,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -15239,9 +15903,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -15407,7 +16072,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -15580,9 +16244,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -15748,7 +16413,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -15921,9 +16585,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -16089,7 +16754,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -16263,9 +16927,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -16431,7 +17096,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -16604,9 +17268,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -16772,7 +17437,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -16945,9 +17609,10 @@
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
                   "materials": [
@@ -17113,7 +17778,6 @@
                     }
                   ]
                 },
-
                 "ear": {
                   "need": true,
                   "materials": [
@@ -17258,49 +17922,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17309,49 +17993,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17360,49 +18064,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17411,49 +18135,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17462,49 +18206,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17513,49 +18277,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17564,49 +18348,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17615,49 +18419,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -17671,49 +18495,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17722,49 +18566,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17773,49 +18637,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -17835,49 +18719,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17886,49 +18790,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17937,49 +18861,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -17988,49 +18932,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -18044,49 +19008,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18095,49 +19079,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18146,49 +19150,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18197,49 +19221,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -18254,49 +19298,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18305,49 +19369,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18356,49 +19440,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18407,49 +19511,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18459,49 +19583,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18510,49 +19654,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18561,49 +19725,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18612,49 +19796,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18664,49 +19868,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18715,49 +19939,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -18766,49 +20010,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -28853,49 +30117,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -28904,49 +30188,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -28955,49 +30259,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -29006,49 +30330,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -29057,49 +30401,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -29108,49 +30472,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -29159,49 +30543,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -29210,49 +30614,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -29266,49 +30690,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -29317,49 +30761,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             },
@@ -29368,49 +30832,69 @@
               "parts": {
                 "main": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "lesser": {
                   "need": false,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "hat": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "cloth": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "glove": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "trou": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "shoe": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
-
                 "ear": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "neck": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "brace": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 },
                 "ring": {
                   "need": true,
-                  "materials": [ {} ]
+                  "materials": [
+                    {}
+                  ]
                 }
               }
             }
@@ -32459,7 +33943,6 @@
         "jpname": "ココナッツミルク",
         "enname": "Coconut Milk"
       },
-
       {
         "id": 28,
         "scrip": 0,
@@ -32961,7 +34444,6 @@
           }
         ]
       },
-
       //6.05
       {
         "patch": 1,
@@ -33068,7 +34550,6 @@
           }
         ]
       },
-
       //6.20
       {
         "patch": 2,
@@ -33175,7 +34656,6 @@
           }
         ]
       },
-
       //6.40
       {
         "patch": 3,
@@ -34163,7 +35643,7 @@
         "(点数素材)卓越商会特选乌贼墨汁": 30,
         "紫苏油": 90,
         "加雷马奶酪": 90,
-        "高地干面": 90
+        "高地干面": 60
       },
       "caikuang_s5": {
         "(收藏品采集)面向收藏家的皇金矿": 70,
@@ -34467,7 +35947,6 @@
     "巨岩灵砂": 36224,
     "巨树灵砂": 36225,
     "巨海灵砂": 36226,
-
     // 6.1
     "非挥发性炼金药": 37284,
     "艾布拉纳赛黄晶原石": 37279,
@@ -34505,7 +35984,6 @@
     "条约大地手套": 36715,
     "条约大地马裤": 36716,
     "条约大地矮靴": 36717,
-
     // 6.2
     "诃子": 37819,
     "仁面木原木": 37818,
@@ -34594,7 +36072,6 @@
     "复兴治愈项链": 37805,
     "复兴治愈手镯": 37810,
     "复兴治愈戒指": 37815,
-
     // 6.3 temp
     "黝帘石原石": 38934,
     "晨雾树皮": 38933,
@@ -34646,7 +36123,6 @@
     "研究者大地项链": 38926,
     "研究者大地手环": 38927,
     "研究者大地指环": 38928,
-
     // 6.4
     "爱情花": 39710,
     "暗樱原木": 39705,

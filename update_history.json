@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2023.10.23",
+      "ProgramVersionBefore": "1.4.10",
+      "ProgramVersionAfter": "1.4.10",
+      "DataVersionBefore": 1422,
+      "DataVersionAfter": 1423,
+      "SupportFFPatchBefore": "6.40版本",
+      "SupportFFPatchAfter": "6.40版本",
+      "Content_BugFixDetail": "修复了肝武记录器6.45版本烹调师第5阶段莫雯工具需要的“高地干面”数量的错误。",
+      "Content_FuncAddDetail": "此版本未包含功能更新。"
+    },
+    {
       "UpdateTime": "2023.09.22",
       "ProgramVersionBefore": "1.4.9",
       "ProgramVersionAfter": "1.4.10",

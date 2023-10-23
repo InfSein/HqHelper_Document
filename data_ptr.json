@@ -1,7 +1,7 @@
 {
-  "LatestDataVersion": 1422,
+  "LatestDataVersion": 1423,
   "OnMaintenance": false,
   "leastPatch": "1.4.10",
-  "PatchInfo": "6.40版本战斗职业的HQ绿装成品道具名称更新至国服文本。\n请先更新到1.4.10或更高版本。",
-  "DetailLink": "https://bbs.nga.cn/read.php?pid=716941896"
+  "PatchInfo": "修复了肝武记录器6.45版本烹调师第5阶段莫雯工具需要的“高地干面”数量的错误。\n请先更新到1.4.10或更高版本。",
+  "DetailLink": "https://bbs.nga.cn/read.php?pid=722682355"
 }
