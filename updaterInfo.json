@@ -3,11 +3,11 @@
 	"OnMaintenance": false,
 	"PatchInfo": "此版本增加了6.51版本莫雯工具(生产采集肝武)的数据。\n如果您需要使用肝武记录器功能,可以点此更新。",
 	"DetailLink": "https://bbs.nga.cn/read.php?pid=726033278",
-	"DownloadLink_Light": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/v1.4.11/hqHelper_releases.zip",
-	"DownloadLink_Full": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/v1.4.11/hqHelper_full_releases.zip",
+	"DownloadLink_Light": "https://mirror.ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/v1.4.11/hqHelper_releases.zip",
+	"DownloadLink_Full": "https://mirror.ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/v1.4.11/hqHelper_full_releases.zip",
 	"Updater_Version": 4,
-	"Updater_DownloadLink": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v4/updater.v4.zip",
+	"Updater_DownloadLink": "https://mirror.ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v4/updater.v4.zip",
 	"DotNet_Updater_Version": 5,
-	"DotNet_Updater_DownloadLink_Light": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v5a/Updater.dotnet6.light.zip",
-	"DotNet_Updater_DownloadLink_Full": "https://ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v5a/Updater.dotnet6.full.zip"
+	"DotNet_Updater_DownloadLink_Light": "https://mirror.ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v5a/Updater.dotnet6.light.zip",
+	"DotNet_Updater_DownloadLink_Full": "https://mirror.ghproxy.com/https://github.com/InfSein/HqHelper_Document/releases/download/upd.v5a/Updater.dotnet6.full.zip"
 }
