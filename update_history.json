@@ -1,6 +1,17 @@
 {
   "Histories": [
     {
+      "UpdateTime": "2023.11.08",
+      "ProgramVersionBefore": "1.4.10",
+      "ProgramVersionAfter": "1.4.11",
+      "DataVersionBefore": 1423,
+      "DataVersionAfter": 1423,
+      "SupportFFPatchBefore": "6.40版本",
+      "SupportFFPatchAfter": "6.40版本",
+      "Content_BugFixDetail": "修复了肝武记录器6.45版本烹调师第5阶段莫雯工具需要的“高地干面”数量的错误。\r\n※ 在之前，更新1423数据版本也可以解决这一问题。",
+      "Content_FuncAddDetail": "向肝武记录器中追加了6.51版本莫雯工具最终阶段的道具数据。\r\n此外，为了避免产生混淆，所有道具的前缀注释将被移除。如[(点数素材)卓越商会特选铁木木材]将被更名回[卓越商会特选铁木木材]。\r\n※ 由于Gitee Page糟糕的审核机制，今后将只能通过程序包更新来获得肝武记录器的最新数据。\r\n"
+    },
+    {
       "UpdateTime": "2023.10.23",
       "ProgramVersionBefore": "1.4.10",
       "ProgramVersionAfter": "1.4.10",

@@ -1,7 +1,7 @@
 {
-  "LatestDataVersion": 1423,
+  "LatestDataVersion": 0,
   "OnMaintenance": false,
   "leastPatch": "1.4.10",
-  "PatchInfo": "修复了肝武记录器6.45版本烹调师第5阶段莫雯工具需要的“高地干面”数量的错误。\n请先更新到1.4.10或更高版本。",
-  "DetailLink": "https://bbs.nga.cn/read.php?pid=722682355"
+  "PatchInfo": "已经不再提供数据更新。请通过程序更新进行更新。",
+  "DetailLink": "https://bbs.nga.cn/read.php?pid=726033278"
 }
